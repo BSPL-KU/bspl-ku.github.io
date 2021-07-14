@@ -1,0 +1,36 @@
+{{- define "main" -}}
+
+<article class="article">
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+    <div>
+      {{/*
+      {{ with .Param "publication" }}
+      {{ with .authors }}
+      <p>{{ . | markdownify }}</p>
+      {{ end }}
+      {{ with .source }}
+      <p style="color: rgb(147, 196, 125)">
+        {{ . | markdownify }}
+      </p>
+      {{ end }}
+      {{ with .links }}
+      <p>[<a href={{ .pubmed }} >PubMed</a> /
+      <a href={{ .scholar }} >Google Scholar</a> / 
+      <a href={{ $.Param .journal }} > Journal Site </a>]
+      </p>
+      {{ end }}
+      {{ with .notice }}
+      <p style="color: rgb(19,79,92); font-style: italic">{{ . }}</p>
+      {{ end }}
+      {{ end }}
+      */}}
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+  </div>
+</article>
+
+{{- end -}}

@@ -1,0 +1,39 @@
+.home-section .container {
+  max-width: 85% !important;
+}
+
+.article-container {
+  max-width: 85% !important;
+}
+
+@media only screen and (min-width: 1001px) {
+  .universal-wrapper {
+    max-width: 85%;
+    min-width: 85%;
+  }
+}
+
+#recent_publications .section-heading h1 {
+  margin-bottom: 1rem !important;
+  color: rgb(153, 0, 0);
+}
+
+#bspl li a {
+  color: inherit;
+}
+
+.media.stream-item img {
+  max-width: 50%;
+}
+
+.source {
+  color: rgb(147, 196, 125);
+}
+
+.notice {
+  color: rgb(19, 79, 92);
+}
+
+.text-center {
+  text-align: center;
+}
