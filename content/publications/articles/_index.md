@@ -12,4 +12,7 @@ view: 2
 header:
   caption: ""
   image: ""
+
+cascade:
+  featured: true
 ---

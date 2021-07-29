@@ -1,12 +1,6 @@
 ---
 title: "Post-doctoral fellowship for Dr. Kim"
 date: 2021-06-24
-featured: true
-
-reading_time: false # Show estimated reading time?
-share: false # Show social sharing links?
-profile: false # Show author profile?
-comments: false # Show comments?
 ---
 
 Dr. Kim, Dong-Youl recently awarded a post-doctoral fellowship from Virginia Tech to start the position this fall.
