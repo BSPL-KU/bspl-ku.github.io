@@ -39,7 +39,7 @@ If you are interested in joining our lab, please send your bio/personal statemen
 
 BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통합, 박사과정 학생 및 연구원을 모집하고 있습니다. 관심있는 분은 간단한 자기소개와 CV 등을 이메일로 보내주시고, 추가적으로 궁금한 사항을 문의하기 위한 면담을 요청해 주시기 바랍니다.
 
-![BSPL logo](//bspl.korea.ac.kr/logo_bspl_ku_funders_19dec05.png#center10)
+![BSPL logo](//bspl.korea.ac.kr/logo_bspl_ku_funders_19dec05.png#center10) 
 
 <br />
 
