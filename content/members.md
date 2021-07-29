@@ -16,7 +16,7 @@ header:
 ### Jong-Hwan Lee, Ph.D.
 
 <!-- ![Professor](//bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png) -->
-<img src='https://bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png' width=300>
+<img src='https://bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png' width=700>
 
 
 My longstanding research interests have been in the investigation of hidden information underlying sensory signals and development of efficient methods for accurate analysis of this information. My recent research has focused on the application of the artificial neural networks and/or machine learning algorithms to the neuroimaging data, such as structural MRI (sMRI), functional MRI (fMRI), and electroencephalography (EEG). In our lab, we have been working on the studies/projects such as (i) a novel application of independent vector analysis and (ii) an iterative approach of dual-regression with sparse constraints on spatial patterns of neuronal activations applying to group fMRI data processing, (iii) automated classification of thought processes measured via fMRI data, (iv) analysis of simultaneous EEG-fMRI methods and their applications to sleep-onset/epileptic-foci detection and to denoising of cryogenic pump artifact of MRI scanner, (v) real-time fMRI based neurofeedback, (vi) nicotine addiction research via neuroimaging, and (vii) an early diagnosis of neurodegenerative and/or neuropsychiatric diseases from multimodal neuroimaging using advanced methods such as deep learning/machine learning and representational similarity analysis.
