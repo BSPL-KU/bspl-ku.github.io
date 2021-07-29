@@ -1,6 +1,6 @@
 ---
 title: "[Article] natomical and functional properties of the foot and leg r+epresentation in areas 3b, 1 and 2 of primary somatosensory cortex in humans: A 7T fMRI study"
-date: 2021-07-28
+date: 2021-07-28 
 ---
 
 
