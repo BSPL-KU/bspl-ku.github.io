@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Softwares | Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/softwares/</link><atom:link href="https://bspl.korea.ac.kr/softwares/index.xml" rel="self" type="application/rss+xml"/><description>Softwares</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 BSPL</copyright><image><url>https://bspl.korea.ac.kr/media/icon_hu746e86b219933ead05b970d8e60fbf48_161589_512x512_fill_lanczos_center_3.png</url><title>Softwares</title><link>https://bspl.korea.ac.kr/softwares/</link></image><item><title>DNN (Deep Neural Network)</title><link>https://bspl.korea.ac.kr/softwares/dnn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/softwares/dnn/</guid><description>&lt;p>Deep neural network (DNN) with weight sparsity control (i.e., L1-norm regularization) improved the classification performance using whole-brain resting-state functional connectivity patterns of schizophrenia patient and healthy groups. Initializing DNN&amp;rsquo;s weights through stacked auto-encoder enhanced the classification performance as well. (Kim et al., NI, 2016). Here, we provide MATLAB and Python based codes in terms of the DNN with the weight sparsity control
+(&lt;a href="http://bspl.korea.ac.kr/DNN_weightsparsity_MATLAB.zip" target="_blank" rel="noopener">MATLAB code&lt;/a> / &lt;a href="http://bspl.korea.ac.kr/DNN_weightsparsity_python.zip" target="_blank" rel="noopener">Python code&lt;/a> download).&lt;/p>
+&lt;p>&lt;strong>Reference&lt;/strong>: Kim et al., Deep neural network with weight sparsity control and pre-training extracts hierarchical features and enhances classification performance: Evidence from whole-brain resting-state functional connectivity patterns of schizophrenia. NeuroImage. 2016 Jan.; 124(Pt A):127-46.
+[ &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Deep&amp;#43;neural&amp;#43;network&amp;#43;with&amp;#43;weight&amp;#43;sparsity&amp;#43;control&amp;#43;and&amp;#43;pre-training&amp;#43;extracts&amp;#43;hierarchical&amp;#43;features&amp;#43;and&amp;#43;enhances&amp;#43;classification&amp;#43;performance%3A&amp;#43;Evidence&amp;#43;from&amp;#43;whole-brain&amp;#43;resting-state&amp;#43;functional&amp;#43;connectivity&amp;#43;patterns&amp;#43;of&amp;#43;schizophrenia" target="_blank" rel="noopener">PubMed&lt;/a> /
+&lt;a href="https://scholar.google.co.kr/scholar?q=Kim&amp;#43;J%2C&amp;#43;Calhoun&amp;#43;VD%2C&amp;#43;Shim&amp;#43;E%2C&amp;#43;Lee&amp;#43;JH*%2C&amp;#43;Deep&amp;#43;neural&amp;#43;network&amp;#43;with&amp;#43;weight&amp;#43;sparsity&amp;#43;control&amp;#43;and&amp;#43;pre-training&amp;#43;extracts&amp;#43;hierarchical&amp;#43;features&amp;#43;and&amp;#43;enhances&amp;#43;classification&amp;#43;performance%3A&amp;#43;Evidence&amp;#43;from&amp;#43;whole-brain&amp;#43;resting-state&amp;#43;functional&amp;#43;connectivity&amp;#43;patterns&amp;#43;of&amp;#43;schizophrenia%2C&amp;#43;Neuroimage.&amp;#43;2016&amp;#43;Jan&amp;#43;1%3B124%28Pt&amp;#43;A%29%3A127-46.&amp;#43;doi%3A&amp;#43;10.1016%2Fj.neuroimage.2015.05.018.&amp;#43;Epub&amp;#43;2015&amp;#43;May&amp;#43;15.&amp;#43;&amp;amp;btnG=&amp;amp;hl=en&amp;amp;as_sdt=0%2C5" target="_blank" rel="noopener">Google Scholar&lt;/a> ]&lt;/p>
+&lt;h4 id="matlab-code-downloadhttpbsplkoreaackrdnn_weightsparsity_matlabzip">MATLAB code (&lt;a href="http://bspl.korea.ac.kr/DNN_weightsparsity_MATLAB.zip" target="_blank" rel="noopener">download&lt;/a>)&lt;/h4>
+&lt;p>Steps:&lt;/p>
+&lt;ol>
+&lt;li>Download the MATLAB code as the above link&lt;/li>
+&lt;li>Open &amp;ldquo;test_WeightSparsity.m&amp;rdquo; file and prepare/load your own data&lt;/li>
+&lt;li>Divide your own data into training and test data set (i.e. &amp;lsquo;train_x&amp;rsquo;, &amp;lsquo;train_y&amp;rsquo;, &amp;lsquo;test_x&amp;rsquo;, &amp;lsquo;test_y&amp;rsquo;)&lt;/li>
+&lt;li>Determine how many hidden layers/nodes we are going to use&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>If you have two classes and want to use two hidden layers with 100 nodes, you can set as the following:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;gt;&amp;gt; nn = nnsetup([784 100 100 2]);&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;ol start="5">
+&lt;li>Set the target weight sparsity levels at each layer (e.g. nn.nzr = [0.2 0.2]) and other parameters (e.g. learning rate, batch size etc.).&lt;/li>
+&lt;li>Run &amp;lsquo;test_WeightSparsity.m&amp;rsquo;.&lt;/li>
+&lt;li>Make sure the convergence of the weight sparsity level to the target level for each hidden layer&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>The MATLAB codes were modified from the DeepLearnToolbox to apply non-zero ratio for weight sparsity control.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="python-code-downloadhttpbsplkoreaackrdnn_weightsparsity_pythonzip">Python code (&lt;a href="http://bspl.korea.ac.kr/DNN_weightsparsity_python.zip" target="_blank" rel="noopener">download&lt;/a>)&lt;/h4>
+&lt;p>Steps:&lt;/p>
+&lt;ol>
+&lt;li>Download the MNIST data from the link&lt;/li>
+&lt;li>Set parameters (e.g., learning rate, regularization term, etc.)in the &amp;ldquo;mlp_h3.py&amp;rdquo; code&lt;/li>
+&lt;li>Run the python code using &amp;ldquo;mlp_h3.py&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>The Python codes were modified from the DeepLearningTutorials to apply non-zero ratio for weight sparsity control.&lt;/p>
+&lt;/blockquote>
+&lt;p>For any questions or comments, please contact Jong-Hwan Lee (&lt;a href="mailto:jonghwan_lee@korea.ac.kr">jonghwan_lee@korea.ac.kr&lt;/a>), Hyun-Chul Kim (&lt;a href="mailto:hyunchul_kim@korea.ac.kr">hyunchul_kim@korea.ac.kr&lt;/a>) or Hojin Jang (&lt;a href="mailto:hojin4671@gmail.com">hojin4671@gmail.com&lt;/a>).&lt;/p>
+&lt;p>Please also check out our &lt;a href="https://github.com/bsplku/dnnwsp" target="_blank" rel="noopener">github&lt;/a>!&lt;/p></description></item><item><title>ENV (Eye-tracking based Naturalistic Viewing Paradigm)</title><link>https://bspl.korea.ac.kr/softwares/env/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/softwares/env/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Software/ENV/env.png" alt="ENV" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Reference&lt;/strong>: A naturalistic viewing paradigm using 360° panoramic video clips and real-time field-of-view changes with eye-gaze tracking, NeuroImage, Vol. 216, 2020
+[&lt;a href="https://pubmed.ncbi.nlm.nih.gov/32057996/" target="_blank" rel="noopener">PubMed&lt;/a> /
+&lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=A&amp;#43;naturalistic&amp;#43;viewing&amp;#43;paradigm&amp;#43;using&amp;#43;360%C2%B0&amp;#43;panoramic&amp;#43;video&amp;#43;clips&amp;#43;and&amp;#43;real-time&amp;#43;field-of-view&amp;#43;changes&amp;#43;with&amp;#43;eye-gaze&amp;#43;tracking&amp;amp;btnG=" target="_blank" rel="noopener">Google Scholar&lt;/a>]&lt;/p>
+&lt;p>&lt;a href="https://github.com/bsplku/ENV" target="_blank" rel="noopener">Github&lt;/a>&lt;/p></description></item><item><title>iDR (Iterative Duel-Regression)</title><link>https://bspl.korea.ac.kr/softwares/idr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/softwares/idr/</guid><description>&lt;p>Iterative Dual-Regression (iDR) with sparse prior is aimed to better estimate an individual&amp;rsquo;s neuronal activation using the results of an independent component analysis (ICA) method applied to a temporally concatenated group of fMRI data (i.e., Tc-GICA method)
+(&lt;a href="http://www.nitrc.org/projects/iterdrwsp" target="_blank" rel="noopener">Download&lt;/a>).&lt;/p>
+&lt;p>&lt;strong>Reference&lt;/strong>: Kim et al., Iterative approach of dual regression with a sparse prior enhances the performance of independent component analysis for group functional magnetic resonance imaging (fMRI) data, NeuroImage 2012, 63 (4): 1864-89.
+[ &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Iterative&amp;#43;approach&amp;#43;of&amp;#43;dual&amp;#43;regression&amp;#43;with&amp;#43;a&amp;#43;sparse&amp;#43;prior&amp;#43;enhances&amp;#43;the&amp;#43;performance&amp;#43;of&amp;#43;independent&amp;#43;component&amp;#43;analysis&amp;#43;for&amp;#43;group&amp;#43;functional&amp;#43;magnetic&amp;#43;resonance&amp;#43;imaging&amp;#43;%28fMRI%29&amp;#43;data" target="_blank" rel="noopener">PubMed&lt;/a> /
+&lt;a href="https://scholar.google.com/scholar?q=Iterative&amp;#43;approach&amp;#43;of&amp;#43;dual&amp;#43;regression&amp;#43;with&amp;#43;a&amp;#43;sparse&amp;#43;prior&amp;#43;enhances&amp;#43;the&amp;#43;performance&amp;#43;of&amp;#43;independent&amp;#43;component&amp;#43;analysis&amp;#43;for&amp;#43;group&amp;#43;functional&amp;#43;magnetic&amp;#43;resonance&amp;#43;imaging&amp;#43;%28fMRI%29&amp;#43;data&amp;amp;btnG=&amp;amp;hl=en&amp;amp;lr=lang_en&amp;amp;as_sdt=0%2C5" target="_blank" rel="noopener">Google Scholar&lt;/a> ]&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Software/IDR/iDR2.png" alt="IDR" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p style="text-align: center">&lt;a href="https://www.nitrc.org/projects/iterdrwsp/">iterdrwsp&lt;/a>&lt;/p>
+&lt;p>For any questions or comments, please contact Jong-Hwan Lee (&lt;a href="mailto:jonghwan_lee@korea.ac.kr">jonghwan_lee@korea.ac.kr&lt;/a>) or Yong-Hwan Kim (&lt;a href="mailto:whiteneng@gmail.com">whiteneng@gmail.com&lt;/a>).&lt;/p></description></item><item><title>rsPCA</title><link>https://bspl.korea.ac.kr/softwares/rspca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/softwares/rspca/</guid><description>&lt;p>Recursive approach of EEG-segment-based principal component analysis (rsPCA) toolbox to eliminate helium-pump artifact in EEG data that were simultaneously acquired with fMRI data
+(&lt;a href="http://bspl.korea.ac.kr/rspca.zip" target="_blank" rel="noopener">Download&lt;/a>/&lt;a href="https://github.com/rsPCA/rspcacode" target="_blank" rel="noopener">GitHub&lt;/a>).&lt;/p>
+&lt;p>&lt;strong>Reference&lt;/strong>: Kim et al., Recursive approach of EEG segment based principal component analysis substantially reduces helium-pump artifacts of EEG data simultaneously acquired with fMRI, NeuroImage 2015, 104: 437-51
+[ &lt;a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Recursive&amp;#43;approach&amp;#43;of&amp;#43;EEG&amp;#43;segment&amp;#43;based&amp;#43;principal&amp;#43;component&amp;#43;analysis&amp;#43;substantially&amp;#43;reduces&amp;#43;helium-pump&amp;#43;artifacts&amp;#43;of&amp;#43;EEG&amp;#43;data&amp;#43;simultaneously&amp;#43;acquired&amp;#43;with&amp;#43;fMRI" target="_blank" rel="noopener">PubMed&lt;/a> /
+&lt;a href="https://scholar.google.com/scholar?q=Recursive&amp;#43;approach&amp;#43;of&amp;#43;EEG&amp;#43;segment&amp;#43;based&amp;#43;principal&amp;#43;component&amp;#43;analysis&amp;#43;substantially&amp;#43;reduces&amp;#43;helium-pump&amp;#43;artifacts&amp;#43;of&amp;#43;EEG&amp;#43;data&amp;#43;simultaneously&amp;#43;acquired&amp;#43;with&amp;#43;fMRI&amp;amp;btnG=&amp;amp;hl=en&amp;amp;lr=lang_en&amp;amp;as_sdt=0%2C5" target="_blank" rel="noopener">Google Scholar&lt;/a> ]&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://sites.google.com/site/bsplkoreauniversity/_/rsrc/1625602887601/software/rspca/main_rspca.png?height=232&amp;amp;width=400" alt="rsPCA" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>For any questions or comments, please contact Jong-Hwan Lee (&lt;a href="mailto:jonghwan_lee@korea.ac.kr">jonghwan_lee@korea.ac.kr&lt;/a>) or Hyun-Chul Kim (&lt;a href="mailto:hyunchul_kim@korea.ac.kr">hyunchul_kim@korea.ac.kr&lt;/a>).&lt;/p></description></item></channel></rss>
