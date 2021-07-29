@@ -16,7 +16,7 @@ Our main research theme is to investigate brain functions (a) measured by variou
 
 Brain engineering in healthcare applications and enhancement of human performance via NI modalities and M / DL techniques are possible?
 
-![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center50)
+![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
 
 {{<format crimson text-right no-link-color>}}
 ### [► Find out more details](/aims)
@@ -40,10 +40,10 @@ If you are interested in joining our lab, please send your bio/personal statemen
 BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통합, 박사과정 학생 및 연구원을 모집하고 있습니다. 관심있는 분은 간단한 자기소개와 CV 등을 이메일로 보내주시고, 추가적으로 궁금한 사항을 문의하기 위한 면담을 요청해 주시기 바랍니다.
 
 <!-- ![BSPL logo](//bspl.korea.ac.kr/logo_bspl_ku_funders_19dec05.png#center25) -->
-<center> <img src='https://bspl.korea.ac.kr/logo_bspl_ku_funders_19dec05.png' width=500> <center>
+<center> <img src='https://bspl.korea.ac.kr/logo_bspl_ku_funders_19dec05.png' width=300> <center>
 
 <br />
 
 {{<format text-center no-link-color>}}
-### [BSPL](//bspl.korea.ac.kr), [Department of Brain and Cognitive Engineering](//brain.korea.ac.kr/), [Colleage of Informatics](//info.korea.ac.kr/), [Korea University](//www.korea.ac.kr/)
+#### [BSPL](//bspl.korea.ac.kr), [Department of Brain and Cognitive Engineering](//brain.korea.ac.kr/), [Colleage of Informatics](//info.korea.ac.kr/), [Korea University](//www.korea.ac.kr/)
 {{</format>}}
