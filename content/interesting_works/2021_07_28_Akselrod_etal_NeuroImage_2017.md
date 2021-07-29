@@ -4,7 +4,7 @@ date: 2021-07-28
 ---
 
 
-Summary: In this paper, Lower limb somatotopy mapping was investigated whether each mapped representation also responded to the stimulation of other body parts 
+Summary: In this paper, lower limb somatotopy mapping was investigated whether each mapped representation also responded to the stimulation of other body parts 
 (i.e., response selectivity) and conducted dissimilarity analysis relating these anatomical and functional properties of S1 to the physical structure of 
 the lower limbs. They found only minor differences between the properties of the three BAs of somasensory areas (i.e., BA 3,1,2), suggesting that S1 maps for the lower limbs differ from those described for the hand. Furthermore, this paper suggested a possible homology between the first digit of upper and lower extremity in humans, and report different patterns of selectivity in the foot representations (i.e. lower selectivity) compared to the other leg representations (i.e. greater selectivity)
 
