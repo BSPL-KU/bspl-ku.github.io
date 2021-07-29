@@ -1,6 +1,6 @@
 ---
 title: Performance evaluation of nonnegative matrix factorization algorithms to estimate task-related neuronal activities from fMRI data
-date: 2020-09-24
+date: 2013-04-01
 ---
 
 X Ding, **JH Lee**, SW Lee
