@@ -44,5 +44,5 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 <br />
 
 {{<format text-center no-link-color>}}
-## [BSPL](//bspl.korea.ac.kr), [Department of Brain and Cognitive Engineering](//brain.korea.ac.kr/), [Colleage of Informatics](//info.korea.ac.kr/), [Korea University](//www.korea.ac.kr/)
+### [BSPL](//bspl.korea.ac.kr), [Department of Brain and Cognitive Engineering](//brain.korea.ac.kr/), [Colleage of Informatics](//info.korea.ac.kr/), [Korea University](//www.korea.ac.kr/)
 {{</format>}}
