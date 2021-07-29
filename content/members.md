@@ -31,7 +31,7 @@ My previous researches were (1) to measure the features from the resting-state f
 
 My interest in research is developing new analysis methods based on the interdisciplinary studies of brain signal processing and the cognitive processes, especially applying Machine learning algorithms and Deep learning techniques to the EEG and fMRI data analysis.
 
-![LJH](//bspl.korea.ac.kr/image/bspl/LJH.png)
+![LJH](//bspl.korea.ac.kr/image/bspl/LJHyeon(2).jpg)
 
 One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.
 
