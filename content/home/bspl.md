@@ -16,7 +16,7 @@ Our main research theme is to investigate brain functions (a) measured by variou
 
 Brain engineering in healthcare applications and enhancement of human performance via NI modalities and M / DL techniques are possible?
 
-![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75 =200x)
+![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center50)
 
 {{<format crimson text-right no-link-color>}}
 ### [► Find out more details](/aims)
