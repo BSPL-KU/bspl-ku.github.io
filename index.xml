@@ -356,7 +356,11 @@ Brain and Artificial Intelligence Symposium, Brain Engineering Society of Korea 
 &lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
 &lt;nav id="TableOfContents">
 &lt;ul>
-&lt;li>&lt;a href="#faculty">Faculty&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#faculty">Faculty&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#jong-hwan-lee">Jong-Hwan Lee&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>&lt;a href="#phd-candidates-and-integrated-ms-phd-candidates">PhD Candidates and Integrated MS-PhD Candidates&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#ms-candidates">MS Candidates&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#researchers">Researchers&lt;/a>&lt;/li>
@@ -371,6 +375,7 @@ Brain and Artificial Intelligence Symposium, Brain Engineering Society of Korea 
 &lt;/nav>
 &lt;/details>
 &lt;h2 id="faculty">Faculty&lt;/h2>
+&lt;h3 id="jong-hwan-lee">Jong-Hwan Lee&lt;/h3>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
