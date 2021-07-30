@@ -4,7 +4,7 @@ date: 2021-06-24
 ---
 
 
-<img src='https://bspl.korea.ac.kr/image/bspl/DrKimDY_circle.png' width=300>
+<img src='https://bspl.korea.ac.kr/image/bspl/DrKimDY_circle.png' width=200>
 
 Dr. Kim, Dong-Youl recently awarded a post-doctoral fellowship from Virginia Tech to start the position this fall.
 
