@@ -11,7 +11,7 @@ date: 2021-07-30
         </td>
         <td>
             <div style='width:2000'> 
-<p style='font-size: 20px'> Our former graduate student (currently, post-doc at Harvard Medical School) Dr. Hyun-Chul Kim will be moved to Kyungpook National University from September/2021 to become an Assistant Professor at the Department of Artificial Intelligence! </p> 
+<p style='font-size: 20px'> Our former graduate student (currently, post-doc at Harvard Medical School) Dr. Hyun-Chul Kim will move to Kyungpook National University from September/2021 to become an Assistant Professor at the Department of Artificial Intelligence! </p> 
 
 <p style='font-size: 20px'> Many congrats Dr. Kim for your achievement! </p>
 
