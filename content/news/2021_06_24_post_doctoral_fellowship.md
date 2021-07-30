@@ -6,8 +6,8 @@ date: 2021-06-24
 <table> 
     <tr>
         <td>
-            <div style='width:200'> 
-<img src='https://bspl.korea.ac.kr/image/bspl/DrKimDY_circle.png' width=200>
+            <div style='width:400'> 
+<img src='https://bspl.korea.ac.kr/image/bspl/DrKimDY_circle.png' width=400>
               </td>
         <td>
             <div style='width:700px'> 
