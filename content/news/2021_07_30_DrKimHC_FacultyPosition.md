@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kim, Hyun-Chul is a Assistant Professor at Kyungpook National University!"
+title: "Dr. Kim, Hyun-Chul is a Professor at Kyungpook National University!"
 date: 2021-07-30
 ---
 
@@ -7,11 +7,11 @@ date: 2021-07-30
     <tr>
         <td>
             <div style='width:200px'> 
-                <center> <img src='https://bspl.korea.ac.kr/image/bspl/DrKimHC_circle.png'> </center>
+                <center> <img src='https://bspl.korea.ac.kr/image/bspl/DrKimHC_circle.png' width=200> </center>
         </td>
         <td>
             <div style='width:700px'> 
-<p style='font-size: 20px'> Our former graduate student (currently, post-doc at Harvard Medical School) Dr. Hyun-Chul Kim will be moved to Kyungpook National University from September/2021 to become a Professor at the Department of Artificial Intelligence! </p> 
+<p style='font-size: 20px'> Our former graduate student (currently, post-doc at Harvard Medical School) Dr. Hyun-Chul Kim will be moved to Kyungpook National University from September/2021 to become an Assistant Professor at the Department of Artificial Intelligence! </p> 
 
 <p style='font-size: 20px'> Many congrats Dr. Kim for your achievement! </p>
 
