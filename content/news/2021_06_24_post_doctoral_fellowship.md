@@ -6,9 +6,8 @@ date: 2021-06-24
 <table> 
     <tr>
         <td>
-            <div style='width:400'> 
 <img src='https://bspl.korea.ac.kr/image/bspl/DrKimDY_circle.png' width=400>
-              </td>
+        </td>
         <td>
             <div style='width:1000'> 
 <p style='font-size: 20px'> Our former graduate student (currently, post-doc at Korea University)  Dr. Kim, Dong-Youl recently awarded a post-doctoral fellowship from Virginia Tech to start the position this fall! </p> 
