@@ -1,5 +1,5 @@
 ---
-title: "[Invited Talk] Prof. Lee gave an online talk about 'Real-Time fMRI Neurofeedback'"
+title: "Prof. Lee gave an online talk about 'Real-Time fMRI Neurofeedback'"
 date: 2021-06-26 16:30:00
 ---
 
