@@ -1,5 +1,5 @@
 ---
-title: "[Invited Talk] Prof. Lee gave an online talk at ETRI"
+title: "Prof. Lee gave an online talk at ETRI"
 date: 2021-07-22 10:00:00
 ---
 
