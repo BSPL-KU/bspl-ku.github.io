@@ -1,5 +1,5 @@
 ---
-title: "Prof. Joo, Yoonjung gave a talk in our lab on Imaging-Genetics"
+title: "Prof. Joo, Yoonjung gave a talk in our lab about genetics research"
 date: 2021-07-16
 ---
 
