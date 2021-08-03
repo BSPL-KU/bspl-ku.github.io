@@ -13,7 +13,7 @@ header:
 
 ## Faculty
 
-### Jong-Hwan Lee, Ph.D.
+### Jong-Hwan Lee (이종환), Ph.D.
 
 ![Professor](//bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png)
 <!-- <img src='https://bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png' width=1000> -->
