@@ -29,7 +29,7 @@ Brain engineering in healthcare applications and enhancement of human performanc
 {{</format>}}
 
 - [We awarded a new research grant on Imaging-Genetics!](/news/2021_06_21_ig_grant/)
-- [Dr. Kim awarded a post-doctoral fellowship! Many congrats!!](/news/2021_06_24_post_doctoral_fellowship/)
+- [Dr. Kim awarded a post-doctoral fellowship! Many congrats!!](/news/2021_06_24_drkimdy_postdoc_fellowship/)
 
 ![BSPL_news](//bspl.korea.ac.kr/image/bspl/main.png#center75)
 
