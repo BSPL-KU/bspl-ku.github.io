@@ -9,6 +9,6 @@ date: 2021-08-05
 Human Brain Mapping, Accepted
 {{</format>}}
 
-[PubMed] <!-- (https://pubmed.ncbi.nlm.nih.gov/34048901/) / -->
-[Google Scholar] <!-- (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Predictors+of+real-time+fMRI+neurofeedback+performance+and+improvement+%E2%80%93+A+machine+learning+mega-analysis&btnG=) / -->
-[Journal Home] <!-- (https://www.sciencedirect.com/science/article/pii/S1053811921004845)] -->
+[[PubMed](https://) /
+[Google Scholar](https://) /
+[Journal Home](https://)]
