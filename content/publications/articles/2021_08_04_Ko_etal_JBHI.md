@@ -1,6 +1,6 @@
 ---
 title: Acoustic simulation for transcranial focused ultrasound using GAN-based synthetic CT
-date: 2021-08-04
+date: 2021-08-03
 ---
 
 **Heekyung Koh**; Tae Young Park; Yong An Chung; **Jong-Hwan Lee**; **Hyungmin Kim**
