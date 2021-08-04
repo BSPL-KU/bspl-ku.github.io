@@ -3,7 +3,7 @@ title: Acoustic simulation for transcranial focused ultrasound using GAN-based s
 date: 2021-08-04
 ---
 
-Heekyung Koh; Tae Young Park; Yong An Chung; Jong-Hwan Lee; Hyungmin Kim
+**Heekyung Koh**; Tae Young Park; Yong An Chung; **Jong-Hwan Lee**; **Hyungmin Kim**
 
 {{<format bright-green>}}
 IEEE Journal of Biomedical and Health Informatics (J-BHI), Accepted
