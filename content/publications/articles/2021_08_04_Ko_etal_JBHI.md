@@ -1,5 +1,5 @@
 ---
-title: "Acoustic simulation for transcranial focused ultrasound using GAN-based synthetic CT"
+title: Acoustic simulation for transcranial focused ultrasound using GAN-based synthetic CT
 date: 2021-08-04
 ---
 
