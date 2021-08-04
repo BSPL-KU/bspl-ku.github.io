@@ -1,5 +1,5 @@
 ---
-title: Mixed-effects multilevel analysis followed by canonical correlation analysis is an effective fMRI tool for the investigation of idiosyncrasies
+title: "Mixed-effects multilevel analysis followed by canonical correlation analysis is an effective fMRI tool for the investigation of idiosyncrasies"
 date: 2021-08-05
 ---
 
