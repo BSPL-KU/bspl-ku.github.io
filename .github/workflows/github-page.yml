@@ -13,11 +13,6 @@ jobs:
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           # fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-      
-      - name: Set Timezone
-        uses: szenius/set-timezone@v1.0
-        with:
-          timezoneLinux: "Asia/Seoul"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -26,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo -F --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
