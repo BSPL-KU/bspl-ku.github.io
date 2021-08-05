@@ -3,7 +3,7 @@ title: "Mixed-effects multilevel analysis followed by canonical correlation anal
 date: 2021-08-04
 ---
 
-**Sungman Jo**; **Hyun-Chul Kim**; **Niv Lustig**; Gang Chen; **Jong-Hwan Lee**
+**Sungman Jo**; Hyun-Chul Kim; Niv Lustig; Gang Chen; **Jong-Hwan Lee**
 
 {{<format bright-green>}}
 Human Brain Mapping, Accepted
