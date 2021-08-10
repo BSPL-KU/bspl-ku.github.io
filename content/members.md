@@ -28,35 +28,35 @@ My previous researches were (1) to measure the features from the resting-state f
 
 ## PhD Candidates and Integrated MS-PhD Candidates
 
-![Hanh](//bspl.korea.ac.kr/image/bspl/Hanh.png)
+![Hanh](//bspl.korea.ac.kr/image/bspl/Hanh.jpg)
 
 My interest in research is developing new analysis methods based on the interdisciplinary studies of brain signal processing and the cognitive processes, especially applying Machine learning algorithms and Deep learning techniques to the EEG and fMRI data analysis.
 
-![LJH](//bspl.korea.ac.kr/image/bspl/LJHyeon(2).jpg)
+![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.jpg)
 
 One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.
 
-![LCH](//bspl.korea.ac.kr/image/bspl/LCH.png)
+![LCH](//bspl.korea.ac.kr/image/bspl/LCH.jpg)
 
 I'm interested in developing algorithms to figure out how cognitive processes work by using fMRI data.
 
-![SSY](//bspl.korea.ac.kr/image/bspl/SSY.png)
+![SSY](//bspl.korea.ac.kr/image/bspl/SSY.jpg)
 
 I am trying to find links between neuroscience and deep learning. My research topics are mainly focused on how techniques from deep learning (such as attention mechanism) are related to the patterns of brain activity, and how the information from brain signal data can be applied to construct deep learning models.
 
-![HJW](//bspl.korea.ac.kr/image/bspl/HJW.png)
+![HJW](//bspl.korea.ac.kr/image/bspl/HJW.jpg)
 
 My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
 
-![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
+![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.jpg)
 
 My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri.
 
-![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
+![CMS](//bspl.korea.ac.kr/image/bspl/CMS.jpg)
 
 My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
-![KJE](//bspl.korea.ac.kr/image/bspl/KJE.png)
+![KJE](//bspl.korea.ac.kr/image/bspl/KJE.jpg)
 
 I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
@@ -64,19 +64,19 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 ## MS Candidates
 
-![JMY](//bspl.korea.ac.kr/image/bspl/JMY.png)
+![JMY](//bspl.korea.ac.kr/image/bspl/JMY.jpg)
 
 I'm interested in the relevance between brain and computational model expecting complementary insight on both domains. Mostly, I investigate visual information processing and utilize Deep Neural Networks(DNNs), especially CNNs, for the analysis.
 
-![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
+![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.jpg)
 
 I am interested in Audio signal processing and Emotion processing with fMRI-EEG.
 
-![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
+![HJD](//bspl.korea.ac.kr/image/bspl/HJD.jpg)
 
 I'm interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.
 
-![JYJ](//bspl.korea.ac.kr/image/bspl/JYJ.png)
+![JYJ](//bspl.korea.ac.kr/image/bspl/JYJ.jpg)
 
 I am interested in human decision making and how individual's psychopathological symptoms affects one's choice by using EEG-fmri.
 
@@ -84,15 +84,15 @@ I am interested in human decision making and how individual's psychopathological
 
 ## Researchers
 
-![JSM](//bspl.korea.ac.kr/image/bspl/JSM.png)
+![JSM](//bspl.korea.ac.kr/image/bspl/JSM.jpg)
 
 I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine.
 
-![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
+![JSS](//bspl.korea.ac.kr/image/bspl/JSS.pg)
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
-![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
+![JSH](//bspl.korea.ac.kr/image/bspl/JSH.jpg)
 
 I am interested in integrating genetics and brain imaging for mental disorders.
 
@@ -100,7 +100,7 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 
 ## Lab Manager
 
-![KJH](//bspl.korea.ac.kr/image/bspl/JHK.png)
+![KJH](//bspl.korea.ac.kr/image/bspl/KJH.jpg)
 
 <br />
 
