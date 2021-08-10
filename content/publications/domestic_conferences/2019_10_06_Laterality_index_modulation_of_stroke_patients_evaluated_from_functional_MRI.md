@@ -1,9 +1,9 @@
 ---
 title: "Laterality index modulation of stroke patients evaluated from functional MRI"
-date: 2019-10-06
+date: 2019-10-06 00:38:00
 ---
 
-Kim DY, Park MJ, Kim YH, Kang KH, Lee JH
+Kim DY, Park MJ, Kim YH, Kang KH, Lee JH
 
 {{<format bright-green>}}
 Korean Society of Biomechanics, Oct/2019
@@ -12,3 +12,4 @@ Korean Society of Biomechanics, Oct/2019
 {{<format teal>}}
 _[Best Poster Award]_
 {{</format>}}
+
