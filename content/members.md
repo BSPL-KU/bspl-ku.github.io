@@ -20,43 +20,23 @@ header:
 
 My longstanding research interests have been in the investigation of hidden information underlying sensory signals and development of efficient methods for accurate analysis of this information. My recent research has focused on the application of the artificial neural networks and/or machine learning algorithms to the neuroimaging data, such as structural MRI (sMRI), functional MRI (fMRI), and electroencephalography (EEG). In our lab, we have been working on the studies/projects such as (i) a novel application of independent vector analysis and (ii) an iterative approach of dual-regression with sparse constraints on spatial patterns of neuronal activations applying to group fMRI data processing, (iii) automated classification of thought processes measured via fMRI data, (iv) analysis of simultaneous EEG-fMRI methods and their applications to sleep-onset/epileptic-foci detection and to denoising of cryogenic pump artifact of MRI scanner, (v) real-time fMRI based neurofeedback, (vi) nicotine addiction research via neuroimaging, and (vii) an early diagnosis of neurodegenerative and/or neuropsychiatric diseases from multimodal neuroimaging using advanced methods such as deep learning/machine learning and representational similarity analysis.
 
-![KDY](//bspl.korea.ac.kr/image/bspl/KDY.jpg)
-
-My previous researches were (1) to measure the features from the resting-state fMRI, (2) to examine the feasibility of modulating brain activation/connectivity via real-time fMRI neurofeedback on heavy smokers, and (3) to investigate where the brain regions are activated during the decision-making process depending on the reasoning orders. The current interest-of-researches are (1) to apply the real-time fMRI neurofeedback with a new framework to the diverse domain such as smoking addiction, social interaction, rehabilitation, and multimodality and (2) to evaluate the neuroimaging data using several methods such as GLM, ICA, RSA, MVPA, etc.
-
-<br />
+<br>
 
 ## PhD Candidates and Integrated MS-PhD Candidates
 
-![Hanh](//bspl.korea.ac.kr/image/bspl/Hanh.jpg)
-
-My interest in research is developing new analysis methods based on the interdisciplinary studies of brain signal processing and the cognitive processes, especially applying Machine learning algorithms and Deep learning techniques to the EEG and fMRI data analysis.
-
-![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.jpg)
+![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
 
 One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.
 
-![LCH](//bspl.korea.ac.kr/image/bspl/LCH.jpg)
+![LCH](//bspl.korea.ac.kr/image/bspl/LCH.png)
 
 I'm interested in developing algorithms to figure out how cognitive processes work by using fMRI data.
 
-![SSY](//bspl.korea.ac.kr/image/bspl/SSY.jpg)
+![SSY](//bspl.korea.ac.kr/image/bspl/SSY.png)
 
 I am trying to find links between neuroscience and deep learning. My research topics are mainly focused on how techniques from deep learning (such as attention mechanism) are related to the patterns of brain activity, and how the information from brain signal data can be applied to construct deep learning models.
 
-![HJW](//bspl.korea.ac.kr/image/bspl/HJW.jpg)
-
-My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
-
-![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.jpg)
-
-My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri.
-
-![CMS](//bspl.korea.ac.kr/image/bspl/CMS.jpg)
-
-My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
-
-![KJE](//bspl.korea.ac.kr/image/bspl/KJE.jpg)
+![KJE](//bspl.korea.ac.kr/image/bspl/KJE.png)
 
 I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
@@ -64,11 +44,19 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 ## MS Candidates
 
-![JMY](//bspl.korea.ac.kr/image/bspl/JMY.jpg)
+![HJW](//bspl.korea.ac.kr/image/bspl/HJW.png)
 
-I'm interested in the relevance between brain and computational model expecting complementary insight on both domains. Mostly, I investigate visual information processing and utilize Deep Neural Networks(DNNs), especially CNNs, for the analysis.
+My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
 
-![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.jpg)
+![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
+
+My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri.
+
+![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
+
+My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
+
+![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
 
 I am interested in Audio signal processing and Emotion processing with fMRI-EEG.
 
@@ -88,7 +76,7 @@ I am interested in human decision making and how individual's psychopathological
 
 I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine.
 
-![JSS](//bspl.korea.ac.kr/image/bspl/JSS.pg)
+![JSS](//bspl.korea.ac.kr/image/bspl/JSS.jpg)
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
@@ -108,8 +96,17 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 
 ### Graduate students
 
+**Minyoung Jung, M.S., Aug/2021** <br />
+<!-- Currently job searching -->
+<!-- ![JMY](//bspl.korea.ac.kr/image/bspl/JMY.jpg)
+
+I'm interested in the relevance between brain and computational model expecting complementary insight on both domains. Mostly, I investigate visual information processing and utilize Deep Neural Networks(DNNs), especially CNNs, for the analysis. -->
+
 **Dong-Youl Kim, Ph.D., Feb/2021** <br />
-Research Professor, Korea University
+Postdoctoral Fellow, Fralin Biomedical Research Institute at Virginia Tech Carilion
+<!-- ![KDY](//bspl.korea.ac.kr/image/bspl/KDY.jpg)
+
+My previous researches were (1) to measure the features from the resting-state fMRI, (2) to examine the feasibility of modulating brain activation/connectivity via real-time fMRI neurofeedback on heavy smokers, and (3) to investigate where the brain regions are activated during the decision-making process depending on the reasoning orders. The current interest-of-researches are (1) to apply the real-time fMRI neurofeedback with a new framework to the diverse domain such as smoking addiction, social interaction, rehabilitation, and multimodality and (2) to evaluate the neuroimaging data using several methods such as GLM, ICA, RSA, MVPA, etc. -->
 
 **Niv Lustig, M.S., Aug/2020** <br />
 Currently job searching in Israel
@@ -210,6 +207,11 @@ Currently at Graduate School of Medicine
 **Hanh Vu, M.S. (Dec. 2017 - Aug. 2018)** <br />
 Bio-Engineering, Pohang University of Science and Technology (POSTECH) <br />
 Currently a Ph. D. candidate at the BSPL, Department of Brain and Cognitive Engineering, Korea University
+<!-- 
+![Hanh](//bspl.korea.ac.kr/image/bspl/Hanh.jpg)
+
+My interest in research is developing new analysis methods based on the interdisciplinary studies of brain signal processing and the cognitive processes, especially applying Machine learning algorithms and Deep learning techniques to the EEG and fMRI data analysis.
+-->
 
 **Jérémy Julien (Fall/2015)** <br />
 VR & Health R&D Engineer Intern Sssilor, France
