@@ -24,18 +24,22 @@ My longstanding research interests have been in the investigation of hidden info
 
 ## PhD Candidates and Integrated MS-PhD Candidates
 
+### Juhyeon Lee (이주현)
 ![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
 
 One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.
 
+### Changha Lee (이창하)
 ![LCH](//bspl.korea.ac.kr/image/bspl/LCH.png)
 
 I'm interested in developing algorithms to figure out how cognitive processes work by using fMRI data.
 
+### Seungyeon Shin (신승연)
 ![SSY](//bspl.korea.ac.kr/image/bspl/SSY.png)
 
 I am trying to find links between neuroscience and deep learning. My research topics are mainly focused on how techniques from deep learning (such as attention mechanism) are related to the patterns of brain activity, and how the information from brain signal data can be applied to construct deep learning models.
 
+### JaeEon Kang (강재언)
 ![KJE](//bspl.korea.ac.kr/image/bspl/KJE.png)
 
 I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
@@ -44,26 +48,32 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 ## MS Candidates
 
+### Jinwoo Hong (홍진우)
 ![HJW](//bspl.korea.ac.kr/image/bspl/HJW.png)
 
 My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
 
+### Minji Park (박민지)
 ![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
 
 My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri.
 
+### Minseok Choi (최민석)
 ![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
 
 My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
+### Yeji Kim (김예지)
 ![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
 
 I am interested in Audio signal processing and Emotion processing with fMRI-EEG.
 
+### Jundong Hwang (황준동)
 ![HJD](//bspl.korea.ac.kr/image/bspl/HJD.jpg)
 
 I'm interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.
 
+### Yoo Joo Jeong (정유주)
 ![JYJ](//bspl.korea.ac.kr/image/bspl/JYJ.jpg)
 
 I am interested in human decision making and how individual's psychopathological symptoms affects one's choice by using EEG-fmri.
@@ -72,14 +82,17 @@ I am interested in human decision making and how individual's psychopathological
 
 ## Researchers
 
+### Sungman Jo (조성만)
 ![JSM](//bspl.korea.ac.kr/image/bspl/JSM.jpg)
 
 I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine.
 
+### Sangsoo Jin (진상수)
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.jpg)
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
+### SooHyun Jeon (전수현)
 ![JSH](//bspl.korea.ac.kr/image/bspl/JSH.jpg)
 
 I am interested in integrating genetics and brain imaging for mental disorders.
@@ -88,6 +101,7 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 
 ## Lab Manager
 
+### Jinhong Kim (김진홍)
 ![KJH](//bspl.korea.ac.kr/image/bspl/KJH.jpg)
 
 <br />
