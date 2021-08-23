@@ -69,12 +69,12 @@ My research interest is image signal processing with deep-learning and neuroplas
 I am interested in Audio signal processing and Emotion processing with fMRI-EEG.
 
 ### Jundong Hwang (황준동)
-![HJD](//bspl.korea.ac.kr/image/bspl/HJD.jpg)
+![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
 
 I'm interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.
 
 ### Yoo Joo Jeong (정유주)
-![JYJ](//bspl.korea.ac.kr/image/bspl/JYJ.jpg)
+![JYJ](//bspl.korea.ac.kr/image/bspl/JYJ.png)
 
 I am interested in human decision making and how individual's psychopathological symptoms affects one's choice by using EEG-fmri.
 
@@ -83,17 +83,17 @@ I am interested in human decision making and how individual's psychopathological
 ## Researchers
 
 ### Sungman Jo (조성만)
-![JSM](//bspl.korea.ac.kr/image/bspl/JSM.jpg)
+![JSM](//bspl.korea.ac.kr/image/bspl/JSM.png)
 
 I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine.
 
 ### Sangsoo Jin (진상수)
-![JSS](//bspl.korea.ac.kr/image/bspl/JSS.jpg)
+![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
 ### SooHyun Jeon (전수현)
-![JSH](//bspl.korea.ac.kr/image/bspl/JSH.jpg)
+![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
 
 I am interested in integrating genetics and brain imaging for mental disorders.
 
@@ -102,7 +102,7 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 ## Lab Manager
 
 ### Jinhong Kim (김진홍)
-![KJH](//bspl.korea.ac.kr/image/bspl/KJH.jpg)
+![KJH](//bspl.korea.ac.kr/image/bspl/KJH.png)
 
 <br />
 
