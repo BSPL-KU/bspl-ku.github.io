@@ -9,8 +9,6 @@ date: 2021-08-03
 IEEE Journal of Biomedical and Health Informatics (J-BHI), Accepted
 {{</format>}}
 
-<!---
-[[PubMed](https://) / 
-[Google Scholar](https://) /
-[Journal Home](https://)]
--->
+[[PubMed](https://pubmed.ncbi.nlm.nih.gov/34388098/) / 
+[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Acoustic+simulation+for+transcranial+focused+ultrasound+using+GAN-based+synthetic+CT&btnG=) /
+[Journal Home](https://ieeexplore.ieee.org/document/9513594)]
