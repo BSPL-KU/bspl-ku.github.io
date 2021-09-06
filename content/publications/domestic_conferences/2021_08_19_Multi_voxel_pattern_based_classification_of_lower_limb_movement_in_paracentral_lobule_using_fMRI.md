@@ -3,7 +3,7 @@ title: "Multi-voxel pattern-based classification of lower limb movement in parac
 date: 2021-08-19 00:00:00
 ---
 
-Choi Minseok, Kim DY, Park MJ, Jo SM, Youn IC, Lee SJ, Lee JH
+Minseok Choi, Dong-Youl Kim, Minji Park, Sungman Jo, Inchan Youn, Songjoo Lee, Jong-Hwan Lee
 
 {{<format bright-green>}}
 Brain and Artificial Intelligence Symposium, Brain Engineering Society of Korea (BESK), Aug/2021
