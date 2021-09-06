@@ -3,7 +3,7 @@ title: "Estimating HRF Using Independent Components from Simultaneous EEG and fM
 date: 2021-08-19 00:00:00
 ---
 
-Jundong Hwang, Niv Lustig, Wangwon Lee, Minyoung Jeong, Jong-hwan Lee
+Jae-Eon Kang, Chang-Ha Lee, Ye-Ji Kim, Yoo-Joo Jeong, Jong-hwan Lee
 
 {{<format bright-green>}}
 Brain and Artificial Intelligence Symposium, Brain Engineering Society of Korea (BESK), Aug/2021
