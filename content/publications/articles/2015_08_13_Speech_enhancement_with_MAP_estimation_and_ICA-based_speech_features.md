@@ -1,6 +1,6 @@
 ---
 title: "Speech enhancement with MAP estimation and ICA-based speech features"
-date: 2015-08-13 00:15:00
+date: 2000-08-17 00:15:00
 ---
 
 Lee JH, Jung HY, Lee TW, Lee SY
