@@ -78,24 +78,20 @@ I'm interested in early diagnosis of several psychiatric disorders such as depre
 
 I am interested in human decision making and how individual's psychopathological symptoms affects one's choice by using EEG-fmri.
 
+### SooHyun Jeon (전수현)
+![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
+
+I am interested in integrating genetics and brain imaging for mental disorders.
+
+
 <br />
 
 ## Researchers
-
-### Sungman Jo (조성만)
-![JSM](//bspl.korea.ac.kr/image/bspl/JSM.png)
-
-I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine.
 
 ### Sangsoo Jin (진상수)
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
-
-### SooHyun Jeon (전수현)
-![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
-
-I am interested in integrating genetics and brain imaging for mental disorders.
 
 <br />
 
@@ -127,9 +123,14 @@ Currently job searching in Israel
 
 **Sungman Jo, M.S., Aug/2020** <br />
 Currently Researcher at Brain Engineering Institute, Korea University
+<!-- ### Sungman Jo (조성만)
+![JSM](//bspl.korea.ac.kr/image/bspl/JSM.png)
+
+I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine. -->
 
 **Hyun-Chul Kim, Ph.D., Feb/2019** <br />
-Research Fellow, Brigham and Women's Hospital, Harvard Medical School, Boston
+Assistant Professor, Kyungpook National University
+<!-- Research Fellow, Brigham and Women's Hospital, Harvard Medical School, Boston -->
 
 **DaWoon Heo, M.S. Feb/2018** <br />
 Researcher at KIST 
