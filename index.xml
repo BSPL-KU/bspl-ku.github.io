@@ -2869,13 +2869,12 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;li>&lt;a href="#yeji-kim-김예지">Yeji Kim (김예지)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jundong-hwang-황준동">Jundong Hwang (황준동)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#yoo-joo-jeong-정유주">Yoo Joo Jeong (정유주)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#soohyun-jeon-전수현">SooHyun Jeon (전수현)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#researchers">Researchers&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#sungman-jo-조성만">Sungman Jo (조성만)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#soohyun-jeon-전수현">SooHyun Jeon (전수현)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#lab-manager">Lab Manager&lt;/a>
@@ -2986,24 +2985,6 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in human decision making and how individual&amp;rsquo;s psychopathological symptoms affects one&amp;rsquo;s choice by using EEG-fmri.&lt;/p>
-&lt;p>&lt;br />&lt;/p>
-&lt;h2 id="researchers">Researchers&lt;/h2>
-&lt;h3 id="sungman-jo-조성만">Sungman Jo (조성만)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/JSM.png" alt="JSM" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine.&lt;/p>
-&lt;h3 id="sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/JSS.png" alt="JSS" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.&lt;/p>
 &lt;h3 id="soohyun-jeon-전수현">SooHyun Jeon (전수현)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -3012,6 +2993,16 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in integrating genetics and brain imaging for mental disorders.&lt;/p>
+&lt;p>&lt;br />&lt;/p>
+&lt;h2 id="researchers">Researchers&lt;/h2>
+&lt;h3 id="sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/JSS.png" alt="JSS" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.&lt;/p>
 &lt;p>&lt;br />&lt;/p>
 &lt;h2 id="lab-manager">Lab Manager&lt;/h2>
 &lt;h3 id="jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/h3>
@@ -3036,8 +3027,12 @@ My previous researches were (1) to measure the features from the resting-state f
 Currently job searching in Israel&lt;/p>
 &lt;p>&lt;strong>Sungman Jo, M.S., Aug/2020&lt;/strong> &lt;br />
 Currently Researcher at Brain Engineering Institute, Korea University&lt;/p>
+&lt;!-- ### Sungman Jo (조성만)
+![JSM](//bspl.korea.ac.kr/image/bspl/JSM.png)
+I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine. -->
 &lt;p>&lt;strong>Hyun-Chul Kim, Ph.D., Feb/2019&lt;/strong> &lt;br />
-Research Fellow, Brigham and Women&amp;rsquo;s Hospital, Harvard Medical School, Boston&lt;/p>
+Assistant Professor, Kyungpook National University&lt;/p>
+&lt;!-- Research Fellow, Brigham and Women's Hospital, Harvard Medical School, Boston -->
 &lt;p>&lt;strong>DaWoon Heo, M.S. Feb/2018&lt;/strong> &lt;br />
 Researcher at KIST&lt;/p>
 &lt;p>&lt;strong>Wan-Joo Park, Ph. D., Aug/2016&lt;/strong> &lt;br />
