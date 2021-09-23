@@ -1,6 +1,6 @@
 ---
 title: "Binaural semi-blind dereverberation of noisy convoluted speech signals"
-date: 2015-08-13 00:24:00
+date: 2008-12-01 00:24:00
 ---
 
 Lee JH, Oh SH, Lee SY
