@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 10
 title: "Brain Signal Processing Lab"
-subtitle: "Brain Science and Engineering using Neuroimaging Modality"
+subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models"
 ---
 
 Our main research theme is to investigate brain functions (a) measured by various neuroimaging (NI) modalities such as magnetic resonance imaging (MRI) and electroencephalography (EEG) and (b) analyzed by various machine learning and deep learning (ML/DL) techniques. We believe that the corresponding findings can be gainfully applied to potential applications such as health care systems and enhancement of human performance.
