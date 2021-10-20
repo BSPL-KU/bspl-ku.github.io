@@ -8,4 +8,4 @@ Summary: The authors proposed a deep learning based training scheme, inspired by
 
 
 
-[Dinsdale, N. K., Jenkinson, M., & Namburete, A. I. (2021). Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal. NeuroImage, 228, 117689.](https://www.biorxiv.org/content/10.1101/2020.10.09.332973v1) <br/>
+[Dinsdale, N. K., Jenkinson, M., & Namburete, A. I. (2021). Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal. NeuroImage, 228, 117689.](https://www.sciencedirect.com/science/article/pii/S1053811920311745) <br/>
