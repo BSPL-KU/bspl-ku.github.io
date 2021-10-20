@@ -8,4 +8,4 @@ Summary: The authors proposed a deep learning based training scheme, inspired by
 
 
 
-[Bao, P., She, L., McGill, M., & Tsao, D. Y. (2020). A map of object space in primate inferotemporal cortex. Nature, 583(7814), 103-108.](https://www.biorxiv.org/content/10.1101/2020.10.09.332973v1) <br/>
+[Dinsdale, N. K., Jenkinson, M., & Namburete, A. I. (2021). Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal. NeuroImage, 228, 117689.](https://www.biorxiv.org/content/10.1101/2020.10.09.332973v1) <br/>
