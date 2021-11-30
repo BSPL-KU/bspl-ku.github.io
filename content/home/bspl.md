@@ -51,6 +51,14 @@ Brain engineering in healthcare applications and enhancement of human performanc
 
 <br />
 
+{{<format crimson text-center>}}
+# Upcoming Conferences and Meetings
+{{</format>}}
+
+- [OHBM 2022, Glasgow, Scotland, June 19 - 23, 2022!](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4112)
+
+<br />
+
 ![BSPL_news](//bspl.korea.ac.kr/image/bspl/main.png#center75)
 
 <br />
