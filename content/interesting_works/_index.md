@@ -1,5 +1,5 @@
 ---
-title: Interesting Works and Meetings
+title: Interesting Works
 cms_exclude: true
 
 # View.
