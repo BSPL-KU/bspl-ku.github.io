@@ -1,9 +1,9 @@
 ---
 title: "KHBM 2021 Poster Award for Jinwoo"
-date: 2021-11-06 
+date: 2021-11-25 
 ---
 
-Jinwoo received a Poster Award at the KHBM 2021 (only 10% out of approximately over 60 Posters).
+Jinwoo received a Poster Award at the KHBM 2021 (Nov. 5 - 6; only 10% out of approximately over 60 Posters).
 
 Congratulations and keep up the good work!
 
