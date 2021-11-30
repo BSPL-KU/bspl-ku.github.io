@@ -7,5 +7,5 @@ Jinwoo received a Poster Award at the KHBM 2021 (only 10% out of approximately o
 
 Congratulations and keep up the good work!
 
-![Image](//bspl.korea.ac.kr/Board/Gallery/2021/JinWooHong_KHBM2021_Award.jpeg)
+![Image](//bspl.korea.ac.kr/Board/Gallery/2021/JinWooHong_KHBM2021_Award.jpg)
 
