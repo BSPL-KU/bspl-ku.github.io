@@ -28,7 +28,7 @@ Brain engineering in healthcare applications and enhancement of human performanc
 # Lab news
 {{</format>}}
 
-- [Jinwoo received a Poster Award at KHBM 2021! Many congratulations!!](/news/2021_11_06_jinWoo_khbm_posteraward/)
+- [Jinwoo received a Poster Award at KHBM 2021! Many congratulations!!](/news/2021_11_06_jinwoo_khbm_posteraward/)
 - [We awarded a new research grant on Imaging-Genetics!](/news/2021_06_21_ig_grant/)
 - [Dr. Kim awarded a post-doctoral fellowship! Many congrats!!](/news/2021_06_24_drkimdy_postdoc_fellowship/)
 - [We have recently gone through two weeks of the BSPL seminar series! Please check out in the Lab News tab including this (Feb. 27, 2021)](/news/2021_02_27_prof-lee-syoung_kaist_seminar/)
