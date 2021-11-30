@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/</link><atom:link href="https://bspl.korea.ac.kr/index.xml" rel="self" type="application/rss+xml"/><description>Brain Signal Processing Lab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 BSPL</copyright><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate><image><url>https://bspl.korea.ac.kr/media/icon_hu746e86b219933ead05b970d8e60fbf48_161589_512x512_fill_lanczos_center_3.png</url><title>Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/</link></image><item><title>[Article] Dynamic functional connectivity markers of objective trait mindfulness.</title><link>https://bspl.korea.ac.kr/interesting_works/2021_10_27_lim_et_al_neuroiamge_2021/</link><pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_10_27_lim_et_al_neuroiamge_2021/</guid><description>&lt;p>Summary: The goal of study is to identify the differences in dynamic functional connectivity according to the trait mindfulness. They found the high mindfulness trait group showed more strong within-network connectivity in the DMN and the salience network than the low mindfulness trait group.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/</link><atom:link href="https://bspl.korea.ac.kr/index.xml" rel="self" type="application/rss+xml"/><description>Brain Signal Processing Lab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 BSPL</copyright><lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><image><url>https://bspl.korea.ac.kr/media/icon_hu746e86b219933ead05b970d8e60fbf48_161589_512x512_fill_lanczos_center_3.png</url><title>Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/</link></image><item><title>KHBM Poster Award for Jinwoo</title><link>https://bspl.korea.ac.kr/news/2021_11_06_jinwoo_khbm_posteraward/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_11_06_jinwoo_khbm_posteraward/</guid><description>&lt;p>Jinwoo received a Poster Award at the KHBM 2021 (only 10% out of approximately over 60 Posters).&lt;/p>
+&lt;p>Congratulations and keep up the good work!&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/2021/JinWooHong_KHBM2021_Award_1.png" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/2021/JinWooHong_KHBM2021_Award_2.png" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>[Article] Dynamic functional connectivity markers of objective trait mindfulness.</title><link>https://bspl.korea.ac.kr/interesting_works/2021_10_27_lim_et_al_neuroiamge_2021/</link><pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_10_27_lim_et_al_neuroiamge_2021/</guid><description>&lt;p>Summary: The goal of study is to identify the differences in dynamic functional connectivity according to the trait mindfulness. They found the high mindfulness trait group showed more strong within-network connectivity in the DMN and the salience network than the low mindfulness trait group.&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S1053811918303665" target="_blank" rel="noopener">Lim, J., Teng, J., Patanaik, A., Tandi, J., &amp;amp; Massar, S. A. (2018). Dynamic functional connectivity markers of objective trait mindfulness. NeuroImage, 176, 193-202.&lt;/a> &lt;br/>&lt;/p></description></item><item><title>[Article] Integrated 3D motion analysis with functional magnetic resonance neuroimaging to identify neural correlates of lower extremity movement.</title><link>https://bspl.korea.ac.kr/interesting_works/2021_10_13_dinsdale_et_al_journalofneurosciencemethods_2021/</link><pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_10_13_dinsdale_et_al_journalofneurosciencemethods_2021/</guid><description>&lt;p>Summary: Collected knee biomechanics.using an MRI-compatible motion capture system. The study shows promise for the MRI-compatible system to capture lower-extremity biomechanical data collected concurrently during fMRI, and the present data identified potentially unique neural drivers of aberrant biomechanics.&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S0165027021000431" target="_blank" rel="noopener">Anand, M., Diekfuss, J. A., Slutsky-Ganesh, A. B., Grooms, D. R., Bonnette, S., Foss, K. D. B., &amp;hellip; &amp;amp; Myer, G. D. (2021). Integrated 3D motion analysis with functional magnetic resonance neuroimaging to identify neural correlates of lower extremity movement. Journal of Neuroscience Methods, 355, 109108.&lt;/a> &lt;br/>&lt;/p></description></item><item><title>[Article] Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal.</title><link>https://bspl.korea.ac.kr/interesting_works/2021_10_06_dinsdale_et_al_neuroimage_2021/</link><pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_10_06_dinsdale_et_al_neuroimage_2021/</guid><description>&lt;p>Summary: The authors proposed a deep learning based training scheme, inspired by domain adaptation techniques. It is similar to my current study, but this study proposed a consecutive training process since they assumed that they may not know main task label (i.e., prediction target such as age, gender, p-factor) even they can know all available domain label (e.g., site, scanner). It would be good to present this paper because this paper has a similar, but different point of view for dealing with the scanner-effect.&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S1053811920311745" target="_blank" rel="noopener">Dinsdale, N. K., Jenkinson, M., &amp;amp; Namburete, A. I. (2021). Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal. NeuroImage, 228, 117689.&lt;/a> &lt;br/>&lt;/p></description></item><item><title>[Article] A map of object space in primate inferotemporal cortex.</title><link>https://bspl.korea.ac.kr/interesting_works/2021_09_29_bao_etal_nature_2020/</link><pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_09_29_bao_etal_nature_2020/</guid><description>&lt;p>Summary: The authors investigated the (category-selective) organization of macaque IT cortex using fMRI, microstimulation, electrophysiology. A total of 51 objects each presented at 24 views belonging to 6 different categories. The fc6 output of AlexNet for object classification was PCA decomposed and used as an object space. Pooling responses across face, body, NML, and stubby networks enabled reasonable reconstruction of general objects demonstrating the importance of these four networks in object representation.&lt;/p>
@@ -685,8 +696,8 @@ ACVYS 2018/May, Seoul, South Korea
 IEEE Access, 2018, Apr 17, 6, 22324 - 22331, doi: 10.1109/ACCESS.2018.2827023
 &lt;/div>
 &lt;p>[ &lt;a href="https://scholar.google.co.kr/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=Gamma&amp;#43;EEG&amp;#43;Correlates&amp;#43;of&amp;#43;Haptic&amp;#43;Preferences&amp;#43;for&amp;#43;a&amp;#43;Dial&amp;#43;Interface&amp;amp;btnG=" target="_blank" rel="noopener">Google Scholar&lt;/a> / &lt;a href="https://ieeexplore.ieee.org/document/8340106" target="_blank" rel="noopener">Journal Home&lt;/a> ]&lt;/p></description></item><item><title>OHBM 2018 Travel Award (Dong-Youl Kim)</title><link>https://bspl.korea.ac.kr/news/2018_03_24_ohbm_2018_travel_award_dong-youl_kim/</link><pubDate>Sat, 24 Mar 2018 05:18:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2018_03_24_ohbm_2018_travel_award_dong-youl_kim/</guid><description>&lt;p>OHBM 2018 Travel Stipend Recipients &lt;/p>
-&lt;p>&lt;br />
-Andrea Sánchez Corzo&lt;/p>
+&lt;br />
+Andrea Sánchez Corzo
 &lt;p>Raúl Rodríguez Cruces&lt;/p>
 &lt;p>Dong-Youl Kim&lt;/p>
 &lt;p>Ana Martinez&lt;/p>
@@ -819,18 +830,18 @@ Annual meeting of Organisation for Human Brain Mapping, Korea Chapter, Korean So
 &lt;/div></description></item><item><title>Test-retest reliability of dynamic resting-state functional connectivity patterns using deep neural network based classification</title><link>https://bspl.korea.ac.kr/publications/domestic_conferences/2017_11_06_test-retest_reliability_of_dynamic_resting-state_functional_connectivity_patterns_using_deep_neural_network_based_classification/</link><pubDate>Mon, 06 Nov 2017 00:32:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/domestic_conferences/2017_11_06_test-retest_reliability_of_dynamic_resting-state_functional_connectivity_patterns_using_deep_neural_network_based_classification/</guid><description>&lt;p>Lee JHyeon, Lee JH &lt;/p>
 &lt;div class="bright-green ">
 Annual meeting of Organisation for Human Brain Mapping, Korea Chapter, Korean Society for Human Brain Mapping (KHBM), Nov/2017
-&lt;/div></description></item><item><title>[Article] 'Consciousness' in the machine learning (deep learning) perspective</title><link>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</link><pubDate>Mon, 02 Oct 2017 05:38:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</guid><description>&lt;p>&lt;br />
-&lt;strong>The Consciousness Prior&lt;/strong>&lt;/p>
-&lt;p>&lt;br />
-Yoshua Bengio&lt;/p>
-&lt;p>&lt;br />
-Université de Montréal, MILA&lt;/p>
-&lt;p>&lt;br />
-September 26, 2017&lt;/p>
-&lt;p>&lt;br />
-&lt;strong>Abstract&lt;/strong>&lt;/p>
-&lt;p>&lt;br />
-A new prior is proposed for representation learning, which canbe combined with other priors in order to help disentangling abstract factorsfrom each other. It is inspired by the phenomenon of conscious-ness seen as theformation of a low-dimensional combination of a few concepts constituting aconscious thought, i.e., consciousness as awareness at a particular timeinstant. This provides a powerful constraint on the representation in that suchlow-dimensional thought vectors can correspond to statements about realitywhich are either true, highly probable, or very useful for taking decisions.The fact that a few elements of the current state can be combined into such apredictive or useful statement is a strong constraint and deviates considerablyfrom the maximum likelihood approaches to modeling data and how states unfoldin the future based on an agent&amp;rsquo;s actions. Instead of making predictions in thesensory (e.g. pixel) space, the consciousness prior allow the agent to makepredictions in the abstract space, with only a few dimensions of that spacebeing involved in each of these predictions. The consciousness prior also makesit natural to map conscious states to natural language utterances or to expressclassical AI knowledge in the form of facts and rules, although the consciousstates may be richer than what can be expressed easily in the form of asentence, a fact or a rule. &lt;/p>
+&lt;/div></description></item><item><title>[Article] 'Consciousness' in the machine learning (deep learning) perspective</title><link>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</link><pubDate>Mon, 02 Oct 2017 05:38:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</guid><description>&lt;br />
+**The Consciousness Prior**
+&lt;br />
+Yoshua Bengio
+&lt;br />
+Université de Montréal, MILA
+&lt;br />
+September 26, 2017
+&lt;br />
+**Abstract**
+&lt;br />
+A new prior is proposed for representation learning, which canbe combined with other priors in order to help disentangling abstract factorsfrom each other. It is inspired by the phenomenon of conscious-ness seen as theformation of a low-dimensional combination of a few concepts constituting aconscious thought, i.e., consciousness as awareness at a particular timeinstant. This provides a powerful constraint on the representation in that suchlow-dimensional thought vectors can correspond to statements about realitywhich are either true, highly probable, or very useful for taking decisions.The fact that a few elements of the current state can be combined into such apredictive or useful statement is a strong constraint and deviates considerablyfrom the maximum likelihood approaches to modeling data and how states unfoldin the future based on an agent's actions. Instead of making predictions in thesensory (e.g. pixel) space, the consciousness prior allow the agent to makepredictions in the abstract space, with only a few dimensions of that spacebeing involved in each of these predictions. The consciousness prior also makesit natural to map conscious states to natural language utterances or to expressclassical AI knowledge in the form of facts and rules, although the consciousstates may be richer than what can be expressed easily in the form of asentence, a fact or a rule. 
 &lt;p>&lt;a href="https://arxiv.org/pdf/1709.08568.pdf" target="_blank" rel="noopener">https://arxiv.org/pdf/1709.08568.pdf&lt;/a>&lt;/p></description></item><item><title>[NEWS] Robotic system monitors specific neurons</title><link>https://bspl.korea.ac.kr/interesting_works/2017_09_01_news_robotic_system_monitors_specific_neurons/</link><pubDate>Fri, 01 Sep 2017 11:08:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_09_01_news_robotic_system_monitors_specific_neurons/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -2939,7 +2950,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.&lt;/p>
-&lt;p>&lt;br />&lt;/p>
+&lt;br />
 &lt;h2 id="ms-candidates">MS Candidates&lt;/h2>
 &lt;h3 id="jinwoo-hong-홍진우">Jinwoo Hong (홍진우)&lt;/h3>
 &lt;p>
@@ -2997,7 +3008,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in integrating genetics and brain imaging for mental disorders.&lt;/p>
-&lt;p>&lt;br />&lt;/p>
+&lt;br />
 &lt;h2 id="researchers">Researchers&lt;/h2>
 &lt;h3 id="sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/h3>
 &lt;p>
@@ -3007,7 +3018,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.&lt;/p>
-&lt;p>&lt;br />&lt;/p>
+&lt;br />
 &lt;h2 id="lab-manager">Lab Manager&lt;/h2>
 &lt;h3 id="jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/h3>
 &lt;p>
@@ -3016,7 +3027,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/KJH.png" alt="KJH" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>&lt;br />&lt;/p>
+&lt;br />
 &lt;h2 id="alumni">Alumni&lt;/h2>
 &lt;h3 id="graduate-students">Graduate students&lt;/h3>
 &lt;p>&lt;strong>Minyoung Jung, M.S., Aug/2021&lt;/strong> &lt;br />&lt;/p>
@@ -3061,7 +3072,7 @@ Completed MS coursework&lt;/p>
 Completed MS coursework&lt;/p>
 &lt;p>&lt;strong>Wangwon Lee&lt;/strong> &lt;br />
 Completed MS coursework&lt;/p>
-&lt;p>&lt;br />&lt;/p>
+&lt;br />
 &lt;h3 id="researchers-and-research-assistants">Researchers and Research Assistants&lt;/h3>
 &lt;p>&lt;strong>JunDong Hwang (July/2020 - Feb/2021)&lt;/strong> &lt;br />
 School of Life Sciences, Korea University&lt;/p>

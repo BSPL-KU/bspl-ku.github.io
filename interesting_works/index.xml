@@ -131,18 +131,18 @@ Researchers at the Bernstein Center Freiburg and colleagues in Spain and Sweden 
 &lt;p>In this blog, the professor Eric Wong discussed about &amp;ldquo;How can we find out how the brain works?&amp;rdquo;, which is asked from the Cognitive Computational Neuroscience (CCNeuro) conference.&lt;/p>
 &lt;p>In short, he mentioned that the most typical conceptual approach to understanding the brain is considering the brain is modular. Thus, the modularity is important for understanding the brain from complexity.&lt;/p>
 &lt;p>The more details is shown in the brain blog (&lt;a href="http://www.thebrainblog.org/" target="_blank" rel="noopener">www.thebrainblog.org&lt;/a>).&lt;/p>
-&lt;p>Beside this issues, you could find many neuroscience related thought and discussion from Peter Bandettini and Eric Wong in this blog.&lt;/p></description></item><item><title>[Article] 'Consciousness' in the machine learning (deep learning) perspective</title><link>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</link><pubDate>Mon, 02 Oct 2017 05:38:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</guid><description>&lt;p>&lt;br />
-&lt;strong>The Consciousness Prior&lt;/strong>&lt;/p>
-&lt;p>&lt;br />
-Yoshua Bengio&lt;/p>
-&lt;p>&lt;br />
-Université de Montréal, MILA&lt;/p>
-&lt;p>&lt;br />
-September 26, 2017&lt;/p>
-&lt;p>&lt;br />
-&lt;strong>Abstract&lt;/strong>&lt;/p>
-&lt;p>&lt;br />
-A new prior is proposed for representation learning, which canbe combined with other priors in order to help disentangling abstract factorsfrom each other. It is inspired by the phenomenon of conscious-ness seen as theformation of a low-dimensional combination of a few concepts constituting aconscious thought, i.e., consciousness as awareness at a particular timeinstant. This provides a powerful constraint on the representation in that suchlow-dimensional thought vectors can correspond to statements about realitywhich are either true, highly probable, or very useful for taking decisions.The fact that a few elements of the current state can be combined into such apredictive or useful statement is a strong constraint and deviates considerablyfrom the maximum likelihood approaches to modeling data and how states unfoldin the future based on an agent&amp;rsquo;s actions. Instead of making predictions in thesensory (e.g. pixel) space, the consciousness prior allow the agent to makepredictions in the abstract space, with only a few dimensions of that spacebeing involved in each of these predictions. The consciousness prior also makesit natural to map conscious states to natural language utterances or to expressclassical AI knowledge in the form of facts and rules, although the consciousstates may be richer than what can be expressed easily in the form of asentence, a fact or a rule. &lt;/p>
+&lt;p>Beside this issues, you could find many neuroscience related thought and discussion from Peter Bandettini and Eric Wong in this blog.&lt;/p></description></item><item><title>[Article] 'Consciousness' in the machine learning (deep learning) perspective</title><link>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</link><pubDate>Mon, 02 Oct 2017 05:38:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_10_02_article_consciousness_in_the_machine_learning_deep_learning_perspective/</guid><description>&lt;br />
+**The Consciousness Prior**
+&lt;br />
+Yoshua Bengio
+&lt;br />
+Université de Montréal, MILA
+&lt;br />
+September 26, 2017
+&lt;br />
+**Abstract**
+&lt;br />
+A new prior is proposed for representation learning, which canbe combined with other priors in order to help disentangling abstract factorsfrom each other. It is inspired by the phenomenon of conscious-ness seen as theformation of a low-dimensional combination of a few concepts constituting aconscious thought, i.e., consciousness as awareness at a particular timeinstant. This provides a powerful constraint on the representation in that suchlow-dimensional thought vectors can correspond to statements about realitywhich are either true, highly probable, or very useful for taking decisions.The fact that a few elements of the current state can be combined into such apredictive or useful statement is a strong constraint and deviates considerablyfrom the maximum likelihood approaches to modeling data and how states unfoldin the future based on an agent's actions. Instead of making predictions in thesensory (e.g. pixel) space, the consciousness prior allow the agent to makepredictions in the abstract space, with only a few dimensions of that spacebeing involved in each of these predictions. The consciousness prior also makesit natural to map conscious states to natural language utterances or to expressclassical AI knowledge in the form of facts and rules, although the consciousstates may be richer than what can be expressed easily in the form of asentence, a fact or a rule. 
 &lt;p>&lt;a href="https://arxiv.org/pdf/1709.08568.pdf" target="_blank" rel="noopener">https://arxiv.org/pdf/1709.08568.pdf&lt;/a>&lt;/p></description></item><item><title>[NEWS] Robotic system monitors specific neurons</title><link>https://bspl.korea.ac.kr/interesting_works/2017_09_01_news_robotic_system_monitors_specific_neurons/</link><pubDate>Fri, 01 Sep 2017 11:08:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_09_01_news_robotic_system_monitors_specific_neurons/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
