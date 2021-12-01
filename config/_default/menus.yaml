@@ -48,7 +48,7 @@ main:
     weight: 4
     parent: "softwares"
 
-  - name: Interesting Works and Meetings
+  - name: Interesting Works
     url: "/interesting_works"
     weight: 50
   - name: Lab News
