@@ -7,7 +7,7 @@ date: 2022-01-19
 
 {{<format bright-green>}}
 <!-- Neuroreport, 32 (9), June 9, 2021 doi: 10.1097/WNR.0000000000001653 -->
-# Neuroreport, January 19, 2022, Accepted
+Neuroreport, January 19, 2022, Accepted
 {{</format>}}
 
 <!--
