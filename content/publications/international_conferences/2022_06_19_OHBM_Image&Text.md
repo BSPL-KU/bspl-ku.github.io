@@ -1,5 +1,5 @@
 ---
-title: " Image and Text Processing in Uni- and Multi-modality conditions"
+title: "Multimodal image and text processing of human brain using artificial neural networks and fMRI"
 date: 2022-06-19 12:00:00
 ---
 
