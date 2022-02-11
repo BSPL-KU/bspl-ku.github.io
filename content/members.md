@@ -34,10 +34,6 @@ One of my research aims is to discover individual distinctiveness in dynamic fun
 
 I'm interested in developing algorithms to figure out how cognitive processes work by using fMRI data.
 
-### Seungyeon Shin (신승연)
-![SSY](//bspl.korea.ac.kr/image/bspl/SSY.png)
-
-I am trying to find links between neuroscience and deep learning. My research topics are mainly focused on how techniques from deep learning (such as attention mechanism) are related to the patterns of brain activity, and how the information from brain signal data can be applied to construct deep learning models.
 
 ### JaeEon Kang (강재언)
 ![KJE](//bspl.korea.ac.kr/image/bspl/KJE.png)
