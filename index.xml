@@ -10,7 +10,8 @@ OHBM 2022/Jun, Glasgow, Scotland
 &lt;/div></description></item><item><title>Transfer learning of deep neural networks using the Human Connectome Project fMRI data</title><link>https://bspl.korea.ac.kr/publications/international_conferences/2022_06_19_ohbm_tlwithhsc/</link><pubDate>Sun, 19 Jun 2022 12:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/international_conferences/2022_06_19_ohbm_tlwithhsc/</guid><description>&lt;p>Jundong Hwang, Niv Lustig, Wangwon Lee, Minyoung Jeong, Jong-hwan Lee&lt;/p>
 &lt;div class="bright-green ">
 OHBM 2022/Jun, Glasgow, Scotland
-&lt;/div></description></item><item><title>[Article] Multidataset Independent Subspace Analysis With Application to Multimodal Fusion</title><link>https://bspl.korea.ac.kr/interesting_works/2022_02_23_silva_et_al_ieee/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_02_23_silva_et_al_ieee/</guid><description>&lt;p>Summary: They tried to take advantage of the complex multidimensional subspace structures that capture underlying modes of shared and unique variability across and within datasets. They designed a new method called multi dataset independent subspace analysis (MISA) that leverages joint information from multiple heterogeneous datasets in a flexible and synergistic fashion.&lt;/p>
+&lt;/div></description></item><item><title>[Article] Investigating mechanisms of fast BOLD responses: The effects of stimulus intensity and of spatial heterogeneity of hemodynamics</title><link>https://bspl.korea.ac.kr/interesting_works/2022_03_02_chen_et_al_neuroimage/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_03_02_chen_et_al_neuroimage/</guid><description>&lt;p>Summary: Many studies had reported that fast fMRI can track neural activity well above the temporal limit of the canonical HRF model but the biophysical mechanisms under those techniques were not much investigated. In this study, they use visual and somatosensory tasks with simultaneous EEG-fMRI data to show the difference of the HRF&amp;rsquo;s timing and shapes by the differences of the stimulus intensity. Secondly, they show that as the spatial resolution of fMRI increases, voxel-wise HRFs begin to deviate from the canonical model, with a considerable portion of voxels exhibiting faster temporal dynamics than predicted by the canonical HRF.&lt;/p>
+&lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S1053811921009319" target="_blank" rel="noopener">Chen, Jingyuan E., et al. &amp;ldquo;Investigating mechanisms of fast BOLD responses: The effects of stimulus intensity and of spatial heterogeneity of hemodynamics.&amp;rdquo; NeuroImage 245 (2021): 118658.&lt;/a>&lt;/p></description></item><item><title>[Article] Multidataset Independent Subspace Analysis With Application to Multimodal Fusion</title><link>https://bspl.korea.ac.kr/interesting_works/2022_02_23_silva_et_al_ieee/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_02_23_silva_et_al_ieee/</guid><description>&lt;p>Summary: They tried to take advantage of the complex multidimensional subspace structures that capture underlying modes of shared and unique variability across and within datasets. They designed a new method called multi dataset independent subspace analysis (MISA) that leverages joint information from multiple heterogeneous datasets in a flexible and synergistic fashion.&lt;/p>
 &lt;p>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9217943" target="_blank" rel="noopener">Silva, Rogers F., et al. &amp;ldquo;Multidataset independent subspace analysis with application to multimodal fusion.&amp;rdquo; IEEE Transactions on Image Processing 30 (2020): 588-602.&lt;/a>&lt;/p></description></item><item><title>[Article] Large-scale associations between the leukocyte transcriptome and BOLD responses to speech differ in autism early language outcome subtypes</title><link>https://bspl.korea.ac.kr/interesting_works/2022_02_16_lombardo_et_al_nature_neuroscience/</link><pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_02_16_lombardo_et_al_nature_neuroscience/</guid><description>&lt;p>Summary: Researchers identified a large-scale association between multiple coordinated blood leukocyte gene coexpression modules and the multivariate fMRI response to speech. Associated coexpression modules were enriched in genes that are broadly expressed in the brain and many other tissues. These coexpression modules were also enriched in ASD-associated, prenatal, human-specific, and language-relevant genes. This work highlights distinctive neurobiology in ASD subtypes with different early language outcomes that is present well before such outcomes are known.&lt;/p>
 &lt;p>&lt;a href="https://www.nature.com/articles/s41593-018-0281-3" target="_blank" rel="noopener">Lombardo, Michael V., et al. &amp;ldquo;Large-scale associations between the leukocyte transcriptome and BOLD responses to speech differ in autism early language outcome subtypes.&amp;rdquo; Nature neuroscience 21.12 (2018): 1680-1688.&lt;/a>&lt;/p></description></item><item><title>[Article] Associations between resting-state functional connectivity and a hierarchical dimensional structure of psychopathology in middle childhood</title><link>https://bspl.korea.ac.kr/interesting_works/2022_02_09_karcher_et_al_biological_psychiatry/</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_02_09_karcher_et_al_biological_psychiatry/</guid><description>&lt;p>Summary: Previously, they gained factor scores using factor analysis to CBCL of ABCD data. With this hierarchical structure level, they tried to figure out the association between these factors and resting-state functional connectivity. Using the hierarchical linear model (HLM), they found a significant increment in variance with the p-factor model &amp;amp; 3-factor(internalizing, externalizing, and neurodevelopmental) model.&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S2451902220302779" target="_blank" rel="noopener">Karcher, N. R., Michelini, G., Kotov, R., &amp;amp; Barch, D. M. (2021). Associations between resting-state functional connectivity and a hierarchical dimensional structure of psychopathology in middle childhood. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 6(5), 508-517.&lt;/a> &lt;br/>&lt;/p></description></item><item><title>[Article] Prediction of stimulus-independent and task-unrelated thought from functional brain networks</title><link>https://bspl.korea.ac.kr/interesting_works/2022_01_26_kucyi_et_al_nature_communications/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_01_26_kucyi_et_al_nature_communications/</guid><description>&lt;p>Summary: This study aims to develop and test the generalizability, specificity, and clinical relevance of a functional brain network-based marker for a well-defined feature of mind-wandering. The result was that SITUT is represented within a common pattern of brain network interactions across multiple time scales and contexts.&lt;/p>
@@ -53,7 +54,7 @@ OHBM 2022/Jun, Glasgow, Scotland
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/2021/KHBM_2021_hjw.jpeg" alt="Image" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>[Article] A framework for linking resting-state chronnectome/genome features in schizophrenia: a pilot study</title><link>https://bspl.korea.ac.kr/interesting_works/2021_11_24_rashid_et_al_neuroimage_2021/</link><pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_11_24_rashid_et_al_neuroimage_2021/</guid><description>&lt;p>Summary: They propose a novel framework to combine features corresponding to functional magnetic resonance imaging including dynamic functional network connectivity (dFNC) and SNP data from schizophrenia patients and healthy controls. For each subject, both the functional and SNP data are selected as features for a parallel ICA based imaging-genomic framework. They also assessed the correlations between the polygenic risk scores (PRS) and both dFNC and SNP components' loading parameters.&lt;/p>
+&lt;/p></description></item><item><title>[Article] A framework for linking resting-state chronnectome/genome features in schizophrenia: a pilot study</title><link>https://bspl.korea.ac.kr/interesting_works/2021_11_24_rashid_et_al_neuroimage_2021/</link><pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_11_24_rashid_et_al_neuroimage_2021/</guid><description>&lt;p>Summary: They propose a novel framework to combine features corresponding to functional magnetic resonance imaging including dynamic functional network connectivity (dFNC) and SNP data from schizophrenia patients and healthy controls. For each subject, both the functional and SNP data are selected as features for a parallel ICA based imaging-genomic framework. They also assessed the correlations between the polygenic risk scores (PRS) and both dFNC and SNP components&amp;rsquo; loading parameters.&lt;/p>
 &lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S1053811918319633" target="_blank" rel="noopener">Rashid, Barnaly, et al. &amp;ldquo;A framework for linking resting-state chronnectome/genome features in schizophrenia: a pilot study.&amp;rdquo; Neuroimage 184 (2019): 843-854.&lt;/a> &lt;br/>&lt;/p></description></item><item><title>[Article] Biomarker identification through integrating fmri and epigenetics</title><link>https://bspl.korea.ac.kr/interesting_works/2021_11_17_bai_et_al_ieee/</link><pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_11_17_bai_et_al_ieee/</guid><description>&lt;p>Summary: They combined linear regression with CCA in a coupled manner to extract discriminative features for schizophrenia that are co-expressed in the fMRI and DNA methylation data (epigenetic data).&lt;/p>
 &lt;p>&lt;a href="https://ieeexplore.ieee.org/abstract/document/8786218" target="_blank" rel="noopener">Bai, Yuntong, et al. &amp;ldquo;Biomarker identification through integrating fmri and epigenetics.&amp;rdquo; IEEE transactions on Biomedical Engineering 67.4 (2019): 1186-1196.&lt;/a> &lt;br/>&lt;/p></description></item><item><title>[Article] Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study</title><link>https://bspl.korea.ac.kr/interesting_works/2021_11_10_gong_et_al_naturecommun/</link><pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_11_10_gong_et_al_naturecommun/</guid><description>&lt;p>Summary: In this article, they tried to find a relationship between family conflict, parental monitoring and children&amp;rsquo;s behavior problems and cognitive scores. They utilized sMRI, CBCL and KSADS to get 20 behavioral problems scores and 10 cognitive scores. They visualized correlation between these criteria and showed structural differences according to these scores. Furthermore, they performed longitudinal association analysis with baseline &amp;amp; 1 year later data. Utilizing CBCL scores into account in my study later seems reasonable.&lt;/p>
 &lt;p>&lt;a href="https://www.nature.com/articles/s41467-021-23994-0" target="_blank" rel="noopener">Gong, et al. Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study. Nat Commun 12, 3769 (2021)&lt;/a> &lt;br/>&lt;/p></description></item><item><title>Analysis of 3D movement parameter with fMRI to identify the pattern of lower-limb movement</title><link>https://bspl.korea.ac.kr/publications/domestic_conferences/2021_11_05_analysis_of_3d_movement_parameter_with_fmri_to_identify_the_pattern_of-_lower-limb_movement/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/domestic_conferences/2021_11_05_analysis_of_3d_movement_parameter_with_fmri_to_identify_the_pattern_of-_lower-limb_movement/</guid><description>&lt;p>Minji Park, Sungman Jo, Soohyun Jeon, MinSeok Choi, Inchan Youn, Song Joo Lee, Jong-Hwan Lee&lt;/p>
@@ -225,13 +226,28 @@ OHBM 2021/Jun, Virtual
 &lt;/td>
 &lt;/tr>
 &lt;/table></description></item><item><title>Jinwoo's Birthday</title><link>https://bspl.korea.ac.kr/news/2021_06_23_jinwoo_birthday/</link><pubDate>Wed, 23 Jun 2021 13:40:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_06_23_jinwoo_birthday/</guid><description>&lt;div class="row image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1578.JPG#25" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1577.JPG#25" alt="Image">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1578.JPG#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1577.JPG#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Happy Birthday!&lt;/p></description></item><item><title>OHBM 2021 Annual Meeting (Virtual)</title><link>https://bspl.korea.ac.kr/news/2021_06_22_ohbm_2021_virtual/</link><pubDate>Tue, 22 Jun 2021 13:36:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_06_22_ohbm_2021_virtual/</guid><description>&lt;div class="row image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1574.JPG#25" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1573.JPG#25" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1575.JPG#25" alt="Image">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1574.JPG#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1573.JPG#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1575.JPG#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>
 &lt;figure >
@@ -245,8 +261,14 @@ OHBM 2021/Jun, Virtual
 &lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/BigBrain_kickoff_photo_21jun21.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Minseok's Birthday</title><link>https://bspl.korea.ac.kr/news/2021_06_10_minseok_birthday/</link><pubDate>Thu, 10 Jun 2021 10:04:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_06_10_minseok_birthday/</guid><description>&lt;div class="row image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1340.jpg#25" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1343.jpg#25" alt="Image">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1340.jpg#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/IMG-1343.jpg#25" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Happy Birthday!&lt;/p></description></item><item><title>Predictors of Real-Time fMRI Neurofeedback Performance and Improvement – a Machine Learning Mega-Analysis</title><link>https://bspl.korea.ac.kr/publications/articles/2021_05_21_neuroimage/</link><pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/articles/2021_05_21_neuroimage/</guid><description>&lt;p>Amelie Haugg, Fabian M. Renz; Andrew A. Nicholson; Cindy Lor; Sebastian J. Götzendorfer; Ronald Sladky; Stavros Skouras; Amalia McDonald; Cameron Craddock; Lydia Hellrung; Matthias Kirschner; Marcus Herdener; Yury Koush; Marina Papoutsi; Jackob Keynan; Talma Hendler; Kathrin Cohen Kadosh; Catharina Zich; Simon H. Kohl; Manfred Hallschmid; Jeff MacInnes; R. Alison Adcock; Kathryn Dickerson; Nan-Kuei Chen; Kymberly Young; Jerzy Bodurka; Michael Marxen; Shuxia Yao; Benjamin Becker; Tibor Auer; Renate Schweizer; Gustavo Pamplona; Ruth A. Lanius; Kirsten Emmert; Sven Haller; Dimitri Van De Ville; &lt;strong>Dong-Youl Kim&lt;/strong>; &lt;strong>Jong-Hwan Lee&lt;/strong>; Theo Marins; Megumi Fukuda; Bettina Sorger; Tabea Kamp; Sook-Lei Liew; Ralf Veit; Maartje Spetter; Nikolaus Weiskopf; Frank Scharnowski; David Steyrl&lt;/p>
 &lt;div class="bright-green ">
@@ -315,63 +337,162 @@ Published in the journal Nature Human Behaviour on March 25, 2021 &lt;br />
 &lt;/p>
 &lt;p>Interestingly, the authors found that overconfidence maximizes individual fitness and populations tend to become overconfident.&lt;/p></description></item><item><title>Prof. Park, Hyung-Min gave a talk at BSPL</title><link>https://bspl.korea.ac.kr/news/2021_02_27_profparkhm_seminar/</link><pubDate>Sat, 27 Feb 2021 11:41:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_profparkhm_seminar/</guid><description>&lt;p>Prof. Park, Hyung-Min (Professor, Department of Electronics, Sogang University) gave talks entitled, &amp;ldquo;Auxiliary-Function-Based Independent Vector Analysis for Blind Source Separation&amp;rdquo; and &amp;ldquo;Independent Component Analysis.&amp;rdquo;&lt;/p>
 &lt;div class="col image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfParkHM_SU/BSPL_seminar_ProfParkHM_21feb26_1.png#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfParkHM_SU/BSPL_seminar_ProfParkHM_21feb26_2.png#50" alt="Image">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfParkHM_SU/BSPL_seminar_ProfParkHM_21feb26.png#75" alt="Image">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfParkHM_SU/BSPL_seminar_ProfParkHM_21feb26_1.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfParkHM_SU/BSPL_seminar_ProfParkHM_21feb26_2.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfParkHM_SU/BSPL_seminar_ProfParkHM_21feb26.png#75" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>[Invited seminar] AI vs. Human, Understanging minds, and life lessions (이수영 교수님, KAIST)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_prof-lee-syoung_kaist_seminar/</link><pubDate>Sat, 27 Feb 2021 11:30:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_prof-lee-syoung_kaist_seminar/</guid><description>&lt;div class="col image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_1.png#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_2.png#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_3.png#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_4.png#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26.png#50" alt="Image">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_1.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_2.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_3.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26_4.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeSY_KAIST/BSPL_seminar_ProfLeeSY_21feb26.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 26, 2021&lt;/p></description></item><item><title>[Invited seminar] 딥 러닝 기반 영상처리 및 인식 II (조영주 연구원, ETRI)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_yjcho_etri_seminar_2/</link><pubDate>Sat, 27 Feb 2021 10:58:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_yjcho_etri_seminar_2/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb24_firstpage.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb24.png#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb24_firstpage.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb24.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 24, 2021&lt;/p></description></item><item><title>[Invited seminar] Pushing the Boundaries of AI research (황규웅 전무님, Qualcomm Technologies, Inc.)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_drhwang_qualcomm_seminar/</link><pubDate>Sat, 27 Feb 2021 10:41:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_drhwang_qualcomm_seminar/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrHwang_Qualcomm/BSPL_seminar_DrHwang_QC_first_page_21feb22.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrHwang_Qualcomm/BSPL_seminar_DrHwang_QC_21feb22.png#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrHwang_Qualcomm/BSPL_seminar_DrHwang_QC_first_page_21feb22.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrHwang_Qualcomm/BSPL_seminar_DrHwang_QC_21feb22.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>[Invited seminar] 딥러닝기반 음성인식기술2 END-TO-END 음성인식 (박기영 책임님, ETRI)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_drkypark_etri_seminar_2/</link><pubDate>Sat, 27 Feb 2021 10:27:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_drkypark_etri_seminar_2/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb22_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb22.png#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb22_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb22.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 22, 2021&lt;/p></description></item><item><title>[Invited seminar] Deep Learning for Natural Language Processing II (정호영 교수님, 경북대학교)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_profjunghy_knu_seminar_2/</link><pubDate>Sat, 27 Feb 2021 10:06:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_profjunghy_knu_seminar_2/</guid><description>&lt;div class="col image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb24_p0.png#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb24_p1.jpg#50" alt="Image">
-&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb24.png#50" alt="Image">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb24_p0.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb24_p1.jpg#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb24.png#50" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 24, 2021&lt;/p></description></item><item><title>[Invited seminar] Deep Learning 개요 II (송화전 책임님, ETRI)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_drsonghj_etri_seminar_2/</link><pubDate>Sat, 27 Feb 2021 09:49:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_drsonghj_etri_seminar_2/</guid><description>&lt;div class="col iamge-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb23_firstpage.jpg#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb23.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb23_firstpage.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb23.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 23, 2021&lt;/p></description></item><item><title>[Invited seminar] Shoot for the Moon (고산 대표님, ATEAM Ventures)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_kosanateamv_seminar/</link><pubDate>Sat, 27 Feb 2021 08:18:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_kosanateamv_seminar/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_KoSanAteamV/BSPL_seminar_CEOKoSan_21feb19_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_KoSanAteamV/BSPL_seminar_CEOKoSan_21feb19.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_KoSanAteamV/BSPL_seminar_CEOKoSan_21feb19_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_KoSanAteamV/BSPL_seminar_CEOKoSan_21feb19.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 19,  2021&lt;/p></description></item><item><title>[Invited seminar] Deep learning for natural language processing 1 (정호영 교수님, 경북대학교)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_profjunghy_knu_seminar_1/</link><pubDate>Sat, 27 Feb 2021 08:06:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_profjunghy_knu_seminar_1/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb19_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb19.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb19_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfJungHY_KNU/BSPL_seminar_ProfJungHY_21feb19.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 19, 2021&lt;/p></description></item><item><title>[Invited seminar] 딥러닝 개요 1 (송화전 책임님, ETRI)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_drsonghj_etri_seminar_1/</link><pubDate>Sat, 27 Feb 2021 08:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_drsonghj_etri_seminar_1/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb18_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb18.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb18_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/DrSongHJ_ETRI/BSPL_seminar_DrSongHJ_21feb18.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 18, 2021&lt;/p></description></item><item><title>[Invited seminar] 딥러닝 기반 영상처리 및 인식 1 (조영주 연구원, ETRI)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_yjcho_etri_seminar_1/</link><pubDate>Sat, 27 Feb 2021 07:53:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_yjcho_etri_seminar_1/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb18_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb18.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb18_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/YJCho_ETRI/BSPL_seminar_ChoYJ_ETRI_21feb18.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 18, 2021&lt;/p></description></item><item><title>[Invited seminar] Vision based situation understanding AI agent getting smart through Perception and Action Cycle Learning (이민호 교수님, 경북대학교)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_profleemh_knu_seminar/</link><pubDate>Sat, 27 Feb 2021 07:46:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_profleemh_knu_seminar/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeMH_KNU/BSPL_seminar_ProfLeeMH_KNU_21feb18_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeMH_KNU/BSPL_seminar_ProfLeeMH_KNU_21feb18.png#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeMH_KNU/BSPL_seminar_ProfLeeMH_KNU_21feb18_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeMH_KNU/BSPL_seminar_ProfLeeMH_KNU_21feb18.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 18. 2021&lt;/p></description></item><item><title>[Invited seminar] 딥러닝 기반 음성인식 기술 1 (박기영 책임님, ETRI)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_drkypark_etri_seminar_1/</link><pubDate>Sat, 27 Feb 2021 07:40:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_drkypark_etri_seminar_1/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb17_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb17.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb17_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/_DrKYPark_ETRI/BSPL_seminar_DrParkKY_21feb17.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 17, 2021&lt;/p></description></item><item><title>[Invited Seminar] 신경정신과적 질환의 뇌영상, 자기연민의 이해 (이경욱 교수, 카톨릭의과대학 정신건강의학과)</title><link>https://bspl.korea.ac.kr/news/2021_02_27_profleeku_cumc_seminar/</link><pubDate>Sat, 27 Feb 2021 07:31:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2021_02_27_profleeku_cumc_seminar/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeKU_CUMC/BSPL_seminar_ProfLeeKU_21feb16_1.png#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeKU_CUMC/BSPL_seminar_ProfLeeKU_21feb16.png#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeKU_CUMC/BSPL_seminar_ProfLeeKU_21feb16_1.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Members_Only/Research_Materials/Education/invited_seminar/ProfLeeKU_CUMC/BSPL_seminar_ProfLeeKU_21feb16.png#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Feb. 16, 2021&lt;/p></description></item><item><title>[Article] How Our Visual System Avoids Overloading</title><link>https://bspl.korea.ac.kr/interesting_works/2021_02_23_scientific_reports/</link><pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2021_02_23_scientific_reports/</guid><description>&lt;p>
 &lt;figure >
@@ -427,12 +548,24 @@ J Neurosci Methods. 2020 Jun 1;339:108718. doi: 10.1016/j.jneumeth.2020.108718. 
 &lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=Deep&amp;#43;learning&amp;#43;methods&amp;#43;and&amp;#43;applications&amp;#43;in&amp;#43;neuroimaging&amp;amp;btnG=" target="_blank" rel="noopener">Google Scholar&lt;/a> /
 &lt;a href="https://www.sciencedirect.com/science/article/pii/S0165027020301412?via%3Dihub" target="_blank" rel="noopener">Journal Home&lt;/a>]&lt;/p></description></item><item><title>[2020. 09. 18] Celebration of Professor's promotion</title><link>https://bspl.korea.ac.kr/news/2020_09_21_2020._09._18_celebration_of_professors_promotion/</link><pubDate>Mon, 21 Sep 2020 11:33:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2020_09_21_2020._09._18_celebration_of_professors_promotion/</guid><description>&lt;p>[2020. 09. 18] Celebration of Professor&amp;rsquo;s promotion!&lt;/p>
 &lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7381.JPG#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7382.JPG#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7381.JPG#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7382.JPG#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>[2020.09.09] Celebration of Sungman and Niv's Master's Degree</title><link>https://bspl.korea.ac.kr/news/2020_09_21_2020.09.09_celebration_of_sungman_and_nivs__masters_degree/</link><pubDate>Mon, 21 Sep 2020 11:26:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2020_09_21_2020.09.09_celebration_of_sungman_and_nivs__masters_degree/</guid><description>&lt;p>[2020. 09. 09] Celebration of Sungman and Niv&amp;rsquo;s  Master&amp;rsquo;s Degree&lt;/p>
 &lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7380.JPG#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7379.JPG#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7380.JPG#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-7379.JPG#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>[Article] Researchers Uncover Network Mechanism Underlying Rumination</title><link>https://bspl.korea.ac.kr/interesting_works/2020_09_01_neuroimage/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2020_09_01_neuroimage/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -449,8 +582,14 @@ NeuroImage, Vol. 223, Dec. 2020, doi: 10.1016/j.neuroimage.2020.117328
 &lt;a href="https://scholar.google.com/scholar?hl=ko&amp;amp;as_sdt=0%2C5&amp;amp;q=fMRI&amp;#43;volume&amp;#43;classification&amp;#43;using&amp;#43;a&amp;#43;3D&amp;#43;convolutional&amp;#43;neural&amp;#43;network&amp;#43;robust&amp;#43;to&amp;#43;shifted&amp;#43;and&amp;#43;scaled&amp;#43;neuronal&amp;#43;activations&amp;amp;btnG=" target="_blank" rel="noopener">Google Scholar&lt;/a> /
 &lt;a href="https://www.sciencedirect.com/science/article/pii/S1053811920308144" target="_blank" rel="noopener">Journal Home&lt;/a>]&lt;/p></description></item><item><title>[2020. 07. 23] OHBM Education course</title><link>https://bspl.korea.ac.kr/news/2020_07_23_2020._07._23_ohbm_education_course/</link><pubDate>Thu, 23 Jul 2020 18:47:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2020_07_23_2020._07._23_ohbm_education_course/</guid><description>&lt;p>[2020. 07. 23] OHBM Education course&lt;/p>
 &lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-6460.jpg#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-6462.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-6460.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/IMG-6462.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>[2020. 07. 09] Sungman's Birthday</title><link>https://bspl.korea.ac.kr/news/2020_07_23_2020._07._09_sungmans_birthday/</link><pubDate>Thu, 23 Jul 2020 18:40:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2020_07_23_2020._07._09_sungmans_birthday/</guid><description>&lt;p>[2020. 07. 09] Sungman&amp;rsquo;s Birthday&lt;/p>
 &lt;p>
 &lt;figure >
@@ -497,9 +636,18 @@ OHBM 2020/Jun, Virtual
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>[2020. 05. 08] real-time fMRI Education</title><link>https://bspl.korea.ac.kr/news/2020_06_29_2020._05._08_real-time_fmri_education/</link><pubDate>Mon, 29 Jun 2020 14:35:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2020_06_29_2020._05._08_real-time_fmri_education/</guid><description>&lt;p>[2020. 05. 08] real-time fMRI Education&lt;/p>
 &lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/rtfmri_edu.jpg#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/rtfmri_edu3.jpg#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/rtfmri_edu2.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/rtfmri_edu.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/rtfmri_edu3.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/rtfmri_edu2.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>Can we predict real-time fMRI neurofeedback learning success from pre-training brain activity?</title><link>https://bspl.korea.ac.kr/publications/articles/2020_06_23_hbm/</link><pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/articles/2020_06_23_hbm/</guid><description>&lt;p>Haugg A., Sladky R., Skouras S., McDonald A., Craddock C., Kirschner M., Herdener M., Koush Y., Papoutsi M., Keynan J.N., Hendler T., Cohen Kadosh K., Zich C., MacInnes J., Adcock A., Dickerson K., Chen N-K., Young K., Bodurka J., Yao S., Becker B., Auer T., Schweizer R., Pamplona G., Emmert K., Haller S., Van De Ville D., Blefari M.L., &lt;strong>Kim D-Y.&lt;/strong>, &lt;strong>Lee J-H.&lt;/strong>, Marins T.F., Megumi F., Sorger B., Kamp T., Liew S-L., Veit R., Spetter M., Weiskopf N., Scharnowski F&lt;/p>
 &lt;div class="bright-green ">
 Human Brain Mapping, 30 July 2020, doi: 10.1002/hbm.25089
@@ -542,22 +690,46 @@ Journal of Neuroscience Methods, 2020 Jan 15;330:108451. doi: 10.1016/j.jneumet
 &lt;p>[ &lt;a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Test%E2%80%93retest&amp;#43;reliability&amp;#43;of&amp;#43;spatial&amp;#43;patterns&amp;#43;from&amp;#43;resting-state&amp;#43;functional&amp;#43;MRI&amp;#43;using&amp;#43;the&amp;#43;restricted&amp;#43;Boltzmann&amp;#43;machine&amp;#43;and&amp;#43;hierarchically&amp;#43;organized&amp;#43;spatial&amp;#43;patterns&amp;#43;from&amp;#43;the&amp;#43;deep&amp;#43;belief&amp;#43;network" target="_blank" rel="noopener">PubMed&lt;/a> / &lt;a href="https://scholar.google.com/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=Test%E2%80%93retest&amp;#43;reliability&amp;#43;of&amp;#43;spatial&amp;#43;patterns&amp;#43;from&amp;#43;resting-state&amp;#43;functional&amp;#43;MRI&amp;#43;using&amp;#43;the&amp;#43;restricted&amp;#43;Boltzmann&amp;#43;machine&amp;#43;and&amp;#43;hierarchically&amp;#43;organized&amp;#43;spatial&amp;#43;patterns&amp;#43;from&amp;#43;the&amp;#43;deep&amp;#43;belief&amp;#43;network&amp;amp;btnG=" target="_blank" rel="noopener">Google Scholar&lt;/a>
 / &lt;a href="https://www.sciencedirect.com/science/article/pii/S0165027019303085?via%3Dihub" target="_blank" rel="noopener">Journal Home&lt;/a>
 ]&lt;/p></description></item><item><title>[2019. 10. 25.] Future Healthy Aging and Restoring Biomechanics (Best Poster Paper Award)</title><link>https://bspl.korea.ac.kr/news/2019_10_31_2019._10._25._future_healthy_aging_and_restoring_biomechanics_best_poster_paper_award/</link><pubDate>Thu, 31 Oct 2019 14:14:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_10_31_2019._10._25._future_healthy_aging_and_restoring_biomechanics_best_poster_paper_award/</guid><description>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/2019%20Restoring%20Biomechanics%201.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/2019%20Restoring%20Biomechanics%202.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/2019%20Restoring%20Biomechanics%201.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/2019%20Restoring%20Biomechanics%202.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Dong-Youl KIm, Best Poster Parper Award&lt;/p></description></item><item><title>[2019. 07. 09.] Hyun-Chul Kim's Birthday</title><link>https://bspl.korea.ac.kr/news/2019_10_31_2019._07._09.__hyun-chul_kims_birthday/</link><pubDate>Thu, 31 Oct 2019 14:05:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_10_31_2019._07._09.__hyun-chul_kims_birthday/</guid><description>&lt;p>[2019. 07. 09.]  Hyun-Chul Kim&amp;rsquo;s Birthday &lt;/p>
 &lt;p>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_1.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_2.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_1.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_2.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_3.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_4.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_3.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/BirthDay%20190709_4.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;/p></description></item><item><title>2019 KHBM Summer School</title><link>https://bspl.korea.ac.kr/news/2019_10_31_2019_khbm_summer_school/</link><pubDate>Thu, 31 Oct 2019 13:59:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_10_31_2019_khbm_summer_school/</guid><description>&lt;p>2019 KHBM Summer School&lt;/p>
 &lt;p>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/KHBM_Summer_School.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/image/gallery/2019%20KHBM%20Summer%20School%20Tutorial%203%20(LJH).jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/KHBM_Summer_School.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/gallery/2019%20KHBM%20Summer%20School%20Tutorial%203%20%28LJH%29.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -580,18 +752,36 @@ Computational models that mimic brain information processing during perceptual, 
 &lt;p>&lt;a href="https://www.sciencedaily.com/releases/2019/08/190821113151.htm" target="_blank" rel="noopener">https://www.sciencedaily.com/releases/2019/08/190821113151.htm&lt;/a>&lt;/p>
 &lt;p>Bing‐Xing Huo, Natalie Zeater, Meng Kuan Lin, Yeonsook S. Takahashi, Mitsutoshi Hanada, Jaimi Nagashima, Brian C. Lee, Junichi Hata, Afsah Zaheer, Ulrike Grünert, Michael I. Miller, Marcello G. P. Rosa, Hideyuki Okano, Paul R. Martin, Partha P. Mitra. Relation of koniocellular layers of dorsal lateral geniculate to inferior pulvinar nuclei in common marmosets. European Journal of Neuroscience, 2019; DOI: &lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.14529" target="_blank" rel="noopener">10.1111/ejn.14529&lt;/a>&lt;/p></description></item><item><title>[June 9 - 13, OHBM 2019, Rome, Italy]</title><link>https://bspl.korea.ac.kr/news/2019_06_16_june_9_-_13_ohbm_2019_rome_italy/</link><pubDate>Sun, 16 Jun 2019 21:41:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_06_16_june_9_-_13_ohbm_2019_rome_italy/</guid><description>&lt;p>Member&amp;rsquo;s poster presentation(Hyunchul, Hanh, Juhyun, Niv)&lt;/p>
 &lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159183.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159312.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159183.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159312.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159596.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159721.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159596.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_214159721.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;br />&lt;/p>
 &lt;p>Trevi Fountain, June 12&lt;/p>
 &lt;p>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_213524507.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_213525279.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_213524507.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2019/KakaoTalk_20190616_213525279.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;br />&lt;/p>
 &lt;p>Dancing Wangwon, June 13&lt;/p>
@@ -619,8 +809,14 @@ OHBM 2019/Jun. Rome
 &lt;div class="bright-green ">
 OHBM 2019/Jun. Rome
 &lt;/div></description></item><item><title>[2019.05.15]Teacher's day and professor's birthday.May/2019</title><link>https://bspl.korea.ac.kr/news/2019_05_20_2019.05.15teachers_day_and_professors_birthday.may_2019/</link><pubDate>Mon, 20 May 2019 14:23:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_05_20_2019.05.15teachers_day_and_professors_birthday.may_2019/</guid><description>&lt;div class="col image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/2019Teachersday1.jpg#50" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/2019Teachersday2.jpg#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/2019Teachersday1.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/2019Teachersday2.jpg#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>Mediation analysis of triple networks revealed functional feature of mindfulness from real-time fMRI neurofeedback</title><link>https://bspl.korea.ac.kr/publications/articles/2019_03_27_mediation_analysis_of_triple_networks_revealed_functional_feature_of_mindfulness_from_real-time_fmri_neurofeedback/</link><pubDate>Wed, 27 Mar 2019 14:44:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/articles/2019_03_27_mediation_analysis_of_triple_networks_revealed_functional_feature_of_mindfulness_from_real-time_fmri_neurofeedback/</guid><description>&lt;p>Kim HC, Tegethoff M, Meinlschmidt G, Stalujanis E, Belardi A, Jo S, Lee J, Kim DY, Yoo SS, Lee JH&lt;/p>
 &lt;div class="bright-green ">
 NeuroImage, 2019 Jul 15;195:409-432. doi: 10.1016/j.neuroimage.2019.03.066
@@ -633,8 +829,14 @@ Google Scholar&lt;/a> ]&lt;/p></description></item><item><title>[2019.02.21 - 23
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>Many congrats!&lt;/p></description></item><item><title>[2019.02.21 - 23] Brain Engineering Society of Korea, Feb/2019</title><link>https://bspl.korea.ac.kr/news/2019_03_06_2019.02.21_-_23__brain_engineering_society_of_korea_feb_2019/</link><pubDate>Wed, 06 Mar 2019 14:32:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_03_06_2019.02.21_-_23__brain_engineering_society_of_korea_feb_2019/</guid><description>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/190221_BESK_1.jpeg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/190221_BESK_2.jpeg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/190221_BESK_1.jpeg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/190221_BESK_2.jpeg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>Modulation of laterality index from real-time functional MRI based neurofeedback training for stroke patients</title><link>https://bspl.korea.ac.kr/publications/domestic_conferences/2019_02_06_modulation_of_laterality_index_from_real-time_functional_mri_based_neurofeedback_training_for_stroke_patients/</link><pubDate>Wed, 06 Feb 2019 00:38:03 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/domestic_conferences/2019_02_06_modulation_of_laterality_index_from_real-time_functional_mri_based_neurofeedback_training_for_stroke_patients/</guid><description>&lt;p>Kim DY, Kim YH, Kang KH, Lee JH&lt;/p>
 &lt;div class="bright-green ">
 Brain and Artificial Intelligence Symposium, Brain Engineering Society of Korea (BESK), Feb/2019
@@ -653,8 +855,14 @@ Journal of Vision. 2018 Nov 1;18(12):9. doi: 10.1167/18.12.9.
 &lt;/div>
 &lt;p>[ &lt;a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Visual&amp;#43;perceptual&amp;#43;learning&amp;#43;modulates&amp;#43;decision&amp;#43;network&amp;#43;in&amp;#43;the&amp;#43;human&amp;#43;brain%3A&amp;#43;The&amp;#43;evidence&amp;#43;from&amp;#43;psychophysics%2C&amp;#43;modeling%2C&amp;#43;and&amp;#43;functional&amp;#43;magnetic&amp;#43;resonance&amp;#43;imaging." target="_blank" rel="noopener">PubMed&lt;/a>&lt;a href="https://scholar.google.co.kr/scholar?hl=en&amp;amp;as_sdt=0%2C5&amp;amp;q=Visual&amp;#43;perceptual&amp;#43;learning&amp;#43;modulates&amp;#43;decision&amp;#43;network&amp;#43;in&amp;#43;the&amp;#43;human&amp;#43;brain%3A&amp;#43;The&amp;#43;evidence&amp;#43;from&amp;#43;psychophysics%2C&amp;#43;modeling%2C&amp;#43;and&amp;#43;functional&amp;#43;magnetic&amp;#43;resonance&amp;#43;imaging.&amp;amp;btnG=" target="_blank" rel="noopener"> / 
 Google Scholar&lt;/a> ]&lt;/p></description></item><item><title>[2019. 01. 07] A &amp; I NVH Lab. Kickoff</title><link>https://bspl.korea.ac.kr/news/2019_01_08_2019._01._07_a_i_nvh_lab._kickoff/</link><pubDate>Tue, 08 Jan 2019 15:05:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2019_01_08_2019._01._07_a_i_nvh_lab._kickoff/</guid><description>&lt;div class="col image-space ">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/A&amp;amp;I_NVH_kickoff/AI_NVH_kickoff_1.JPG#50" alt="">
-&lt;img src="//bspl.korea.ac.kr/Board/Gallery/A&amp;amp;I_NVH_kickoff/AI_NVH_kickoff_2.bmp#50" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/A&amp;amp;I_NVH_kickoff/AI_NVH_kickoff_1.JPG#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/A&amp;amp;I_NVH_kickoff/AI_NVH_kickoff_2.bmp#50" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div></description></item><item><title>[Article] Communication between neural networks</title><link>https://bspl.korea.ac.kr/interesting_works/2019_01_03_article_communication_between_neural_networks/</link><pubDate>Thu, 03 Jan 2019 16:17:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2019_01_03_article_communication_between_neural_networks/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -689,8 +897,14 @@ Annual meeting of Organisation for Human Brain Mapping, Korea Chapter, Korean So
 &lt;div class="teal ">
 &lt;em>[Best Poster Award]&lt;/em>
 &lt;/div></description></item><item><title>[2018.11.02] KHBM 2018 Annual Meeting (Best Poster Paper Award!)</title><link>https://bspl.korea.ac.kr/news/2018_11_05_2018.11.02_khbm_2018_annual_meeting_best_poster_paper_award/</link><pubDate>Mon, 05 Nov 2018 10:36:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2018_11_05_2018.11.02_khbm_2018_annual_meeting_best_poster_paper_award/</guid><description>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/KHBM2018/Juhyeon.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/KHBM2018/Hanh.JPG#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/KHBM2018/Juhyeon.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/KHBM2018/Hanh.JPG#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>Juhyeon &amp;amp; Hanh&lt;/p></description></item><item><title>[Article] Brain cells called astrocytes have unexpected role in brain 'plasticity'</title><link>https://bspl.korea.ac.kr/interesting_works/2018_10_22_article_brain_cells_called_astrocytes_have_unexpected_role_in_brain_plasticity/</link><pubDate>Mon, 22 Oct 2018 20:49:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2018_10_22_article_brain_cells_called_astrocytes_have_unexpected_role_in_brain_plasticity/</guid><description>&lt;p>Researchers have shown that &lt;strong>astrocytes&lt;/strong> ― long-overlooked supportive cells in the brain ― help to enable the &lt;strong>brain&amp;rsquo;s plasticity&lt;/strong>, a new role for astrocytes that was not previously known. &lt;/p>
 &lt;p>The findings could point to ways to restore connections that have been lost due to aging or trauma.&lt;/p>
@@ -704,9 +918,18 @@ Annual meeting of Organisation for Human Brain Mapping, Korea Chapter, Korean So
 &lt;br />&lt;/p>
 &lt;p>Member&amp;rsquo;s poster presentation(Hanh, Niv, Juhyeon)&lt;/p>
 &lt;p>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2018/1.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2018/2.jpg#25" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2018/3.jpg#25" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2018/1.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2018/2.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/OHBM2018/3.jpg#25" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;br />&lt;/p>
 &lt;p>dinner at Kopi Tiam (in Swissotel)&lt;/p>
@@ -1047,7 +1270,7 @@ ICMRI, 2017/Mar, Grand Hilton Hotel, Seoul
 &lt;div class="w-100" >&lt;img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201702/MIT-Dope-Sense_0.jpg?itok=IQ48aknq#50" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 (from MIT news)&lt;/p>
-&lt;p>MIT chemical engineers have developed an extremely sensitive detector that can track single cells' secretion of dopamine, a brain chemical responsible for carrying messages involved in reward-motivated behavior, learning, and memory. Using arrays of up to 20,000 tiny sensors, the researchers can monitor dopamine secretion of single neurons, allowing them to explore critical questions about dopamine dynamics. Until now, that has been very difficult to do.&lt;/p>
+&lt;p>MIT chemical engineers have developed an extremely sensitive detector that can track single cells&amp;rsquo; secretion of dopamine, a brain chemical responsible for carrying messages involved in reward-motivated behavior, learning, and memory. Using arrays of up to 20,000 tiny sensors, the researchers can monitor dopamine secretion of single neurons, allowing them to explore critical questions about dopamine dynamics. Until now, that has been very difficult to do.&lt;/p>
 &lt;p>Strano and his colleagues have already demonstrated that dopamine release occurs differently than scientists expected in a type of neural progenitor cell, helping to shed light on how dopamine may exert its effects in the brain.&lt;/p>
 &lt;p>If you are interested in, please click following link:&lt;/p>
 &lt;p>&lt;a href="http://news.mit.edu/2017/sensor-traces-dopamine-released-single-cells-0206" target="_blank" rel="noopener">http://news.mit.edu/2017/sensor-traces-dopamine-released-single-cells-0206&lt;/a>&lt;/p></description></item><item><title>[Award] Best Poster Paper Award, BESK Workshop 2017 (Feb. 09)</title><link>https://bspl.korea.ac.kr/interesting_works/2017_02_12_award_best_poster_paper_award_besk_workshop_2017_feb._09/</link><pubDate>Sun, 12 Feb 2017 16:34:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2017_02_12_award_best_poster_paper_award_besk_workshop_2017_feb._09/</guid><description>&lt;p>Award winner: Hyun-Chul Kim&lt;/p>
@@ -1090,7 +1313,7 @@ Brain and Artificial Intelligence Symposium, Brain Engineering Society of Korea 
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>(from MIT news)&lt;/p>
-&lt;p>In adults, certain regions of the brain&amp;rsquo;s visual cortex respond preferentially to specific types of input, such as faces or objects &amp;mdash; but how and when those preferences arise has long puzzled neuroscientists. One way to help answer that question is to study the brains of very young infants and compare them to adult brains. However, scanning the brains of awake babies in an MRI machine has proven difficult. Now, neuroscientists at MIT have overcome that obstacle, adapting their MRI scanner to make it easier to scan infants' brains as the babies watch movies featuring different types of visual input. Using these data, the team found that in some ways, the organization of infants' brains is surprisingly similar to that of adults. Specifically, brain regions that respond to faces in adults do the same in babies, as do regions that respond to scenes.&lt;/p>
+&lt;p>In adults, certain regions of the brain&amp;rsquo;s visual cortex respond preferentially to specific types of input, such as faces or objects &amp;mdash; but how and when those preferences arise has long puzzled neuroscientists. One way to help answer that question is to study the brains of very young infants and compare them to adult brains. However, scanning the brains of awake babies in an MRI machine has proven difficult. Now, neuroscientists at MIT have overcome that obstacle, adapting their MRI scanner to make it easier to scan infants&amp;rsquo; brains as the babies watch movies featuring different types of visual input. Using these data, the team found that in some ways, the organization of infants&amp;rsquo; brains is surprisingly similar to that of adults. Specifically, brain regions that respond to faces in adults do the same in babies, as do regions that respond to scenes.&lt;/p>
 &lt;p>If you&amp;rsquo;re interested in, please click here,&lt;/p>
 &lt;p>&lt;a href="http://news.mit.edu/2017/mri-scans-baby-brain-visual-cortex-0110" target="_blank" rel="noopener">http://news.mit.edu/2017/mri-scans-baby-brain-visual-cortex-0110&lt;/a>&lt;/p></description></item><item><title>[News] A delicate balance between positive and negative emotion</title><link>https://bspl.korea.ac.kr/interesting_works/2016_12_26_news_a_delicate_balance_between_positive_and_negative_emotion/</link><pubDate>Mon, 26 Dec 2016 09:59:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2016_12_26_news_a_delicate_balance_between_positive_and_negative_emotion/</guid><description>&lt;p>
 &lt;figure >
@@ -1276,7 +1499,7 @@ Google Scholar&lt;/a> ]&lt;/p></description></item><item><title>[News] Unmaskin
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>(AntonioGuillem/iStock.com; from UCLA newsroom)&lt;/p>
-&lt;p>  The researchers from UCLA&amp;rsquo;s Ahmanson-Lovelace Brain Mapping Center, studied brain circuits activation of teenagers, when they receive some responses (i.e. the amount of &amp;lsquo;likes&amp;rsquo;) in social networks (e.g. Instagram). The 32 teenagers (13-18 years old) were participated, and they watched 148 photographs, which including 40 of the teenagers submitted, for 12 minutes. To analyze their brain activity, they scanned teenagers' brain using functional magnetic resonance imaging (fMRI). The result was, the brain area, which called the nucleus accumbens, was activated. Also the brain area is related to reward.&lt;/p>
+&lt;p>  The researchers from UCLA&amp;rsquo;s Ahmanson-Lovelace Brain Mapping Center, studied brain circuits activation of teenagers, when they receive some responses (i.e. the amount of &amp;rsquo;likes&amp;rsquo;) in social networks (e.g. Instagram). The 32 teenagers (13-18 years old) were participated, and they watched 148 photographs, which including 40 of the teenagers submitted, for 12 minutes. To analyze their brain activity, they scanned teenagers&amp;rsquo; brain using functional magnetic resonance imaging (fMRI). The result was, the brain area, which called the nucleus accumbens, was activated. Also the brain area is related to reward.&lt;/p>
 &lt;p>If you interested in, please click the following link.&lt;/p>
 &lt;p>&lt;a href="http://newsroom.ucla.edu/releases/the-teenage-brain-on-social-media" target="_blank" rel="noopener">http://newsroom.ucla.edu/the_teenage_brain_on_social_media&lt;/a>&lt;/p></description></item><item><title>[News] HOW SNAILS COULD MAKE ROBOTS SMARTER</title><link>https://bspl.korea.ac.kr/interesting_works/2016_06_07_news_how_snails_could_make_robots_smarter/</link><pubDate>Tue, 07 Jun 2016 22:13:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2016_06_07_news_how_snails_could_make_robots_smarter/</guid><description>&lt;p>
 &lt;figure >
@@ -1295,13 +1518,19 @@ Google Scholar&lt;/a> ]&lt;/p></description></item><item><title>[News] Unmaskin
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>  (Getty Images; Illustration by Marisa Gertz for TIME)&lt;/p>
-&lt;p>  The researchers at Stanford University performed a study regarding children and their ability of recognize their mothers' voices. The normally developing children (24 children, ages between 7 and 12) were participated to the study. The task was listening some words, and find their own mother&amp;rsquo;s voice. The kids of 97% got the right answer. The researchers used fMRI to look the kids brain. Not surprisingly, the brain activates more, when they heard their mothers' voice, than the other women&amp;rsquo;s voice. However, surprisingly the researchers found that the brain area, which is related to face recognition, was activated. 
-From this, they assumed that the kids could visualize their mother&amp;rsquo;s face, when they hear their mothers' voice. &lt;/p>
-&lt;p>Also the researchers assessed the kids' social communication scores. They found that the kids, who are most socially adapted, brain activities shows some specific pattern during hearing their mothers' voice. Thus, Abrams, one of the researchers, assumed that this result could help to examine the kids brain which regarding the social ability, for a future work.&lt;/p>
+&lt;p>  The researchers at Stanford University performed a study regarding children and their ability of recognize their mothers&amp;rsquo; voices. The normally developing children (24 children, ages between 7 and 12) were participated to the study. The task was listening some words, and find their own mother&amp;rsquo;s voice. The kids of 97% got the right answer. The researchers used fMRI to look the kids brain. Not surprisingly, the brain activates more, when they heard their mothers&amp;rsquo; voice, than the other women&amp;rsquo;s voice. However, surprisingly the researchers found that the brain area, which is related to face recognition, was activated. 
+From this, they assumed that the kids could visualize their mother&amp;rsquo;s face, when they hear their mothers&amp;rsquo; voice. &lt;/p>
+&lt;p>Also the researchers assessed the kids&amp;rsquo; social communication scores. They found that the kids, who are most socially adapted, brain activities shows some specific pattern during hearing their mothers&amp;rsquo; voice. Thus, Abrams, one of the researchers, assumed that this result could help to examine the kids brain which regarding the social ability, for a future work.&lt;/p>
 &lt;p>If you interested in, please click the following link.&lt;/p>
 &lt;p>&lt;a href="http://time.com/4328353/kids-brains-moms-voice/?iid=sr-link3" target="_blank" rel="noopener">http://time.com/kids_brains_moms_voice&lt;/a>&lt;/p></description></item><item><title>[2016.05.13] Professor's Birthday</title><link>https://bspl.korea.ac.kr/news/2016_05_18_2016.05.13_professors_birthday/</link><pubDate>Wed, 18 May 2016 00:45:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2016_05_18_2016.05.13_professors_birthday/</guid><description>&lt;div class="row image-space ">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/image2.png" alt="">
-&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/image1.png" alt="">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/image2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/Board/Gallery/image1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/div>
 &lt;p>( Professor&amp;rsquo;s Birthday, May/2016 )&lt;/p></description></item><item><title>[News] Want To Forget Unwanted Memories? This Is How Your Brain Does It On Purpose</title><link>https://bspl.korea.ac.kr/interesting_works/2016_05_11_news_want_to_forget_unwanted_memories_this_is_how_your_brain_does_it_on_purpose/</link><pubDate>Wed, 11 May 2016 20:32:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2016_05_11_news_want_to_forget_unwanted_memories_this_is_how_your_brain_does_it_on_purpose/</guid><description>&lt;p>
 &lt;figure >
@@ -1394,7 +1623,7 @@ Journal of NeuroEngineering and Rehabilitation, 2016 13:21, DOI: 10.1186/s12984-
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>  (Kris Snibbe / Harvard Staff Photographer)&lt;/p>
-&lt;p>  Vivek Venkatachalam, a postdoctoral and processor Mei Zhen were build the microscope captures 3-D images of all neural activity of worm brains. They were tracked the worm over time during it crawls to figure out where the neurons are in specific volume. Derive from this, Samuel said, it might be possible to monitor all the worms' neural activity.&lt;/p>
+&lt;p>  Vivek Venkatachalam, a postdoctoral and processor Mei Zhen were build the microscope captures 3-D images of all neural activity of worm brains. They were tracked the worm over time during it crawls to figure out where the neurons are in specific volume. Derive from this, Samuel said, it might be possible to monitor all the worms&amp;rsquo; neural activity.&lt;/p>
 &lt;p>If you&amp;rsquo;re interested with this article, click the following link:&lt;/p>
 &lt;p>&lt;a href="http://news.harvard.edu/gazette/story/2016/02/watching-sensory-information-translate-into-behavior/" target="_blank" rel="noopener">http://news.harvard.edu/watching_sensory_information_translate_into_behavior&lt;/a>&lt;/p></description></item><item><title>[News] New Ways Into the Brain's 'Music Room'</title><link>https://bspl.korea.ac.kr/interesting_works/2016_02_10_news_new_ways_into_the_brains_music_room/</link><pubDate>Wed, 10 Feb 2016 11:16:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2016_02_10_news_new_ways_into_the_brains_music_room/</guid><description>&lt;p>
 &lt;figure >
@@ -1462,7 +1691,7 @@ NeuroImage. 2016 Jan; 124(Pt A):127-46.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>  Kris Snibbe / Harvard Staff Photographer&lt;/p>
-&lt;p> Postdoctoral fellow Steven Frankland and Professor Joshua Greene of Psychology suggested that two brain regions build a new thoughts using a conceptual algebra. They used functional magnetic resonance imaging (fMRI) for scanning the brain. The experiment is scanning the brain of participants, during reading some sentences. One of the example is &amp;ldquo;The dog chased the man&amp;rdquo; and &amp;ldquo;The dog scratched the man&amp;rdquo;. The areas they found were &amp;lsquo;left superior temporal lobe&amp;rsquo; and &amp;lsquo;which is locating more toward the center of the head&amp;quot;.  Also, using the example above, they said, when they change the verb, the &amp;lsquo;dog&amp;rsquo; is recognized as the agent. It means, for building a new thoughts, we use that kinds of symbols repeatedly.&lt;/p>
+&lt;p> Postdoctoral fellow Steven Frankland and Professor Joshua Greene of Psychology suggested that two brain regions build a new thoughts using a conceptual algebra. They used functional magnetic resonance imaging (fMRI) for scanning the brain. The experiment is scanning the brain of participants, during reading some sentences. One of the example is &amp;ldquo;The dog chased the man&amp;rdquo; and &amp;ldquo;The dog scratched the man&amp;rdquo;. The areas they found were &amp;rsquo;left superior temporal lobe&amp;rsquo; and &amp;lsquo;which is locating more toward the center of the head&amp;quot;.  Also, using the example above, they said, when they change the verb, the &amp;lsquo;dog&amp;rsquo; is recognized as the agent. It means, for building a new thoughts, we use that kinds of symbols repeatedly.&lt;/p>
 &lt;p> 
 If you&amp;rsquo;re interested with this article, click the following link:&lt;/p>
 &lt;p>&lt;a href="http://news.harvard.edu/gazette/story/2015/10/how-the-brain-builds-new-thoughts/" target="_blank" rel="noopener">http://news.harvard.edu/gazette/story/2015/10/how-the-brain-builds-new-thoughts/&lt;/a>&lt;/p></description></item><item><title>[News] Meditation Reduces Emotional Pain by 44%: Study</title><link>https://bspl.korea.ac.kr/interesting_works/2015_11_15_news_meditation_reduces_emotional_pain_by_44__study/</link><pubDate>Sun, 15 Nov 2015 09:03:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2015_11_15_news_meditation_reduces_emotional_pain_by_44__study/</guid><description>&lt;p>
@@ -1829,7 +2058,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/p>
 &lt;p>There are two theories of consciousness: focal and global. Focal theories argue that there are specific areas of the brain for generating consciousness. However global theories contend that there are large-scale brain changes in activity. To adjudicate between those theories, the research used graph theory analysis.&lt;/p>
 &lt;p>In this research, researchers recruited 24 members of the university community for a functional magnetic resonance imaging (fMRI) experiment. They checked the participant&amp;rsquo;s respond of the trials and their confidence of the answer. The trials was treated as &amp;ldquo;aware&amp;rdquo; and &amp;ldquo;unaware&amp;rdquo;.&lt;/p>
-&lt;p>From the research, &amp;lsquo;no one area or network of areas of the brain stood out as particularly more connected during awareness of the target; the whole brain appeared to become functionally more connected following reports of awareness&amp;rsquo;.&lt;/p>
+&lt;p>From the research, &amp;rsquo;no one area or network of areas of the brain stood out as particularly more connected during awareness of the target; the whole brain appeared to become functionally more connected following reports of awareness'.&lt;/p>
 &lt;p>If you interested in, please click the following link.&lt;/p>
 &lt;p>&lt;a href="https://news.vanderbilt.edu/2015/03/09/213466/" target="_blank" rel="noopener">https://news.vanderbilt.edu/2015/03/09/213466/&lt;/a>&lt;/p></description></item><item><title>[News] Neuromarketing: the battle for our brains is big business</title><link>https://bspl.korea.ac.kr/interesting_works/2015_03_11_news_neuromarketing__the_battle_for_our_brains_is_big_business/</link><pubDate>Wed, 11 Mar 2015 09:10:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2015_03_11_news_neuromarketing__the_battle_for_our_brains_is_big_business/</guid><description>&lt;p>
 &lt;figure >
@@ -1983,7 +2212,7 @@ They called this entorhinal cortex brain&amp;rsquo;s &amp;lsquo;internal compass
 &lt;div class="w-100" >&lt;img src="http://bspl.korea.ac.kr/image/photo/general/brain-networks-1024x528.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>Scientists have know for decades that psychedelic drugs' famous effects are linked to elevated levels of the neurotransmitter serotonin. Researchers are interested not just in single chemicals but also in overall brain activity, because the most complicated brain functions arise from lots of different regions working together. From experiment, Researcher found two main effects of the psilocybin. New connectivity pattern tended to disperse more quickly under the influence of psilocybin than under placebo. Second effect was in the opposite direction and very different from normal brain&amp;rsquo;s stable connections.&lt;/p>
+&lt;p>Scientists have know for decades that psychedelic drugs&amp;rsquo; famous effects are linked to elevated levels of the neurotransmitter serotonin. Researchers are interested not just in single chemicals but also in overall brain activity, because the most complicated brain functions arise from lots of different regions working together. From experiment, Researcher found two main effects of the psilocybin. New connectivity pattern tended to disperse more quickly under the influence of psilocybin than under placebo. Second effect was in the opposite direction and very different from normal brain&amp;rsquo;s stable connections.&lt;/p>
 &lt;p>If you are interested in the topic, you can read more in detail as linked below&lt;/p>
 &lt;p>Read more : 
 &lt;a href="http://blogs.discovermagazine.com/d-brief/2014/10/29/brain-psychedelic-drugs/#.VGAxOYvkfgf" target="_blank" rel="noopener">http://blogs.discovermagazine.com/d-brief/2014/10/29/brain-psychedelic-drugs/#.VGAxOYvkfgf&lt;/a>&lt;/p></description></item><item><title>Non-resting-state fMRI data analysis fMRI data analysis via default-mode networks: Feasibility study,</title><link>https://bspl.korea.ac.kr/publications/international_conferences/2014_11_06_non-resting-state_fmri_data_analysis_fmri_data_analysis_via_default-mode_networks__feasibility_study/</link><pubDate>Thu, 06 Nov 2014 01:13:05 +0000</pubDate><guid>https://bspl.korea.ac.kr/publications/international_conferences/2014_11_06_non-resting-state_fmri_data_analysis_fmri_data_analysis_via_default-mode_networks__feasibility_study/</guid><description>&lt;p>Kim DY, Lee JH, &lt;/p>
@@ -2376,7 +2605,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>(Photo courtesy of IntelliClinic)&lt;/p>
 &lt;p>Read more: &lt;a href="http://www.medicaldaily.com/new-neuroon-sleep-mask-helps-you-power-nap-users-may-abandon-longer-sleep-schedule-267221" target="_blank" rel="noopener">http://www.medicaldaily.com/new-neuroon-sleep-mask-helps-you-power-nap-users-may-abandon-longer-sleep-schedule-267221&lt;/a>&lt;/p></description></item><item><title>[Sites] Whole brain atlas from several modalities</title><link>https://bspl.korea.ac.kr/interesting_works/2014_01_14_sites_whole_brain_atlas_from_several_modalities/</link><pubDate>Tue, 14 Jan 2014 22:53:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2014_01_14_sites_whole_brain_atlas_from_several_modalities/</guid><description>&lt;p>You can see the brain atlas from several modalities (fMRI, MRI, PET, etc&amp;hellip;) for a various of diseases and normal brain.&lt;/p>
 &lt;p>&lt;a href="http://www.med.harvard.edu/AANLIB" target="_blank" rel="noopener">http://www.med.harvard.edu/AANLIB&lt;/a>&lt;/p></description></item><item><title>[Article] An electroconvulsive therapy procedure impairs reconsolidation of episodic memories in humans</title><link>https://bspl.korea.ac.kr/interesting_works/2014_01_06_article_an_electroconvulsive_therapy_procedure_impairs_reconsolidation_of_episodic_memories_in_hum/</link><pubDate>Mon, 06 Jan 2014 08:19:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2014_01_06_article_an_electroconvulsive_therapy_procedure_impairs_reconsolidation_of_episodic_memories_in_hum/</guid><description>&lt;p>A recent research implies that electroconvulsive therapy (ECT) helps depressed patients to forget out their painful memories.&lt;/p>
-&lt;p>By inhibiting memory recall process using ECT, researchers found that participants' ability to remember details of painful memory was impaired.&lt;/p>
+&lt;p>By inhibiting memory recall process using ECT, researchers found that participants&amp;rsquo; ability to remember details of painful memory was impaired.&lt;/p>
 &lt;p>Moreover, they found that the effect of ECT was dependent on time, so that therapy might be effective for prolonged time.&lt;/p>
 &lt;p>Read more: &lt;/p>
 &lt;p>(News) Erasing Painful Memories With Shock Treatment&lt;/p>
@@ -2432,7 +2661,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>If you are interested in this article, please click the below link.&lt;/p>
 &lt;p>Read more: &lt;a href="http://www.telegraph.co.uk/science/science-news/10494729/Cant-resist-chocolate-cake-Blame-your-brain.html" target="_blank" rel="noopener">http://www.telegraph.co.uk/science/science-news/10494729/Cant-resist-chocolate-cake-Blame-your-brain.html&lt;/a>&lt;/p></description></item><item><title>[Article] Dyslexia may be due to a 'faulty wiring' between language brain regions.</title><link>https://bspl.korea.ac.kr/interesting_works/2013_12_07_article_dyslexia_may_be_due_to_a_faulty_wiring_between_language_brain_regions./</link><pubDate>Sat, 07 Dec 2013 17:05:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2013_12_07_article_dyslexia_may_be_due_to_a_faulty_wiring_between_language_brain_regions./</guid><description>&lt;p>Please refer to the news on recently published article in the journal Science.&lt;/p>
 &lt;p>&lt;a href="http://www.natureworldnews.com/articles/5208/20131206/poor-brain-wiring-behind-dyslexia.htm" target="_blank" rel="noopener">http://www.natureworldnews.com/articles/5208/20131206/poor-brain-wiring-behind-dyslexia.htm&lt;/a>&lt;/p></description></item><item><title>[News] How does Virtual-reality Therapy for PTSD work?</title><link>https://bspl.korea.ac.kr/interesting_works/2013_12_02_news_how_does_virtual-reality_therapy_for_ptsd_work/</link><pubDate>Mon, 02 Dec 2013 07:49:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2013_12_02_news_how_does_virtual-reality_therapy_for_ptsd_work/</guid><description>&lt;p>The virtual-reality therapy is usually used for post-traumatic stress disorder (PTSD) patients increasingly. This therapy makes the patient confront their trauma virtually and overcome from the trauma.&lt;/p>
-&lt;p>Even though the quarter of patient can recover from own jury, these method which makes the patient face to their trauma also can restore patients' memory.&lt;/p>
+&lt;p>Even though the quarter of patient can recover from own jury, these method which makes the patient face to their trauma also can restore patients&amp;rsquo; memory.&lt;/p>
 &lt;p>It indicates that the virtual-reality therapy is not always good therapy for PTSD patients.&lt;/p>
 &lt;p>Read more: &lt;a href="http://www.scientificamerican.com/article.cfm?id=how-does-virtual-reality-therapy-fo" target="_blank" rel="noopener">http://www.scientificamerican.com/article.cfm?id=how-does-virtual-reality-therapy-fo&lt;/a>&lt;/p></description></item><item><title>[News] Bangor University: Brain research looks at how we shop</title><link>https://bspl.korea.ac.kr/interesting_works/2013_11_25_news_bangor_university__brain_research_looks_at_how_we_shop/</link><pubDate>Mon, 25 Nov 2013 21:17:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2013_11_25_news_bangor_university__brain_research_looks_at_how_we_shop/</guid><description>&lt;p>In this news, the researchers were trying to find out how the brain works under the situation of supermarket bargains.&lt;/p>
 &lt;p>The study have focused on the rational and emotional workings of the brain while shopping.&lt;/p>
@@ -2898,7 +3127,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;ol>
 &lt;li>Download the MATLAB code as the above link&lt;/li>
 &lt;li>Open &amp;ldquo;test_WeightSparsity.m&amp;rdquo; file and prepare/load your own data&lt;/li>
-&lt;li>Divide your own data into training and test data set (i.e. &amp;lsquo;train_x&amp;rsquo;, &amp;lsquo;train_y&amp;rsquo;, &amp;lsquo;test_x&amp;rsquo;, &amp;lsquo;test_y&amp;rsquo;)&lt;/li>
+&lt;li>Divide your own data into training and test data set (i.e. &amp;rsquo;train_x&amp;rsquo;, &amp;rsquo;train_y&amp;rsquo;, &amp;rsquo;test_x&amp;rsquo;, &amp;rsquo;test_y')&lt;/li>
 &lt;li>Determine how many hidden layers/nodes we are going to use&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -2909,7 +3138,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/blockquote>
 &lt;ol start="5">
 &lt;li>Set the target weight sparsity levels at each layer (e.g. nn.nzr = [0.2 0.2]) and other parameters (e.g. learning rate, batch size etc.).&lt;/li>
-&lt;li>Run &amp;lsquo;test_WeightSparsity.m&amp;rsquo;.&lt;/li>
+&lt;li>Run &amp;rsquo;test_WeightSparsity.m'.&lt;/li>
 &lt;li>Make sure the convergence of the weight sparsity level to the target level for each hidden layer&lt;/li>
 &lt;/ol>
 &lt;blockquote>

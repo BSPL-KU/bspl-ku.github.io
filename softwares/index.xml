@@ -8,7 +8,7 @@
 &lt;ol>
 &lt;li>Download the MATLAB code as the above link&lt;/li>
 &lt;li>Open &amp;ldquo;test_WeightSparsity.m&amp;rdquo; file and prepare/load your own data&lt;/li>
-&lt;li>Divide your own data into training and test data set (i.e. &amp;lsquo;train_x&amp;rsquo;, &amp;lsquo;train_y&amp;rsquo;, &amp;lsquo;test_x&amp;rsquo;, &amp;lsquo;test_y&amp;rsquo;)&lt;/li>
+&lt;li>Divide your own data into training and test data set (i.e. &amp;rsquo;train_x&amp;rsquo;, &amp;rsquo;train_y&amp;rsquo;, &amp;rsquo;test_x&amp;rsquo;, &amp;rsquo;test_y')&lt;/li>
 &lt;li>Determine how many hidden layers/nodes we are going to use&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -19,7 +19,7 @@
 &lt;/blockquote>
 &lt;ol start="5">
 &lt;li>Set the target weight sparsity levels at each layer (e.g. nn.nzr = [0.2 0.2]) and other parameters (e.g. learning rate, batch size etc.).&lt;/li>
-&lt;li>Run &amp;lsquo;test_WeightSparsity.m&amp;rsquo;.&lt;/li>
+&lt;li>Run &amp;rsquo;test_WeightSparsity.m'.&lt;/li>
 &lt;li>Make sure the convergence of the weight sparsity level to the target level for each hidden layer&lt;/li>
 &lt;/ol>
 &lt;blockquote>
