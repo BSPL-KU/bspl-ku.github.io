@@ -79,7 +79,7 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
-### Sangsoo Jin (전진수)
+### Jinsoo Jeon (전진수)
 ![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
 
 My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
