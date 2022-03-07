@@ -70,12 +70,12 @@ I am interested in behavioral and functional connectivity for individual differe
 I'm interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.
 
 ### SooHyun Jeon (전수현)
-![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
+<!-- ![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png) -->
 
 I am interested in integrating genetics and brain imaging for mental disorders.
 
 ### Sangsoo Jin (진상수)
-![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
+<!-- ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png) -->
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
