@@ -74,15 +74,15 @@ I'm interested in early diagnosis of several psychiatric disorders such as depre
 
 I am interested in integrating genetics and brain imaging for mental disorders.
 
+### Sangsoo Jin (진상수)
+![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
+
+I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
 <br />
 
 ## Researchers
 
-### Sangsoo Jin (진상수)
-![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
-
-I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
 
 <br />
 
