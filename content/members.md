@@ -62,7 +62,7 @@ My research interest is image signal processing with deep-learning and neuroplas
 ### Yeji Kim (김예지)
 ![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
 
-I am interested in Audio signal processing and Emotion processing with fMRI-EEG.
+I am interested in behavioral and functional connectivity for individual differences.
 
 ### Jundong Hwang (황준동)
 ![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
@@ -78,6 +78,11 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
+
+### Sangsoo Jin (전진수)
+![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
+
+My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
 
 <br />
 
