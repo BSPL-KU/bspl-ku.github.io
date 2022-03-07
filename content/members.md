@@ -69,11 +69,6 @@ I am interested in Audio signal processing and Emotion processing with fMRI-EEG.
 
 I'm interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.
 
-### Yoo Joo Jeong (정유주)
-![JYJ](//bspl.korea.ac.kr/image/bspl/JYJ.png)
-
-I am interested in human decision making and how individual's psychopathological symptoms affects one's choice by using EEG-fmri.
-
 ### SooHyun Jeon (전수현)
 ![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
 
