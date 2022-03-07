@@ -62,7 +62,7 @@ My research interest is image signal processing with deep-learning and neuroplas
 ### Yeji Kim (김예지)
 ![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
 
-I am interested in behavioral and functional connectivity for individual differences.
+I am interested in behaviors and functional connectivity for individual differences.
 
 ### Jundong Hwang (황준동)
 ![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
