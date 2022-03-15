@@ -9,7 +9,7 @@ date: 2022-01-19
 Neuroreport, 33 (5), March 23, 2022 doi: 10.1097/WNR.0000000000001772
 {{</format>}}
 
-![Image](//bspl.korea.ac.kr/Board/Articles/cover_kim_and_lee_NR_2022.jpeg) 
+![Image](//bspl.korea.ac.kr/Board/Articles/cover_kim_and_lee_NR_2022.png) 
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/) /
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spectral+dynamic+causal+modeling+of+mindfulness%2C+mind-wandering%2C+and+resting-state+in+the+triple+network+using+fMRI&btnG=) /
