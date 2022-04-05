@@ -108,7 +108,7 @@ My research interest is emotion processing with deep-learning by combining multi
 
 I'm interested in the relevance between brain and computational model expecting complementary insight on both domains. Mostly, I investigate visual information processing and utilize Deep Neural Networks(DNNs), especially CNNs, for the analysis. -->
 
-**Dong-Youl Kim, Ph.D., Feb/2021** <br />
+**Dong-Youl Kim, M.S. & Ph.D., Feb/2021** <br />
 Postdoctoral Fellow, Fralin Biomedical Research Institute at Virginia Tech Carilion
 <!-- ![KDY](//bspl.korea.ac.kr/image/bspl/KDY.jpg)
 
@@ -148,9 +148,6 @@ Currently at the Korea Institute of Brain Science
 
 **Yong-Hwan Kim, M.S. Feb/2012** <br />
 Currently at the ASAN Medical Center 
-
-**Dong-Youl Kim, M.S. Aug/2011** <br />
-Currently at BSPL as a Ph.D. candidate 
 
 **Eun Kyung Jung, M.A.** <br />
 Completed Ph.D. coursework
