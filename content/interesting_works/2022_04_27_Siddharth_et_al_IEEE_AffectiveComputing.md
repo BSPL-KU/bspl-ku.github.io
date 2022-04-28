@@ -1,5 +1,5 @@
 ---
-title: "[Article] Siddharth, S., Jung, T. P., & Sejnowski, T. J. (2019). Utilizing deep learning towards multi-modal bio-sensing and vision-based affective computing."
+title: "[Article] Utilizing deep learning towards multi-modal bio-sensing and vision-based affective computing."
 date: 2022-04-27
 ---
 
