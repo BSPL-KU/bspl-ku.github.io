@@ -1,5 +1,5 @@
 ---
-title: "[Article] Utilizing deep learning towards multi-modal bio-sensing and vision-based affective computing."
+title: "[Article] Utilizing deep learning towards multi-modal bio-sensing and vision-based affective computing"
 date: 2022-04-27
 ---
 
