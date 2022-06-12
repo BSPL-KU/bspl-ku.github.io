@@ -6,12 +6,10 @@ date: 2022-05-04
 **HC Kim**, **JH Lee**
 
 {{<format bright-green>}}
-<!-- Neuroreport, 32 (9), June 9, 2021 doi: 10.1097/WNR.0000000000001653 -->
-Electronics Letters, accepted
+\Electronics Letters, 11 June 2022 https://doi.org/10.1049/ell2.12519
 {{</format>}}
 
 <!--
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35250518/) /
-[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Electronic+Cigarette+Vaping+Did+Not+Enhance+the+Neural+Process+of+Working+Memory+for+Regular+Cigarette+Smokers&btnG=) /
-[Journal Home](https://www.frontiersin.org/articles/10.3389/fnhum.2022.817538/full)]
--->
+[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Electronic+Cigarette+Vaping+Did+Not+Enhance+the+Neural+Process+of+Working+Memory+for+Regular+Cigarette+Smokers&btnG=) / -->
+[Journal Home](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12519)]
