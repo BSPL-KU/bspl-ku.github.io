@@ -6,7 +6,7 @@ date: 2022-05-04
 **HC Kim**, **JH Lee**
 
 {{<format bright-green>}}
-\Electronics Letters, 11 June 2022 https://doi.org/10.1049/ell2.12519
+Electronics Letters, 11 June 2022 https://doi.org/10.1049/ell2.12519
 {{</format>}}
 
 <!--
