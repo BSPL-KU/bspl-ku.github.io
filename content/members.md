@@ -49,11 +49,6 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
 
-### Minji Park (박민지)
-![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
-
-My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri.
-
 ### Minseok Choi (최민석)
 ![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
 
@@ -89,6 +84,8 @@ My research interest is emotion processing with deep-learning by combining multi
 ## Researchers
 
 
+
+
 <br />
 
 ## Lab Manager
@@ -101,6 +98,10 @@ My research interest is emotion processing with deep-learning by combining multi
 ## Alumni
 
 ### Graduate students
+
+### Minji Park (박민지), May/2022
+<!-- ![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
+My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri. -->
 
 **Minyoung Jung, M.S., Aug/2021** <br />
 <!-- Currently job searching -->
