@@ -99,7 +99,7 @@ My research interest is emotion processing with deep-learning by combining multi
 
 ### Graduate students
 
-### Minji Park (박민지), May/2022
+**Minji Park (박민지), May/2022** <br />
 <!-- ![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
 My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri. -->
 
