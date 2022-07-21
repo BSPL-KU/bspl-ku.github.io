@@ -55,7 +55,9 @@ Brain engineering in healthcare applications and enhancement of human performanc
 # Upcoming Conferences and Meetings
 {{</format>}}
 
-- [OHBM 2022, Glasgow, Scotland, June 19 - 23, 2022!](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4112)
+- [KHBM Summer School 2022, Pyungchang Ramada Hotel, August 26 - 27, 2022!](https://khbm.org/04_symposium/symposium01.htm)
+- [rtFIN 2022, New Haven, CT, USA, October 17 - 21, 2022!](https://rtfin2022.squarespace.com/)
+<!-- - [OHBM 2022, Glasgow, Scotland, June 19 - 23, 2022!](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4112) -->
 
 <br />
 
