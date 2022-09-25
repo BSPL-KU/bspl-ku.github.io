@@ -44,11 +44,6 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 ## MS Candidates
 
-### Jinwoo Hong (홍진우)
-![HJW](//bspl.korea.ac.kr/image/bspl/HJW.png)
-
-My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
-
 ### Minseok Choi (최민석)
 ![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
 
@@ -98,6 +93,12 @@ My research interest is emotion processing with deep-learning by combining multi
 ## Alumni
 
 ### Graduate students
+
+**Jinwoo Hong (홍진우), M.S., Aug/2022** <br/>
+<!-- 
+![HJW](//bspl.korea.ac.kr/image/bspl/HJW.png) -->
+
+My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning.
 
 **Minji Park (박민지), May/2022** <br />
 <!-- ![PMJ](//bspl.korea.ac.kr/image/bspl/PMJ.png)
