@@ -10,7 +10,7 @@ date: 2022-01-20
 Frontiers in Human Neuroscience, 16, January 20, 2022, DOI: 10.3389/fnhum.2022.817538
 {{</format>}}
 
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Kim_etal_Frontiers_HumanNeurosci.jpg)
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Kim_etal_Frontiers_HumanNeurosci.png)
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35250518/) /
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Electronic+Cigarette+Vaping+Did+Not+Enhance+the+Neural+Process+of+Working+Memory+for+Regular+Cigarette+Smokers&btnG=) /
