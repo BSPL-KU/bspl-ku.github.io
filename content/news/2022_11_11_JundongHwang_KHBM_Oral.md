@@ -8,6 +8,8 @@ Jundong Hwang was invited an oral talk at the KHBM 2022 (Nov. 18-19; < 10% out o
 
 Many congratuations and keep up the good work!
 
+![Image](//bspl.korea.ac.kr/Board/Gallery/2022/Jundong_Hwang_22nov11.jpeg)
+
 <!-- ![Image](//bspl.korea.ac.kr/Board/Gallery/2021/JinWooHong_KHBM2021_Award.jpg)
 ![Image](//bspl.korea.ac.kr/Board/Gallery/2021/KHBM_2021_hjw.jpeg) -->
 
