@@ -29,7 +29,12 @@ Brain engineering in healthcare applications and enhancement of human performanc
 {{</format>}}
 
 - [Jundong was invited a oral presentation at KHBM 2022! Many congratulations!!](/news/2022_11_11_jundonghwang_khbm_oral/)
+- [New publication: Systematic evaluation of recursive approach of EEG-segment-based PCA for removal of helium-pump artifact from MRI](/publications/articles/2022_05_04_Kim_and_Lee_Electronics_Letters/)
+- [New publication: Electronic cigarette vaping did not enhance the neural process of working memory for regular cigarette smokers](/publications/articles/2022_01_20_Kim_etal_Frontiers_HumanNeurosci/)
+- [New publication: Spectral dynamic causal modeling of mindfulness, mind-wandering, and resting-state in the triple network using fMRI](/publications/articles/2022_01_19_Kim_Lee_NeuroReport)
 - [Jinwoo received a Poster Award at KHBM 2021! Many congratulations!!](/news/2021_11_06_jinwoo_khbm_posteraward/)
+- [Sungman's new publication: Mixed-effects multilevel analysis followed by canonical correlation analysis is an effective fMRI tool for the investigation of idiosyncrasies](/publications/articles/2021_08_05_Jo_etal_HBM/)
+- [Heeyung's new publication: Acoustic simulation for transcranial focused ultrasound using GAN-based synthetic CT](/publications/articles/2021_08_04_Ko_etal_JBHI)
 - [We awarded a new research grant on Imaging-Genetics!](/news/2021_06_21_ig_grant/)
 - [Dr. Kim awarded a post-doctoral fellowship! Many congrats!!](/news/2021_06_24_drkimdy_postdoc_fellowship/)
 - [We have recently gone through two weeks of the BSPL seminar series! Please check out in the Lab News tab including this (Feb. 27, 2021)](/news/2021_02_27_prof-lee-syoung_kaist_seminar/)
