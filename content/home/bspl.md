@@ -28,6 +28,7 @@ Brain engineering in healthcare applications and enhancement of human performanc
 # Lab news
 {{</format>}}
 
+- [Jundong was invited a oral presentation at KHBM 2022! Many congratulations!!](/news/2022_11_11_jundonghwang_khbm_oral/)
 - [Jinwoo received a Poster Award at KHBM 2021! Many congratulations!!](/news/2021_11_06_jinwoo_khbm_posteraward/)
 - [We awarded a new research grant on Imaging-Genetics!](/news/2021_06_21_ig_grant/)
 - [Dr. Kim awarded a post-doctoral fellowship! Many congrats!!](/news/2021_06_24_drkimdy_postdoc_fellowship/)
