@@ -4,7 +4,7 @@ date: 2022-11-11
 ---
 
 Jundong Hwang was invited an oral talk at the KHBM 2022 (Nov. 18-19; < 10% out of over 60 Abstracts): <br>
-Transfer Learning to Predict General Psychopathology Factor (p-factor) using Scanner-Generalization Neural Networks in Adolescents based on Resting-State Functional Connectivity
+"Transfer Learning to Predict General Psychopathology Factor (p-factor) using Scanner-Generalization Neural Networks in Adolescents based on Resting-State Functional Connectivity"
 
 Many congratuations and keep up the good work!
 
