@@ -28,7 +28,7 @@ Brain engineering in healthcare applications and enhancement of human performanc
 # Lab news
 {{</format>}}
 
-- [Jundong was invited a oral presentation at KHBM 2022! Many congratulations!!](/news/2022_11_11_jundonghwang_khbm_oral/)
+- [Jundong was invited an oral presentation at KHBM 2022! Many congratulations!!](/news/2022_11_11_jundonghwang_khbm_oral/)
 - [New publication: Systematic evaluation of recursive approach of EEG-segment-based PCA for removal of helium-pump artifact from MRI](/publications/articles/2022_05_04_kim_and_lee_electronics_letters/)
 - [New publication: Electronic cigarette vaping did not enhance the neural process of working memory for regular cigarette smokers](/publications/articles/2022_01_20_kim_etal_frontiers_humanneurosci/)
 - [New publication: Spectral dynamic causal modeling of mindfulness, mind-wandering, and resting-state in the triple network using fMRI](/publications/articles/2022_01_19_kim_lee_neuroreport)
