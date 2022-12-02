@@ -1,7 +1,7 @@
 ---
 title: "[Article]  Through the looking glass: deep interpretable dynamic directed connectivity in resting fMRI"
 date: 2022-11-30
----)
+---
 
 Summary: Static functional connectivity matrix is usually calculated using simple Pearson's correlation coefficients. This is simple, but cannot represent the dynamic relations of our brain. Here, they applied self-attention to calculate the attention scores of each embedded region and temporal attention to compute the weighted sum of these dynamic functional connectivities. Using this architecture, called DICE, they were able to classify mental disorders, genders, and predict age in different big datasets. 
 
