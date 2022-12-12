@@ -9,7 +9,7 @@ date: 2022-12-12
 Human Brain Mapping, 2022 Dec 12.  Accepted
 {{</format>}}
 
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2022_Lee_etal_HBM.png)
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Lee_etal_HBM.png)
 
 <!--
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34415651/) /
