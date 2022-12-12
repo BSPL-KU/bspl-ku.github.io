@@ -28,6 +28,7 @@ Brain engineering in healthcare applications and enhancement of human performanc
 # Lab news
 {{</format>}}
 
+- [Our work, "Neural representations of the perception of handwritten digits and visual objects from a convolutional neural network compared to humans" was accepted to Human Brain Mapping! Many congratulations!!](/publications/articles/2022_12_12_lee_etal_hbm/)
 - [Jundong was invited an oral presentation at KHBM 2022! Many congratulations!!](/news/2022_11_11_jundonghwang_khbm_oral/)
 - [Dr. Kim, HC's new publication: Systematic evaluation of recursive approach of EEG-segment-based PCA for removal of helium-pump artifact from MRI](/publications/articles/2022_05_04_kim_and_lee_electronics_letters/)
 - [Dr. Kim, DY's new publication: Electronic cigarette vaping did not enhance the neural process of working memory for regular cigarette smokers](/publications/articles/2022_01_20_kim_etal_frontiers_humanneurosci/)
