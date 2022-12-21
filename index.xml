@@ -38,6 +38,10 @@ Human Brain Mapping, 2022 Dec 12. Accepted
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Gallery/2022/Jundong_Hwang_22nov11.jpeg" alt="Image" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Hwang_KHBM_Oral_Talk_Award.jpg" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/p>
 &lt;!-- ![Image](//bspl.korea.ac.kr/Board/Gallery/2021/JinWooHong_KHBM2021_Award.jpg)
 ![Image](//bspl.korea.ac.kr/Board/Gallery/2021/KHBM_2021_hjw.jpeg) --></description></item><item><title>[Article] Multiview transformers for video recognition.</title><link>https://bspl.korea.ac.kr/interesting_works/2022_11_02_yan_et_al_multiview_transformer/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/interesting_works/2022_11_02_yan_et_al_multiview_transformer/</guid><description>&lt;p>Summary: This is follow-up study of Video Vision Transformer. For multiscale modelling in video recognition task, they used multiview tubulets and applied cross-view attention over seperate transformer models. It is currently SOTA in kinetics600 and 5 other standard video benchmarks. It was introduced in CVPR2022. They also have official code in the scenic project.&lt;/p>
