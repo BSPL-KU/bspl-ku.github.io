@@ -11,9 +11,7 @@ date: 2022-12-21
 Journal of Psychiatric Research, 2022 Dec 21.  Accepted
 {{</format>}}
 
-<!--
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Lee_etal_HBM.png)
--->
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Hong_etal_JPsyschicRes.jpg)
 
 <!--
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34415651/) /
