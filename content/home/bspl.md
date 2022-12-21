@@ -28,7 +28,7 @@ Brain engineering in healthcare applications and enhancement of human performanc
 # Lab news
 {{</format>}}
 
-- [Our work, "General Psychopathology Factor (p-factor) Prediction Using Resting-State Functional Connectivity and a Scanner-Generalization Neural Network" was accepted to Journal of Psychiatric Research! Many congratulations!! (Dec. 21, 2022)](/publications/articles/2022_12_21_Hong_etal_JPsychiatrRes/)
+- [Our work, "General Psychopathology Factor (p-factor) Prediction Using Resting-State Functional Connectivity and a Scanner-Generalization Neural Network" was accepted to Journal of Psychiatric Research! Many congratulations!! (Dec. 21, 2022)](/publications/articles/2022_12_21_hong_etal_jpsychiatrres/)
 - [Our work, "Neural representations of the perception of handwritten digits and visual objects from a convolutional neural network compared to humans" was accepted to Human Brain Mapping! Many congratulations!! (Dec. 12, 2022)](/publications/articles/2022_12_12_lee_etal_hbm/)
 - [Jundong was invited an oral presentation at KHBM 2022! Many congratulations!! (Nov. 11, 2022)](/news/2022_11_11_jundonghwang_khbm_oral/)
 - [Dr. Kim, HC's new publication: Systematic evaluation of recursive approach of EEG-segment-based PCA for removal of helium-pump artifact from MRI](/publications/articles/2022_05_04_kim_and_lee_electronics_letters/)
