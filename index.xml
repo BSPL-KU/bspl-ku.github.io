@@ -2,9 +2,12 @@
 &lt;div class="bright-green ">
 Journal of Psychiatric Research, 2022 Dec 21. Accepted
 &lt;/div>
-&lt;!--
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Lee_etal_HBM.png)
--->
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Hong_etal_JPsyschicRes.jpg" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;!--
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34415651/) /
 [Google Scholar](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;q=Mixed-effects+multilevel+analysis+followed+by+canonical+correlation+analysis+is+an+effective+fMRI+tool+for+the+investigation+of+idiosyncrasies&amp;btnG=) /
