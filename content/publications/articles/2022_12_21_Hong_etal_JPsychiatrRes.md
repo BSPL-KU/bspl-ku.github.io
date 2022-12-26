@@ -12,7 +12,7 @@ Journal of Psychiatric Research, 2022 Dec 21.  Accepted
 {{</format>}}
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Hong_etal_JPsyschicRes.jpg)
-[pdf](//bspl.korea.ac.kr/Board/Article/2022_hong_etal_JPsychiRes_accepted.pdf)
+[pdf](//bspl.korea.ac.kr/Board/Articles/2022_hong_etal_JPsychiRes_accepted.pdf)
 
 <!--
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34415651/) /
