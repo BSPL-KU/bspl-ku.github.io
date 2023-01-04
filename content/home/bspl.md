@@ -6,7 +6,9 @@ title: "Brain Signal Processing Lab"
 subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models"
 ---
 
-Our main research theme is to investigate brain functions (a) measured by various neuroimaging (NI) modalities such as magnetic resonance imaging (MRI) and electroencephalography (EEG) and (b) analyzed by various signal processing, machine learning and deep learning (ML/DL) techniques. We believe that the corresponding findings can be gainfully applied to develop important applications in non-clinical and clinical domains using neuroimaging modalities.
+Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG). <br>
+
+To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains using neuroimaging modalities.
 
 
 <br />
@@ -15,7 +17,9 @@ Our main research theme is to investigate brain functions (a) measured by variou
 # Now, the Question is 
 {{</format>}}
 
-Are the robust and reliable applications in non-clinical and/or clinical domains are possible in real-world scenarios using neuroimaging modalities by deploying signal processing, machine learning, and AI techniques?
+How we can develop robust and reliable applications in non-clinical and/or clinical domains with real-world scenarios using neuroimaging modalities by deploying signal processing, machine learning, and AI techniques? <br>
+
+And, which applications will be the most feasible and thus we need to focus on?
 
 ![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
 
