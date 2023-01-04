@@ -15,7 +15,7 @@ Our main research theme is to investigate brain functions (a) measured by variou
 # Now, the Question is 
 {{</format>}}
 
-Neuroscientific and clinical applications of neuroimaging modalities are possible using neuroimaging modalities by applying signal processing, machine learning, and AI techniques?
+Are the robust and reliable applications in non-clinical and/or clinical domains are possible in real-world scenarios using neuroimaging modalities by deploying signal processing, machine learning, and AI techniques?
 
 ![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
 
