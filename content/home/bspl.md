@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 10
-title: "Brain Signal Processing Lab"
+title: "Brain Signal Processing Laboratoy (BSPL)"
 subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models"
 ---
 
@@ -17,13 +17,13 @@ To this end, our main research themes include the investigation of brain functio
 # Now, the Question is 
 {{</format>}}
 
-How we can develop robust and reliable applications in non-clinical and/or clinical domains with real-world scenarios using neuroimaging modalities by deploying signal processing, machine learning, and AI techniques? <br>
+How can we develop robust and reliable applications in non-clinical and/or clinical domains with real-world scenarios using neuroimaging modalities by deploying signal processing, machine learning, and AI techniques? <br>
 
 And, which applications will be the most feasible and thus we need to focus on?
 
 ![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
 
-If you are interested in joining our lab, please send your bio/personal statement and/or CV to PI.
+If you are interested in joining BSPL, please send your bio/personal statement and/or CV to PI.
 
 BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통합, 박사과정 학생 및 연구원을 모집하고 있습니다. 관심있는 분은 간단한 자기소개와 CV 등을 이메일로 보내주시고, 추가적으로 궁금한 사항을 문의하기 위한 면담을 요청해 주시기 바랍니다.
 
