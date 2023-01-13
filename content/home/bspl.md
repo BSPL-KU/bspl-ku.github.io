@@ -73,9 +73,8 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 # Upcoming Conferences and Meetings
 {{</format>}}
 
-- [KHBM Summer School 2022, Pyungchang Ramada Hotel, August 26 - 27, 2022!](https://khbm.org/04_symposium/symposium01.htm)
-- [rtFIN 2022, New Haven, CT, USA, October 17 - 21, 2022!](https://rtfin2022.squarespace.com/)
-<!-- - [OHBM 2022, Glasgow, Scotland, June 19 - 23, 2022!](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4112) -->
+- [BESK Brain and AI Symposium 2023, Welli Hilli Park, February 16 - 18, 2023](http://besk.kr/board/board.asp?b_code=58&Action=content&GotoPage=1&B_CATE=BBS1))
+- [OHBM 2023, Montréal, Canada, July 22-26, 2023](https://event.fourwaves.com/ohbm2023/pages)
 
 <br />
 
