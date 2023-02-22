@@ -14,3 +14,7 @@ At the workshop, Juhyeon Lee was received a Poster award at the BESK 2023 (Feb. 
 Many congratuations, Juhyeon and keep up the good work!
 
 Also, thank other lab members for presenting their great works!
+
+Of course, we had some funs! ;-)
+
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/BESK2023_winter.png)
