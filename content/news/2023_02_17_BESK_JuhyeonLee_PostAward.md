@@ -15,6 +15,6 @@ Many congratuations, Juhyeon and keep up the good work!
 
 Also, thank other lab members for presenting their great works!
 
-Of course, we had some funs! ;-)
+Of course, we had some funs! :)
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/BESK2023_winter.jpg)
