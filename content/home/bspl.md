@@ -37,7 +37,8 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
-
+- [Graduation of Minseok and Yeji (Feb. 24, 2023)](/news/2023_02_24_graduation/)
+- [We attended the BESK 2023 winter workshop! (Feb. 16-17)](/news/2023_02_17_besk_juhyeonlee_postaward/)
 - [Our work, "General Psychopathology Factor (p-factor) Prediction Using Resting-State Functional Connectivity and a Scanner-Generalization Neural Network" was accepted to Journal of Psychiatric Research! Many congratulations!! (Dec. 21, 2022)](/publications/articles/2022_12_21_hong_etal_jpsychiatrres/)
 - [Our work, "Neural representations of the perception of handwritten digits and visual objects from a convolutional neural network compared to humans" was accepted to Human Brain Mapping! Many congratulations!! (Dec. 12, 2022)](/publications/articles/2022_12_12_lee_etal_hbm/)
 - [Jundong was invited an oral presentation at KHBM 2022! Many congratulations!! (Nov. 11, 2022)](/news/2022_11_11_jundonghwang_khbm_oral/)
@@ -73,7 +74,7 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 # Upcoming Conferences and Meetings
 {{</format>}}
 
-- [BESK Brain and AI Symposium 2023, Welli Hilli Park, February 16 - 18, 2023](http://besk.kr/board/board.asp?b_code=58&Action=content&GotoPage=1&B_CATE=BBS1))
+- [BESK Brain and AI Symposium 2023, Welli Hilli Park, February 16 - 18, 2023](http://besk.kr/board/board.asp?b_code=58&Action=content&GotoPage=1&B_CATE=BBS1)
 - [OHBM 2023, Montréal, Canada, July 22-26, 2023](https://event.fourwaves.com/ohbm2023/pages)
 
 <br />
