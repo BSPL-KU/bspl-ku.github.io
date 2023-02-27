@@ -37,7 +37,7 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
-- [Graduation of Minseok and Yeji (Feb. 24, 2023)](/news/2023_02_24_graduation/)
+- [Graduation of Minseok and Yeji. Many congrats!! (Feb. 24, 2023)](/news/2023_02_24_graduation/)
 - [We attended the BESK 2023 winter workshop! (Feb. 16-17)](/news/2023_02_17_besk_juhyeonlee_postaward/)
 - [Our work, "General Psychopathology Factor (p-factor) Prediction Using Resting-State Functional Connectivity and a Scanner-Generalization Neural Network" was accepted to Journal of Psychiatric Research! Many congratulations!! (Dec. 21, 2022)](/publications/articles/2022_12_21_hong_etal_jpsychiatrres/)
 - [Our work, "Neural representations of the perception of handwritten digits and visual objects from a convolutional neural network compared to humans" was accepted to Human Brain Mapping! Many congratulations!! (Dec. 12, 2022)](/publications/articles/2022_12_12_lee_etal_hbm/)
