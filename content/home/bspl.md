@@ -2,7 +2,8 @@
 widget: blank
 headless: true
 weight: 10
-title: "Brain Signal Processing Laboratoy (BSPL)"
+<!-- title: "Brain Signal Processing Laboratoy (BSPL)" -->
+title: "Brain Science, information Processing, and engineering Laboratoy (BSPL)"
 subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models"
 ---
 
