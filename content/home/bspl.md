@@ -10,7 +10,7 @@ subtitle: "Brain Science and Engineering using Neuroimaging, BioSignals, and Com
 
 Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG). <br>
 
-To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains using neuroimaging modalities.
+To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) and biosignals using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains using neuroimaging modalities.
 
 
 <br />
