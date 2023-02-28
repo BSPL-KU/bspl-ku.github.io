@@ -3,9 +3,10 @@ widget: blank
 headless: true
 weight: 10
 title: "Brain Science, information Processing, and engineering Laboratoy (BSPL)"
-subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models"
+subtitle: "Brain Science and Engineering using Neuroimaging, BioSignals, and Computational Models"
 ---
 <!-- title: "Brain Signal Processing Laboratoy (BSPL)" -->
+<!-- subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models" -->
 
 Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG). <br>
 
