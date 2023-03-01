@@ -34,7 +34,6 @@ One of my research aims is to discover individual distinctiveness in dynamic fun
 
 I'm interested in developing algorithms to figure out how cognitive processes work by using fMRI data.
 
-
 ### JaeEon Kang (강재언)
 ![KJE](//bspl.korea.ac.kr/image/bspl/KJE.png)
 
@@ -43,16 +42,6 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 <br />
 
 ## MS Candidates
-
-### Minseok Choi (최민석)
-![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
-
-My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
-
-### Yeji Kim (김예지)
-![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
-
-I am interested in behaviors and functional connectivity for individual differences.
 
 ### Jundong Hwang (황준동)
 ![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
@@ -93,6 +82,16 @@ My research interest is emotion processing with deep-learning by combining multi
 ## Alumni
 
 ### Graduate students
+
+**Minseok Choi (최민석), M.S., Feb/2023** <br/>
+<!-- 
+![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
+My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI. -->
+
+**Yeji Kim (김예지), M.S., Feb/2023** <br/>
+<!--
+![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
+I am interested in behaviors and functional connectivity for individual differences. -->
 
 **Jinwoo Hong (홍진우), M.S., Aug/2022** <br/>
 <!-- 
