@@ -8,9 +8,9 @@ subtitle: "Brain Science and Information Processing for Engineering using Neuroi
 <!-- title: "Brain Signal Processing Laboratoy (BSPL)" -->
 <!-- subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models" -->
 
-Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG). <br>
+Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities, biosignals, and a variety of information. <br>
 
-To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) and biosignals using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains using neuroimaging modalities.
+To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG), biosignals, and a variety of information using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains.
 
 
 <br />
@@ -19,7 +19,7 @@ To this end, our main research themes include the investigation of brain functio
 # Now, the Question is 
 {{</format>}}
 
-How can we develop robust and reliable applications in non-clinical and/or clinical domains with real-world scenarios using neuroimaging modalities by deploying signal processing, machine learning, and AI techniques? <br>
+How can we develop robust and reliable applications in non-clinical and/or clinical domains with real-world scenarios using these dataset by deploying signal processing, machine learning, and AI techniques? <br>
 
 And, which applications will be the most feasible and thus we need to focus on?
 
