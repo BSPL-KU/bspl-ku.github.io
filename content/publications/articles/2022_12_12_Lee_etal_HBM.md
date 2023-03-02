@@ -6,7 +6,7 @@ date: 2022-12-12
 **Juhyeon Lee**; **Minyoung Jung**; **Niv Lustig**; **Jong-Hwan Lee**
 
 {{<format bright-green>}}
-Human Brain Mapping, 2022 Dec 12.  Accepted
+Human Brain Mapping, 2022 Dec 12. pp.2018-2038, 44(5), April 1, 2023
 {{</format>}}
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2022/2022_Lee_etal_HBM.png)
