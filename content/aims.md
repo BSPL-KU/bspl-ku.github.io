@@ -9,11 +9,11 @@ header:
   image: ""
 ---
 
-Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG). <br>
+Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG), biosignals, and a variety of information and data. <br>
 
-To this end, we deploy signal processing techniques, machine learning, and AI techniques toward robust prediction/classification of both normal and abnormal brain functions and enhancement of brain functions in basic neuroscientific, clinical, and non-clinical domains.
+To this end, we deploy signal processing techniques, machine learning, and AI techniques for brain science research and engineering applications such as robust prediction/classification of both normal and abnormal brain functions and enhancement of brain functions in basic neuroscientific, clinical, and non-clinical domains.
 
-Please refer to the Publications tab for more detailed research that we’ve conducted. <br><br>
+Please refer to the Publications tab for more detailed research that we have conducted. <br><br>
 
 BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정방법들(예, MRI/fMRI, EEG)을 활용한 기술 및 시스템의 개발을 궁극적인 목표로 하고 있습니다. <br>
 
