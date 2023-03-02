@@ -8,7 +8,7 @@ subtitle: "Brain Science and Information Processing for Engineering using Neuroi
 <!-- title: "Brain Signal Processing Laboratoy (BSPL)" -->
 <!-- subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models" -->
 
-Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities, biosignals, and a variety of information. <br>
+Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities, biosignals, and a variety of information and data. <br>
 
 To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG), biosignals, and a variety of information using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains.
 
