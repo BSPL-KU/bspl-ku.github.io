@@ -1,5 +1,5 @@
 ---
-title: "OHBM 2023 Oral Presentation for Photographer (Sangsoo et al.)"
+title: "OHBM 2023 Oral Presentation for Photographer (Sangsoo Jin et al.)"
 date: 2023-04-23 
 ---
 
