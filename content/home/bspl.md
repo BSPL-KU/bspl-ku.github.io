@@ -39,6 +39,8 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
+- [Our work, "Reliability of self-reported dispositional mindfulness scales and their association with working memory performance and functional connectivity" was accepted in Brain and Cognition! Many congratulations!! (May 17, 2023)](/publications/articles/2023_05_17_kim_etal_brainncognition/)
+- [Our study using Photographer paradigm was invited as an oral presentation at OHBM 2023!! (Apr. 23, 2023)](/news/2023_04_22_ohbm_oral_sangsoo_photographer/)
 - [Graduation of Minseok and Yeji. Many congrats!! (Feb. 24, 2023)](/news/2023_02_24_graduation/)
 - [We attended the BESK 2023 winter workshop! (Feb. 16-17)](/news/2023_02_17_besk_juhyeonlee_postaward/)
 - [Our work, "General Psychopathology Factor (p-factor) Prediction Using Resting-State Functional Connectivity and a Scanner-Generalization Neural Network" was accepted to Journal of Psychiatric Research! Many congratulations!! (Dec. 21, 2022)](/publications/articles/2022_12_21_hong_etal_jpsychiatrres/)
