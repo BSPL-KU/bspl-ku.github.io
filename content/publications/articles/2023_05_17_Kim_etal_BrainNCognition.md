@@ -9,7 +9,7 @@ date: 2023-05-17
 Brain and Cognition, Accepted
 {{</format>}}
 
-![Image](//bspl.korea.ac.kr/Board/Articles/kim_etal_brcg_2023/kim_etal_brcg_2023.jpg)
+![Image](//bspl.korea.ac.kr/Board/Articles/kim_etal_brcg_2023/kim_etal_brcg_2023.png)
 [Main manuscript](//bspl.korea.ac.kr/Board/Articles/kim_etal_brcg_2023/MS_MYM_Nback_R1_v1p2_clean.pdf), 
 [Table](//bspl.korea.ac.kr/Board/Articles/kim_etal_brcg_2023/table_MYM_Nback_R1_v1p2_clean.pdf), 
 [Supplementary materials](//bspl.korea.ac.kr/Board/Articles/kim_etal_brcg_2023/suppl_MYM_Nback_R1_v1p1_clean.pdf)
