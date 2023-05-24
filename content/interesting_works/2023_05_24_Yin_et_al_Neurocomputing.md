@@ -1,5 +1,5 @@
 ---
-title: "[Article] Transformer-based multimodal information fusion for facial expression analysis."
+title: "[Article] A semi-supervised autoencoder for autism disease diagnosis."
 date: 2023-04-26
 ---
 
