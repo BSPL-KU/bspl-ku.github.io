@@ -16,6 +16,6 @@ Heliyon, Accepted
 [Supplementary materials](//bspl.korea.ac.kr/Board/Articles/kim_etal_brcg_2023/suppl_MYM_Nback_R1_v1p1_clean.pdf)
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37235929/) /
-[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reliability+of+self-reported+dispositional+mindfulness+scales+and+their+association+with+working+memory+performance+and+functional+connectivity&btnG=) /
+[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Autoencoder+and+restricted+Boltzmann+machine+for+transfer+learning+in+functional+magnetic+resonance+imaging+task+classification&btnG=) /
 [Journal Home](https://www.sciencedirect.com/science/article/pii/S0278262623000581)]
 -->
