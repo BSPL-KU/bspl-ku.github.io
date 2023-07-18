@@ -6,7 +6,7 @@ date: 2023-07-06
 **Jundong Hwang**; **Niv Lustig**; **Minyoung Jung**; **Jong-Hwan Lee**
 
 {{<format bright-green>}}
-Heliyon, Accepted
+Heliyon, Volume 9, Issue 7, July 2023, e18086
 {{</format>}}
 
 <!--
@@ -17,5 +17,5 @@ Heliyon, Accepted
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37235929/) /
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Autoencoder+and+restricted+Boltzmann+machine+for+transfer+learning+in+functional+magnetic+resonance+imaging+task+classification&btnG=) /
-[Journal Home](https://www.sciencedirect.com/science/article/pii/S0278262623000581)]
+[Journal Home](https://www.sciencedirect.com/science/article/pii/S2405844023052945)]
 -->
