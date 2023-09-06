@@ -43,10 +43,6 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 ## MS Candidates
 
-### Jundong Hwang (황준동)
-![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
-
-I'm interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.
 
 ### SooHyun Jeon (전수현)
 ![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
@@ -67,7 +63,10 @@ My research interest is emotion processing with deep-learning by combining multi
 
 ## Researchers
 
+### Jundong Hwang (황준동)
+![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
 
+I'm interested in AI-baed CAD(computer aided diagnosis) of several psychiatric disorders such as depression, autism, to treat them right on time.
 
 
 <br />
