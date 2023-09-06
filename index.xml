@@ -3505,13 +3505,16 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/li>
 &lt;li>&lt;a href="#ms-candidates">MS Candidates&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#jundong-hwang-황준동">Jundong Hwang (황준동)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#soohyun-jeon-전수현">SooHyun Jeon (전수현)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jinsoo-jeon-전진수">Jinsoo Jeon (전진수)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="#researchers">Researchers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#researchers">Researchers&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#jundong-hwang-황준동">Jundong Hwang (황준동)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>&lt;a href="#lab-manager">Lab Manager&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/a>&lt;/li>
@@ -3564,14 +3567,6 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;p>I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.&lt;/p>
 &lt;br />
 &lt;h2 id="ms-candidates">MS Candidates&lt;/h2>
-&lt;h3 id="jundong-hwang-황준동">Jundong Hwang (황준동)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/HJD.png" alt="HJD" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I&amp;rsquo;m interested in early diagnosis of several psychiatric disorders such as depression, bipolar disorder, to treat them in early stage.&lt;/p>
 &lt;h3 id="soohyun-jeon-전수현">SooHyun Jeon (전수현)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -3598,6 +3593,14 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;p>My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.&lt;/p>
 &lt;br />
 &lt;h2 id="researchers">Researchers&lt;/h2>
+&lt;h3 id="jundong-hwang-황준동">Jundong Hwang (황준동)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/HJD.png" alt="HJD" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>I&amp;rsquo;m interested in AI-baed CAD(computer aided diagnosis) of several psychiatric disorders such as depression, autism, to treat them right on time.&lt;/p>
 &lt;br />
 &lt;h2 id="lab-manager">Lab Manager&lt;/h2>
 &lt;h3 id="jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/h3>
