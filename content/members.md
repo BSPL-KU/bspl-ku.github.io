@@ -82,6 +82,9 @@ I'm interested in AI-baed CAD(computer aided diagnosis) of several psychiatric d
 
 ### Graduate students
 
+**JunDong Hwang (황준동), M.S., Mar/2021 - Aug/2023)** <br/>
+
+
 **Minseok Choi (최민석), M.S., Feb/2023** <br/>
 <!-- 
 ![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
