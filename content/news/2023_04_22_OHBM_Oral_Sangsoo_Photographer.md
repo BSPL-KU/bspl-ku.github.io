@@ -8,3 +8,5 @@ Our work, "How to Be a Good Photographer: Multi-modal Learning In a Real-life En
 Many congratulations Sangsoo and others for their dedicated effort and great work!! 
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/OHBM2023_Oral_Photographer.png)
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/OHBM/SSJ_ohbm2023_present_01.jpg)
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/OHBM/SSJ_ohbm2023_present_02.jpg)
