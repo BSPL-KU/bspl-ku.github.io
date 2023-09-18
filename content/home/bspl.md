@@ -39,6 +39,7 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
+- [Invited Seminar: Dr. Dong-Youl Kim, real-time fMRI-based neurofeedback using machine learning technique](/news/2023_09_08_drdykim_seminar/)
 - [We attended an annual meeting of Organization for Human Brain Mapping (OHBM), Montreal, Canada](/news/2023_07_24_ohbm/)
 - [We awarded a Basic Research Laboratory (BRL) grant on the developement of real-time fMRI-based neural reinforcement learning technique! (June 27, 2023)](/news/2023_06_27_brl_grant/)
 - [We attended a summer workshop of Brain Engineering Society of Korea (BESK) 2023, and awarded two Best Poster Awards!!](/news/2023_06_22_besk_summer/)
