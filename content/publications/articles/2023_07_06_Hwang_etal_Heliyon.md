@@ -10,7 +10,7 @@ Heliyon, Volume 9, Issue 7, July 2023, e18086
 {{</format>}}
 
 
-![Image](//bspl.korea.ac.kr/Board/Articles/Hwang_etal_Heliyon_2023.jpg)
+![Image](//bspl.korea.ac.kr/Board/Articles/hwang_etal_heliyon_2023.jpg)
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37519689/) /
 [Google Scholar](https://scholar.google.co.kr/scholar?hl=en&as_sdt=0%2C22&q=Autoencoder+and+restricted+Boltzmann+machine+for+transfer+learning+in+functional+magnetic+resonance+imaging+task+classification&btnG=) /
