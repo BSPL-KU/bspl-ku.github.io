@@ -41,6 +41,7 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{</format>}}
 - [We attended an annual meeting of Organization for Human Brain Mapping (OHBM), Montreal, Canada](/news/2023_07_24_ohbm/)
 - [We awarded a Basic Research Laboratory (BRL) grant on the developement of real-time fMRI-based neural reinforcement learning technique! (June 27, 2023)](/news/2023_06_27_brl_grant/)
+- [We attended a summer workshop of Brain Engineering Society of Korea (BESK) 2023, and awarded two Best Poster Awards!!](/news/2023_06_22_besk_summer/)
 - [Our work, "Autoencoder and restricted Boltzmann machine for transfer learning in functional magnetic resonance imaging task classification" was accepted in Heliyon! Many congratulations!! (July 6, 2023)](/publications/articles/2023_07_06_hwang_etal_heliyon/)
 - [Our work, "Reliability of self-reported dispositional mindfulness scales and their association with working memory performance and functional connectivity" was accepted in Brain and Cognition! Many congratulations!! (May 17, 2023)](/publications/articles/2023_05_17_kim_etal_brainncognition/)
 - [Our study using Photographer paradigm was invited as an oral presentation at OHBM 2023!! (Apr. 23, 2023)](/news/2023_04_22_ohbm_oral_sangsoo_photographer/)
