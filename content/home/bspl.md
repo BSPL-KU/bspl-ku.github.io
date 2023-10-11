@@ -2,15 +2,17 @@
 widget: blank
 headless: true
 weight: 10
-title: "Brain Science and information Processing for engineering Lab (BSPL)"
-subtitle: "Brain Science and Information Processing for Engineering using Neuroimaging, BioSignals, and Computational Models"
+title: "AI-enabled Brain Signal Processing Lab (AI-BSPL)"
+subtitle: "Building AI-enabled Computational Models for Brain Science and Engineering"
 ---
 <!-- title: "Brain Signal Processing Laboratoy (BSPL)" -->
 <!-- subtitle: "Brain Science and Engineering using Neuroimaging Modality and Computational Models" -->
+<!-- title: "Brain Science and information Processing for engineering Lab (BSPL)" -->
+<!-- subtitle: "Brain Science and Information Processing for Engineering using Neuroimaging, BioSignals, and Computational Models" -->
 
-Our ultimate goal is to develop practical applications in real-world scenarios using non-invasive neuroimaging modalities, biosignals, and a variety of information and data. <br>
+Our ultimate goal is to build AI-enabled models and develop their applications in real-world scenarios using brain signals. <br>
 
-To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG), biosignals, and a variety of information and data using various signal processing, machine learning, and AI techniques. We believe that our findings can be gainfully applied to develop important applications in non-clinical and clinical domains.
+To this end, our main research themes include the investigation of brain functions measured by various neuroimaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG), biosignals, and a variety of information and data using AI models along with signal processing and machine learning techniques. We believe our findings will be gainfully applied to develop essential applications in various domains.
 
 
 <br />
@@ -19,13 +21,13 @@ To this end, our main research themes include the investigation of brain functio
 # Now, the Question is 
 {{</format>}}
 
-How can we develop robust and reliable applications in non-clinical and/or clinical domains with real-world scenarios using these dataset by deploying signal processing, machine learning, and AI techniques? <br>
+How can we develop such AI-enabled models for brain signals applicable in real-world scenarios? <br>
 
-And, which applications will be the most feasible and thus we need to focus on?
+And, what would be the most feasible applications for us to focus on?
 
 ![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
 
-If you are interested in joining BSPL, please send your bio/personal statement and/or CV to PI.
+If you want to join BSPL, please send your bio/personal statement and/or CV to PI.
 
 BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통합, 박사과정 학생 및 연구원을 모집하고 있습니다. 관심있는 분은 간단한 자기소개와 CV 등을 이메일로 보내주시고, 추가적으로 궁금한 사항을 문의하기 위한 면담을 요청해 주시기 바랍니다.
 
