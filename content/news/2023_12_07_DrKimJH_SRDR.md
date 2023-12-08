@@ -3,7 +3,7 @@ title: "Dr. Kim, Junhoe was appointed as a director at Samsung R&D Institute Rus
 date: 2023-12-07
 ---
 
-<center> <img src='https://bspl.korea.ac.kr/Board/Lab_News/2023/DrKimJuh.jpg' width=400> </center>
+<img src='https://bspl.korea.ac.kr/Board/Lab_News/2023/DrKimJuh.jpg' width=400>
 
 <p style='font-size: 20px'> Our alumni Dr. Junghoe Kim has been appointed as a director at Samsung R&D Institute Russia from 2024.
 
