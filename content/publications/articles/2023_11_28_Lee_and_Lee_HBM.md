@@ -13,6 +13,6 @@ Human Brain Mapping, 2023 Nov 28. Accepted
 
 <!--
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/36637109/) /
-[Journal Home](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26189)/
+[Journal Home](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26561)/
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Neural+representations+of+the+perception+of+handwritten+digits+and+visual+objects+from+a+convolutional+neural+network+compared+to+humans&btnG=)]
 -->
