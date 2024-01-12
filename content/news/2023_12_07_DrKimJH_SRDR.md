@@ -1,5 +1,5 @@
 ---
-title: "Dr. Kim, Junhoe was appointed as a director at Samsung R&D Institute Russia"
+title: "Dr. Kim, Junghoe was appointed as a director at Samsung R&D Institute Russia"
 date: 2023-12-07
 ---
 
