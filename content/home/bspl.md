@@ -41,7 +41,7 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
-- [Dr. Kim, Junhoe was appointed as a director at Samsung R&D Institute Russia! (Dec. 7, 2023)](/news/2023_12_07_drkimjh_srdr//)
+- [Dr. Kim, Junghoe was appointed as a director at Samsung R&D Institute Russia! (Dec. 7, 2023)](/news/2023_12_07_drkimjh_srdr//)
 - [Our work, "Discovering Individual Fingerprints in Resting-State Functional Connectivity using Deep Neural Networks" was accepted in Human Brain Mapping! (Nov. 28, 2023)](/publications/articles/2023_11_28_lee_and_lee_hbm/)
 - [KHBM 2023 Oral Presentations for Juhyeon, Changha, and SooHyun, and Best Poster Award for Sangsoo! (Oct. 27, 2023)](/news/2023_10_27to28_khbm_2023/)
 - [Invited Seminar: Dr. Dong-Youl Kim, real-time fMRI-based neurofeedback using machine learning technique](/news/2023_09_08_drdykim_seminar/)
