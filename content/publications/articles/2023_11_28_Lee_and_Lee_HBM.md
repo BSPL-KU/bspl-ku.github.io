@@ -6,7 +6,7 @@ date: 2023-11-28
 **Juhyeon Lee**; **Jong-Hwan Lee**
 
 {{<format bright-green>}}
-Human Brain Mapping, 2023 Nov 28. Accepted
+Human Brain Mapping, 2023 Nov 28. Volume45, Issue1, January 2024, e26561
 {{</format>}}
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/2023_Lee_and_Lee_HBM.tif)
