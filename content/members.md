@@ -77,7 +77,7 @@ My research interest is emotion processing with deep-learning by combining multi
 ### Graduate students
 
 **JunDong Hwang (황준동), M.S., Aug/2023** <br/>
-
+Currently at Neurophet
 
 **Minseok Choi (최민석), M.S., Feb/2023** <br/>
 <!-- 
