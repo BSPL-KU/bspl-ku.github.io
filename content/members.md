@@ -161,8 +161,8 @@ Completed MS coursework
 
 ### Researchers and Research Assistants
 
-**JunDong Hwang (July/2020 - Feb/2021)** <br />
-School of Life Sciences, Korea University
+**JunDong Hwang (July/2020 - Feb/2021)/(Aug/2023 - Dec/2023)** <br />
+School of Life Sciences, Korea University/Institue of Brain and Cognitive Engineering, Korea University
 
 **Niv Lustig (Sep/2020 - Dec/2020)** <br />
 Brain Engineering Institute, Korea University
