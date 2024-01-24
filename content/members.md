@@ -63,12 +63,6 @@ My research interest is emotion processing with deep-learning by combining multi
 
 ## Researchers
 
-### Jundong Hwang (황준동)
-![HJD](//bspl.korea.ac.kr/image/bspl/HJD.png)
-
-I'm interested in AI-based CAD(computer aided diagnosis) of several psychiatric disorders such as depression, autism, to treat them right on time.
-
-
 <br />
 
 ## Lab Manager
