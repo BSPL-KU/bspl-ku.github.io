@@ -6,7 +6,7 @@ date: 2024-01-29
 **Minseok Choi**, **Hyun-Chul Kim**, **Inchan Youn**, **Song Joo Lee**, **Jong-Hwan Lee**
 
 {{<format bright-green>}}
-Journal of NeuroEngineering and Rehabilitatoin, 2024 January 29. Accepted
+Journal of NeuroEngineering and Rehabilitation, 2024 January 29. Accepted
 {{</format>}}
 
 <!--
