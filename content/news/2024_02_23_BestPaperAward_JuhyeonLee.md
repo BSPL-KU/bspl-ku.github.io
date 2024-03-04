@@ -1,5 +1,5 @@
 ---
-title: "Best Paper Award for Juhyeon Lee and Jundong Hwang"
+title: "Best Paper Award for Juhyeon Lee"
 date: 2024-02-23
 ---
 
