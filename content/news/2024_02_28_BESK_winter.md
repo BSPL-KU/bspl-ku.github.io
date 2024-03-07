@@ -7,12 +7,15 @@ We attended the Winter Symposium of Brain Engineering Society of Korea (BESK), F
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_winter/BESK_24feb.jpg)
 
+
 We had a lot of fun together :)
 
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_winter/BESK_24feb_dinner.jpg)
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_winter/BESK_24feb_ski.jpeg)
 
+
 At the poster session of the workshop, Sangsoo and Juheyon received the Best Poster Award for their works as follows:
+
 
 Juhyeon Lee, JunHo Seo, Hyunsung Kim, Minki Kim, Sangsoo Jin, ByungJun Lee, Jong-Hwan Lee, DQN Agents: Understanding Brain Representation in Real-world Reinforcement Learning, Brain Engineering Society of Korea (BESK) 2024/Feb
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_winter/BESK_2024_winter_poster_award_juhyeon.jpg)
