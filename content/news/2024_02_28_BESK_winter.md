@@ -14,7 +14,7 @@ We had a lot of fun together :)
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_winter/BESK_24feb_ski.jpeg)
 
 
-At the poster session of the workshop, Sangsoo and Juheyon received the Best Poster Award for their works as follows:
+At the poster session of the workshop, Juhyeon and Soohyun received the Best Poster Award for their works as follows:
 
 
 Juhyeon Lee, JunHo Seo, Hyunsung Kim, Minki Kim, Sangsoo Jin, ByungJun Lee, Jong-Hwan Lee, DQN Agents: Understanding Brain Representation in Real-world Reinforcement Learning, Brain Engineering Society of Korea (BESK) 2024/Feb
