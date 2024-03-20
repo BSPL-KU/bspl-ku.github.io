@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 10
-title: "AI-enabled Brain Signal Processing Lab (AI-BSPL)"
+title: "AI-enabled Brain Signal Processing Lab (aiBSPL)"
 subtitle: "Building AI-enabled Computational Models for Brain Science and Engineering"
 ---
 <!-- title: "Brain Signal Processing Laboratoy (BSPL)" -->
@@ -21,9 +21,9 @@ To this end, our main research themes include the investigation of brain functio
 # Now, the Question is 
 {{</format>}}
 
-How can we develop such AI-enabled models for brain signals applicable in real-world scenarios? <br>
+How can we build such AI-enabled models for brain signals and apply the models in real-world scenarios? <br>
 
-And, what would be the most feasible applications for us to focus on?
+What would be the most feasible applications for us to focus on?
 
 ![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
 
@@ -41,6 +41,11 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
+-[Lab dinner and Farewell of Jundong and Soohyun](/news/2024_03_04_2024_02_23_dinner_graduation/)
+-[Assistant Professor Appointment for our alumnus, Hojin Jang](/news/2024_03_01_drhojinjang_facultyposition/)
+-[BESK 2024 Brain and AI Symposium: Awards and having some fun!](/news/2024_02_28_besk_winter/)
+-[BCI 2024 conference participation and poster/oral presentations!](/news/2024_02_26_bci2024/)
+- [Best paper award from Korea University for Juhyeon!](/news/2024_02_23_bestpaperaward_juhyeonlee/)
 - [Our work, "Use of functional magnetic resonance imaging to identify cortical loci for lower limb movements and their efficacy for individuals after stroke," was accepted in the Journal of NeuroEngineering and Rehabilitation! (Jan. 29, 2024)](/publications/articles/2024_01_29_choi_etal_jner/)
 - [Dr. Kim, Junghoe was appointed as a director at Samsung R&D Institute Russia! (Dec. 7, 2023)](/news/2023_12_07_drkimjh_srdr//)
 - [Our work, "Discovering Individual Fingerprints in Resting-State Functional Connectivity using Deep Neural Networks" was accepted in Human Brain Mapping! (Nov. 28, 2023)](/publications/articles/2023_11_28_lee_and_lee_hbm/)
@@ -89,8 +94,9 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 # Upcoming Conferences and Meetings
 {{</format>}}
 
-- [BESK Brain and AI Symposium 2023, Welli Hilli Park, February 16 - 18, 2023](http://besk.kr/board/board.asp?b_code=58&Action=content&GotoPage=1&B_CATE=BBS1)
-- [OHBM 2023, Montréal, Canada, July 22-26, 2023](https://event.fourwaves.com/ohbm2023/pages)
+- [OHBM 2024, Seoul, Korea, June 23-27, 2024](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229)
+- [rtFIN 2024, Heidelberg, Germany, November 3 – 6, 2024](https://rtfin2024.org/)
+
 
 <br />
 
