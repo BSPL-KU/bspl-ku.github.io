@@ -43,12 +43,6 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 ## MS Candidates
 
-
-### SooHyun Jeon (전수현)
-![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
-
-I am interested in integrating genetics and brain imaging for mental disorders.
-
 ### Sangsoo Jin (진상수)
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 
@@ -59,9 +53,20 @@ I am interested in brain mechanisms of recognizing objects and learning complex 
 
 My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
 
+
+### Minwoo Lee (이민우)
+
+
+
 <br />
 
 ## Researchers
+
+### SooHyun Jeon, M.S. (전수현)
+![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
+
+I am interested in integrating genetics and brain imaging for mental disorders.
+
 
 <br />
 
@@ -75,6 +80,9 @@ My research interest is emotion processing with deep-learning by combining multi
 ## Alumni
 
 ### Graduate students
+
+**SooHyun Jeon (전수현), M.S., Feb/2024** <br/>
+Currently Researcher at Brain and Cognitive Engineering Institute, Korea University
 
 **JunDong Hwang (황준동), M.S., Aug/2023** <br/>
 Currently at Neurophet
