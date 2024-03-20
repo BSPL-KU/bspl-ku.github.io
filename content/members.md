@@ -41,6 +41,12 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 <br />
 
+### Minwoo Lee (이민우)
+
+
+
+<br />
+
 ## MS Candidates
 
 ### Sangsoo Jin (진상수)
@@ -52,9 +58,6 @@ I am interested in brain mechanisms of recognizing objects and learning complex 
 ![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
 
 My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
-
-
-### Minwoo Lee (이민우)
 
 
 
