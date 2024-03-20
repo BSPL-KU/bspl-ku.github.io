@@ -41,10 +41,10 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 {{<format crimson text-center>}}
 # Lab news
 {{</format>}}
--[Lab dinner and Farewell of Jundong and Soohyun](/news/2024_03_04_2024_02_23_dinner_graduation/)
--[Assistant Professor Appointment for our alumnus, Hojin Jang](/news/2024_03_01_drhojinjang_facultyposition/)
--[BESK 2024 Brain and AI Symposium: Awards and having some fun!](/news/2024_02_28_besk_winter/)
--[BCI 2024 conference participation and poster/oral presentations!](/news/2024_02_26_bci2024/)
+- [Lab dinner and Farewell of Jundong and Soohyun](/news/2024_03_04_2024_02_23_dinner_graduation/)
+- [Assistant Professor Appointment for our alumnus, Hojin Jang](/news/2024_03_01_drhojinjang_facultyposition/)
+- [BESK 2024 Brain and AI Symposium: Awards and having some fun!](/news/2024_02_28_besk_winter/)
+- [BCI 2024 conference participation and poster/oral presentations!](/news/2024_02_26_bci2024/)
 - [Best paper award from Korea University for Juhyeon!](/news/2024_02_23_bestpaperaward_juhyeonlee/)
 - [Our work, "Use of functional magnetic resonance imaging to identify cortical loci for lower limb movements and their efficacy for individuals after stroke," was accepted in the Journal of NeuroEngineering and Rehabilitation! (Jan. 29, 2024)](/publications/articles/2024_01_29_choi_etal_jner/)
 - [Dr. Kim, Junghoe was appointed as a director at Samsung R&D Institute Russia! (Dec. 7, 2023)](/news/2023_12_07_drkimjh_srdr//)
