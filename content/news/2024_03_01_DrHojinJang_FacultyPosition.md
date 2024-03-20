@@ -15,9 +15,12 @@ date: 2024-03-01
 
 <p style='font-size: 20px'> Many congrats Dr. Jang for your achievement! </p>
 
-<p style='font-size: 20px'> All the best in your new position and keep up the great work! </p> </div>
+<p style='font-size: 20px'> All the best in your new position and keep up the great work! </p> 
+
+https://bspl-ku.github.io/news/2016_08_01_2016.06.26_-_30_ohbm_2016_annual_meeting/
+
+</div>
         </td>
     </tr>
 </table>
 
-https://bspl-ku.github.io/news/2016_08_01_2016.06.26_-_30_ohbm_2016_annual_meeting/
