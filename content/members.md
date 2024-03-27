@@ -66,7 +66,7 @@ My research interest is emotion processing with deep-learning by combining multi
 
 ## Researchers
 
-### SooHyun Jeon, M.S. (전수현)
+### Soohyun Jeon (전수현)
 ![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
 
 I am interested in integrating genetics and brain imaging for mental disorders.
