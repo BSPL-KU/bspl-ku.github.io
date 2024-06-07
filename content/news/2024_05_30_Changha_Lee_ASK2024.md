@@ -14,3 +14,4 @@ Title: Characterizing Emotional Changes and Brain Signals with Binaural Beats an
 
 ![](http://bspl.korea.ac.kr/Board/Lab_News/2024/ASK2024_Spring_HMC_Session.jpg)
 
+![](http://bspl.korea.ac.kr/Board/Lab_News/2024/ASK2024_CHL_photo.jpg)
