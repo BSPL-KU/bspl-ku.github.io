@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lab News | Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/news/</link><atom:link href="https://bspl.korea.ac.kr/news/index.xml" rel="self" type="application/rss+xml"/><description>Lab News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 BSPL</copyright><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>https://bspl.korea.ac.kr/media/icon_hu746e86b219933ead05b970d8e60fbf48_161589_512x512_fill_lanczos_center_3.png</url><title>Lab News</title><link>https://bspl.korea.ac.kr/news/</link></image><item><title>Annual meeting of OHBM 2024</title><link>https://bspl.korea.ac.kr/news/2024_06_23_ohbm/</link><pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2024_06_23_ohbm/</guid><description>&lt;p>The Annual meeting of the Organization of Human Brain Mapping (OHBM) was held in COEX, Seoul, Korea! (June 23-27)&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lab News | Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/news/</link><atom:link href="https://bspl.korea.ac.kr/news/index.xml" rel="self" type="application/rss+xml"/><description>Lab News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 BSPL</copyright><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>https://bspl.korea.ac.kr/media/icon_hu746e86b219933ead05b970d8e60fbf48_161589_512x512_fill_lanczos_center_3.png</url><title>Lab News</title><link>https://bspl.korea.ac.kr/news/</link></image><item><title>BESK 2024 Summer Workshop</title><link>https://bspl.korea.ac.kr/news/2024_06_28_besk_summer/</link><pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2024_06_28_besk_summer/</guid><description>&lt;p>We attended the Summer Workshop of Brain Engineering Society of Korea (BESK), June 28~June 30, Grabel Hotel, Jeju, Korea.
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_28Jun_workshop.jpg" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>We presented our work at the poster session of the workshop!&lt;/p>
+&lt;p>Juhyeon Lee, Sangsoo Jin, MinSeok Choi, Jong-Hwan Lee, Utilizing Modality Discriminating Brain Decoder in a Real-time Neurofeedback Training of Selective Attention, Brain Engineering Society of Korea (BESK) 2024/June
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_29Jun_poster_session_juhyeon.JPG" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Changha Lee, Jae-eon Kang, Jong-Hwan Lee, EEG and fMRI Analysis of Emotion Regulation with Binaural Beats and Vehicle Noise, Brain Engineering Society of Korea (BESK) 2024/June
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_29Jun_poster_session_changha.JPG" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Jae-eon Kang, Juhyeon Lee, Changha Lee, Jong-Hwan Lee, MGCA: Masked Graph Clustering Autoencoder for Pretraining Functional Connectivity Data, Brain Engineering Society of Korea (BESK) 2024/June
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_29Jun_poster_session_jaeEon.JPG" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Sangsoo Jin, Juhyeon Lee, Jong-Hwan Lee, Investigation of Brain Functional Connectivity Networks Reflecting Exploration During a Naturalistic Reinforcement Learning, Brain Engineering Society of Korea (BESK) 2024/June
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_29Jun_poster_session_sangsoo.JPG" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Jinsoo Jeon, Jong-Hwan Lee, Real-Time Remote Eye Movement Detection using Electrooculography and Deep Neural Network, Brain Engineering Society of Korea (BESK) 2024/June
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_29Jun_poster_session_jinsoo.JPG" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Changha received the Best Poster Award for their works as follows:&lt;/p>
+&lt;p>Changha Lee, Jae-eon Kang, Jong-Hwan Lee, EEG and fMRI Analysis of Emotion Regulation with Binaural Beats and Vehicle Noise, Brain Engineering Society of Korea (BESK) 2024/June
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_winter/BESK_2024_summer_poster_award_changha.jpg" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Many congratulations!!!&lt;/p>
+&lt;p>We had a nice dinner and had lots of fun :)
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_29Jun_dinner_together.JPG" alt="Image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Annual meeting of OHBM 2024</title><link>https://bspl.korea.ac.kr/news/2024_06_23_ohbm/</link><pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2024_06_23_ohbm/</guid><description>&lt;p>The Annual meeting of the Organization of Human Brain Mapping (OHBM) was held in COEX, Seoul, Korea! (June 23-27)&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
