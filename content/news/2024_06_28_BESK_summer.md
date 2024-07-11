@@ -17,7 +17,7 @@ We presented our work at the poster session of the workshop!
 Changha received the Best Poster Award for their works as follows:
 
 Changha Lee, Jae-eon Kang, Jong-Hwan Lee, EEG and fMRI Analysis of Emotion Regulation with Binaural Beats and Vehicle Noise, Brain Engineering Society of Korea (BESK) 2024/June
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_summer_poster_award_changha.jpeg)
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2024/BESK/BESK_summer/BESK_summer_poster_award_changha.jpg)
 
 
 Many congratulations!!!
