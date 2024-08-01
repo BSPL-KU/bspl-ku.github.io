@@ -53,7 +53,7 @@ main:
     parent: "softwares"
 
   - name: Seminar Papers
-    url: "/interesting_works"
+    url: "/seminar_papers"
     weight: 50
   - name: Lab News
     url: "/news"
