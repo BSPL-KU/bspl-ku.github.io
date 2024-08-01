@@ -47,6 +47,10 @@ main:
     url: "/softwares/env"
     weight: 4
     parent: "softwares"
+  - name: GitHub
+    url: "https://github.com/bsplku"
+    weight: 5
+    parent: "softwares"
 
   - name: Seminar Papers
     url: "/interesting_works"
