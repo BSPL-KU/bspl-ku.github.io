@@ -1,5 +1,5 @@
 ---
-title: Interesting Works
+title: Seminar Papers
 cms_exclude: true
 
 # View.
