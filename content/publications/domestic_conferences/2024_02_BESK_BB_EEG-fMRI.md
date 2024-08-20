@@ -1,6 +1,6 @@
 ---
 title: "Emotion Regulation Affected Via Binaural Beats and Vehicle Background Sound"
-date: 2024-06-28 10:00:00
+date: 2024-02-28 10:00:00
 ---
 
 Changha Lee, Jae-eon Kang, Jong-Hwan Lee
