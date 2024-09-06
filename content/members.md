@@ -22,12 +22,15 @@ My longstanding research interests have been in the investigation of hidden info
 
 <br>
 
-## PhD Candidates and Integrated MS-PhD Candidates
 
-### Juhyeon Lee (이주현)
+## Post-doctoral Researcher
+
+### Juhyeon Lee (이주현), Ph.D.
 ![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
 
 One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.
+
+## PhD Candidates and Integrated MS-PhD Candidates
 
 ### Changha Lee (이창하)
 ![LCH](//bspl.korea.ac.kr/image/bspl/LCH.png)
@@ -39,7 +42,8 @@ I'm interested in developing algorithms to figure out how cognitive processes wo
 
 I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
-<br />
+### Ji Hun Kim (김지훈)
+
 
 ### Minwoo Lee (이민우)
 ![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
@@ -50,27 +54,20 @@ I'm interested in the research about relationship between the mind and the brain
 
 ## MS Candidates
 
-### Sangsoo Jin (진상수)
-![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
-
-I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.
-
 ### Jinsoo Jeon (전진수)
 ![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
 
 My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
 
+### Chae Lynn Kim (김채린)
+
+
+### JiYun Park (박지윤)
 
 
 <br />
 
 ## Researchers
-
-### Soohyun Jeon (전수현)
-![JSH](//bspl.korea.ac.kr/image/bspl/JSH.png)
-
-I am interested in integrating genetics and brain imaging for mental disorders.
-
 
 <br />
 
@@ -84,6 +81,11 @@ I am interested in integrating genetics and brain imaging for mental disorders.
 ## Alumni
 
 ### Graduate students
+
+**Sangsoo Jin (진상수), M.S., August/2024** <br.>
+<!--
+![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
+I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants. -->
 
 **SooHyun Jeon (전수현), M.S., Feb/2024** <br/>
 Currently Researcher at Brain and Cognitive Engineering Institute, Korea University
