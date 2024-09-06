@@ -3931,25 +3931,27 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;li>&lt;a href="#jong-hwan-lee-이종환-phd">Jong-Hwan Lee (이종환), Ph.D.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="#post-doctoral-researcher">Post-doctoral Researcher&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#juhyeon-lee-이주현-phd">Juhyeon Lee (이주현), Ph.D.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>&lt;a href="#phd-candidates-and-integrated-ms-phd-candidates">PhD Candidates and Integrated MS-PhD Candidates&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#juhyeon-lee-이주현">Juhyeon Lee (이주현)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#changha-lee-이창하">Changha Lee (이창하)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jaeeon-kang-강재언">JaeEon Kang (강재언)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#ji-hun-kim-김지훈">Ji Hun Kim (김지훈)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#ms-candidates">MS Candidates&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jinsoo-jeon-전진수">Jinsoo Jeon (전진수)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#chae-lynn-kim-김채린">Chae Lynn Kim (김채린)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#jiyun-park-박지윤">JiYun Park (박지윤)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="#researchers">Researchers&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#soohyun-jeon-전수현">Soohyun Jeon (전수현)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;li>&lt;a href="#researchers">Researchers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#lab-manager">Lab Manager&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/a>&lt;/li>
@@ -3975,8 +3977,8 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;!-- &lt;img src='https://bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png' width=700> -->
 &lt;p>My longstanding research interests have been in the investigation of hidden information underlying sensory signals and the development of efficient methods for accurate analysis of this information. My recent research has focused on the application of artificial neural networks and/or machine learning algorithms to neuroimaging data, such as structural MRI (sMRI), functional MRI (fMRI), and electroencephalography (EEG). In our lab, we have been working on studies/projects such as (i) a novel application of independent vector analysis and (ii) an iterative approach of dual-regression with sparse constraints on spatial patterns of neuronal activations applying to group fMRI data processing, (iii) automated classification of thought processes measured via fMRI data, (iv) analysis of simultaneous EEG-fMRI methods and their applications to sleep-onset/epileptic-foci detection and to denoising of cryogenic pump artifact of MRI scanner, (v) real-time fMRI based neurofeedback, (vi) nicotine addiction research via neuroimaging, and (vii) an early diagnosis of neurodegenerative and/or neuropsychiatric diseases from multimodal neuroimaging using advanced methods such as deep learning/machine learning and representational similarity analysis. More recently, I am getting more interested in NeuroAI which entails research that utilizes functional neuroimaging modalities and AI models to investigate the information processing of the human brain and/or to facilitate the development of the Human-inspired AI models using the insights from NeuroAI research.&lt;/p>
 &lt;br>
-&lt;h2 id="phd-candidates-and-integrated-ms-phd-candidates">PhD Candidates and Integrated MS-PhD Candidates&lt;/h2>
-&lt;h3 id="juhyeon-lee-이주현">Juhyeon Lee (이주현)&lt;/h3>
+&lt;h2 id="post-doctoral-researcher">Post-doctoral Researcher&lt;/h2>
+&lt;h3 id="juhyeon-lee-이주현-phd">Juhyeon Lee (이주현), Ph.D.&lt;/h3>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -3984,6 +3986,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.&lt;/p>
+&lt;h2 id="phd-candidates-and-integrated-ms-phd-candidates">PhD Candidates and Integrated MS-PhD Candidates&lt;/h2>
 &lt;h3 id="changha-lee-이창하">Changha Lee (이창하)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4000,7 +4003,7 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.&lt;/p>
-&lt;br />
+&lt;h3 id="ji-hun-kim-김지훈">Ji Hun Kim (김지훈)&lt;/h3>
 &lt;h3 id="minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4011,14 +4014,6 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;p>I&amp;rsquo;m interested in the research about relationship between the mind and the brain with emotion processing with multimodal data espacially EEG.&lt;/p>
 &lt;br />
 &lt;h2 id="ms-candidates">MS Candidates&lt;/h2>
-&lt;h3 id="sangsoo-jin-진상수">Sangsoo Jin (진상수)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/JSS.png" alt="JSS" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants.&lt;/p>
 &lt;h3 id="jinsoo-jeon-전진수">Jinsoo Jeon (전진수)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4027,16 +4022,10 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.&lt;/p>
+&lt;h3 id="chae-lynn-kim-김채린">Chae Lynn Kim (김채린)&lt;/h3>
+&lt;h3 id="jiyun-park-박지윤">JiYun Park (박지윤)&lt;/h3>
 &lt;br />
 &lt;h2 id="researchers">Researchers&lt;/h2>
-&lt;h3 id="soohyun-jeon-전수현">Soohyun Jeon (전수현)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/JSH.png" alt="JSH" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I am interested in integrating genetics and brain imaging for mental disorders.&lt;/p>
 &lt;br />
 &lt;h2 id="lab-manager">Lab Manager&lt;/h2>
 &lt;h3 id="jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/h3>
@@ -4049,6 +4038,10 @@ Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;br />
 &lt;h2 id="alumni">Alumni&lt;/h2>
 &lt;h3 id="graduate-students">Graduate students&lt;/h3>
+&lt;p>&lt;strong>Sangsoo Jin (진상수), M.S., August/2024&lt;/strong> &amp;lt;br.&amp;gt;&lt;/p>
+&lt;!--
+![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
+I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants. -->
 &lt;p>&lt;strong>SooHyun Jeon (전수현), M.S., Feb/2024&lt;/strong> &lt;br/>
 Currently Researcher at Brain and Cognitive Engineering Institute, Korea University&lt;/p>
 &lt;p>&lt;strong>JunDong Hwang (황준동), M.S., Aug/2023&lt;/strong> &lt;br/>
