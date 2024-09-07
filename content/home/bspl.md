@@ -33,7 +33,7 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 
 
 {{<format crimson text-right no-link-color>}}
-### [► Find out more details](/aims)
+### [► Find out more details on our research aims](/aims)
 {{</format>}}
 
 <br />
