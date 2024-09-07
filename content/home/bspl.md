@@ -42,7 +42,10 @@ BSPL 연구실에서는 이러한 연구들에 관심있는 석사, 석-박통�
 # Lab news
 {{</format>}}
 
--[Recent Lab News](https://bspl-ku.github.io/news/)
+{{<format crimson text-right no-link-color>}}
+### [► Find out more recent lab news](/news)
+{{</format>}}
+
 - [Lab dinner and Farewell of Jundong and Soohyun (March 4, 2024)](/news/2024_03_04_2024_02_23_dinner_graduation/)
 - [Assistant Professor Appointment for our alumnus, Hojin Jang (March 1, 2024)](/news/2024_03_01_drhojinjang_facultyposition/)
 - [BESK 2024 Brain and AI Symposium: Awards and having some fun! (Feb. 28, 2024)](/news/2024_02_28_besk_winter/)
