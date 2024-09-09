@@ -28,7 +28,7 @@ My longstanding research interests have been in the investigation of hidden info
 ### Juhyeon Lee (이주현), Ph.D.
 ![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
 
-One of my research aims is to discover individual distinctiveness in dynamic functional connectivity. I am also investigating how information (e.g., text/language) is processed in the brain. Mostly, I utilize deep learning and machine learning techniques for the analysis.
+I specialize in fMRI analysis and deep learning. My research focuses on two main areas: (A) exploring the representational similarity (RSA) of deep learning models to the brain, and (B) using deep learning models to decode information from the brain.
 
 ## PhD Candidates and Integrated MS-PhD Candidates
 
