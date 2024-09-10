@@ -42,7 +42,7 @@ I'm interested in developing algorithms to figure out how cognitive processes wo
 
 I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
-### Ji Hun Kim (김지훈)
+### Jihun Kim (김지훈)
 ![KJHoon](//bspl.korea.ac.kr/image/bspl/KJHoon.png)
 
 I’m interested in developing brain-inspired RL algorithms and finding the correlation between DL (or RL) models and brain.
