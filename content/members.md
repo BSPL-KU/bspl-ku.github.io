@@ -43,7 +43,9 @@ I'm interested in developing algorithms to figure out how cognitive processes wo
 I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.
 
 ### Ji Hun Kim (김지훈)
+![KHJHoon](//bspl.korea.ac.kr/image/bspl/KHJHoon.png)
 
+I’m interested in developing brain-inspired RL algorithms and finding the correlation between DL (or RL) models and brain.
 
 ### Minwoo Lee (이민우)
 ![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
@@ -59,11 +61,15 @@ I'm interested in the research about relationship between the mind and the brain
 
 My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
 
-### Chae Lynn Kim (김채린)
+### Chaelynn Kim (김채린)
+![KCL](//bspl.korea.ac.kr/image/bspl/KCL.png)
 
+My research focuses on exploring the mechanisms of brain disorders using fMRI and deep learning, as well as examining the similarities between deep learning models and brain region functions.
 
 ### JiYun Park (박지윤)
+![PJY](//bspl.korea.ac.kr/image/bspl/PJY.png)
 
+I'm interested in analysis and diagnosis of depression using multimodal deep learning algorithms.
 
 <br />
 
