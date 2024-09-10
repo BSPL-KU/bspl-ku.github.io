@@ -9,7 +9,7 @@ date: 2023-11-28
 Human Brain Mapping, 2023 Nov 28. Volume45, Issue1, January 2024, e26561
 {{</format>}}
 
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/2023_Lee_and_Lee_HBM.tif)
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2023/2023_Lee_and_Lee_HBM.png)
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38096866/) /
 [Journal Home](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26561)/
