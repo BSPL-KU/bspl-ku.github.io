@@ -88,7 +88,7 @@ I'm interested in analysis and diagnosis of depression using multimodal deep lea
 
 ### Graduate students
 
-**Sangsoo Jin (진상수), M.S., August/2024** <br.>
+**Sangsoo Jin (진상수), M.S., August/2024**
 <!--
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants. -->
