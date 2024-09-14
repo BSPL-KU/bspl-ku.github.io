@@ -17,9 +17,9 @@ Many congratulations, Minwoo and Chae Lynn!!
         </td>
         <td>
             <div style='width:1800'> 
-              <p style='font-size: 30px'> Minwoo and Chae Lynn were awarded the scholarship for their graduate study proposal from National Research Foundation (NRF) of Korea. </p> 
+              <p style='font-size: 25px'> Minwoo and Chae Lynn were awarded the scholarship for their graduate study proposal from National Research Foundation (NRF) of Korea. </p> 
 
-<p style='font-size: 30px'>Many congratulations, Minwoo and Chae Lynn!! </p>
+<p style='font-size: 25px'>Many congratulations, Minwoo and Chae Lynn!! </p>
 </div>
         </td>
     </tr>
