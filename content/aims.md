@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7240cbd9-7efb-4d82-aa19-9df27949852a)---
+---
 title: Aims
 summary: BSPL Research Aims
 date:
