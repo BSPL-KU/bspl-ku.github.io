@@ -3935,11 +3935,27 @@ In: Proceedings; Istanbul, Turkey. IEEE International Conference on Acoustics, S
 &lt;div class="bright-green ">
 Electronics Letters. 2000; 36 (17): 1506-1507.
 &lt;/div>
-&lt;p>[ &lt;a href="https://digital-library.theiet.org/content/journals/10.1049/el_20001028" target="_blank" rel="noopener">Journal Home&lt;/a> / &lt;a href="https://scholar.google.com/scholar?q=Speech&amp;#43;enhancement&amp;#43;with&amp;#43;MAP&amp;#43;estimation&amp;#43;and&amp;#43;ICA-based&amp;#43;speech&amp;#43;features&amp;amp;btnG=&amp;amp;hl=en&amp;amp;lr=lang_en&amp;amp;as_sdt=0%2C5" target="_blank" rel="noopener">Google Scholar&lt;/a> ] &lt;/p></description></item><item><title/><link>https://bspl.korea.ac.kr/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/admin/config.yml</guid><description/></item><item><title>Aims</title><link>https://bspl.korea.ac.kr/aims/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/aims/</guid><description>&lt;p>Our ultimate goal is to conduct research and develop applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG), biosignals, and a variety of information and data together with signal processing techniques, machine learning, and AI models. &lt;br>&lt;/p>
-&lt;p>To this end, we deploy signal processing techniques, machine learning, and AI algorithms to these datasets for brain science research and engineering, such as NeuroAI and their applications, such as robust prediction/classification of both normal and abnormal brain functions and enhancement of brain functions across clinical/non-clinical domains.&lt;/p>
-&lt;p>Please refer to the Publications tab for more detailed research that we have conducted. &lt;br>&lt;br>&lt;/p>
-&lt;p>BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정방법들(예, MRI/fMRI, EEG), 생체신호들, 기타 정보 및 데이터들을 활용한 연구 및 기술의 개발과 활용 시스템의 구축을 궁극적인 목표로 하고 있습니다. &lt;br>&lt;/p>
-&lt;p>이를 위해서, BSPL 연구실은 이러한 데이터들에 다양한 신호처리, 머신러닝, AI 기술들을 접목하여서 뇌기능의 정량적 측정에 바탕한 NeuroAI와 같은 기초 연구 및 뇌기능 자동분류, 뇌기능 향상, 뇌기능 이상의 조기 진단 및 예후 예측 등의 응용 연구들을 수행합니다.&lt;/p></description></item><item><title>Contact Us</title><link>https://bspl.korea.ac.kr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/contact/</guid><description>&lt;div class="text-center ">
+&lt;p>[ &lt;a href="https://digital-library.theiet.org/content/journals/10.1049/el_20001028" target="_blank" rel="noopener">Journal Home&lt;/a> / &lt;a href="https://scholar.google.com/scholar?q=Speech&amp;#43;enhancement&amp;#43;with&amp;#43;MAP&amp;#43;estimation&amp;#43;and&amp;#43;ICA-based&amp;#43;speech&amp;#43;features&amp;amp;btnG=&amp;amp;hl=en&amp;amp;lr=lang_en&amp;amp;as_sdt=0%2C5" target="_blank" rel="noopener">Google Scholar&lt;/a> ] &lt;/p></description></item><item><title/><link>https://bspl.korea.ac.kr/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/admin/config.yml</guid><description/></item><item><title/><link>https://bspl.korea.ac.kr/aims/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/aims/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://github.com/user-attachments/assets/7240cbd9-7efb-4d82-aa19-9df27949852a" alt="image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&amp;mdash;
+title: Aims
+summary: BSPL Research Aims
+date:&lt;/p>
+&lt;h1 id="optional-header-image-relative-to-assetsmedia-folder">Optional header image (relative to &lt;code>assets/media/&lt;/code> folder).&lt;/h1>
+&lt;h2 id="image-">header:
+caption: &amp;quot;&amp;quot;
+image: &amp;quot;&amp;quot;&lt;/h2>
+&lt;p>Our objective is to explore brain functions using diverse neuroimaging modalities, including magnetic resonance imaging (MRI) and electroencephalography (EEG), through advanced signal processing, machine learning, and deep learning techniques. Our research encompasses both fundamental neuroscience and brain engineering applications, with the ultimate aim of developing preclinical diagnostic and therapeutic options for mental disorders such as depression, schizophrenia, and substance abuse. We believe that employing robust analytical methods to uncover hidden information in brain and neurophysiological data will lead to a deeper understanding of the human brain, advancements in brain engineering, and ultimately, improvements in quality of life. &lt;br> &lt;br>&lt;/p>
+&lt;p>고려대학교 뇌신호처리 연구실은 뇌영상 및 뇌신호 측정 방법들 (MRI, EEG)에 신호처리, 머신러닝, 딥러닝 방법들을 접목하여서 인간의 뇌기능을 이해하고 응용하는 연구를 수행합니다. 이러한 분석 방법들을 뇌영상 및 뇌신호 데이터에 접목하여서, 인간의 뇌기능을 이해하고자 하며, 이를 바탕으로 뇌기능의 정량적 측정, 뇌기능 자동분류, 뇌기능 향상, 뇌기능 이상의 조기 진단 및 예후 예측 등의 응용 연구를 수행하고, 이를 바탕으로 궁극적으로 인간의 삶의 질 향상을 위한 목표를 갖고 있습니다.&lt;/p>
+&lt;!-- Jan. 21, 2025
+Our ultimate goal is to conduct research and develop applications in real-world scenarios using non-invasive neuroimaging modalities (e.g., MRI/fMRI, EEG), biosignals, and a variety of information and data together with signal processing techniques, machine learning, and AI models. &lt;br>
+To this end, we deploy signal processing techniques, machine learning, and AI algorithms to these datasets for brain science research and engineering, such as NeuroAI and their applications, such as robust prediction/classification of both normal and abnormal brain functions and enhancement of brain functions across clinical/non-clinical domains.
+Please refer to the Publications tab for more detailed research that we have conducted. &lt;br>&lt;br>
+BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정방법들(예, MRI/fMRI, EEG), 생체신호들, 기타 정보 및 데이터들을 활용한 연구 및 기술의 개발과 활용 시스템의 구축을 궁극적인 목표로 하고 있습니다. &lt;br>
+이를 위해서, BSPL 연구실은 이러한 데이터들에 다양한 신호처리, 머신러닝, AI 기술들을 접목하여서 뇌기능의 정량적 측정에 바탕한 NeuroAI와 같은 기초 연구 및 뇌기능 자동분류, 뇌기능 향상, 뇌기능 이상의 조기 진단 및 예후 예측 등의 응용 연구들을 수행합니다. --></description></item><item><title>Contact Us</title><link>https://bspl.korea.ac.kr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/contact/</guid><description>&lt;div class="text-center ">
 &lt;h2 id="605-science-library-korea-university">605, SCIENCE LIBRARY, KOREA UNIVERSITY&lt;/h2>
 &lt;/div>
 &lt;div style="text-align: center">
