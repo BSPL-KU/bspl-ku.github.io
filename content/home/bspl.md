@@ -25,7 +25,10 @@ How can we build such AI-enabled models for brain signals and apply the models i
 
 What would be the most feasible applications for us to focus on?
 
-![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75)
+<!--
+![BSPL Aim](//bspl.korea.ac.kr/bspl_aims_16feb19.png#center75) -->
+![BSPL Aim](//bspl.korea.ac.kr/bspl_research_diagram_25jan21.png#center75)
+
 
 If you want to join BSPL, please send your bio/personal statement and/or CV to PI.
 
