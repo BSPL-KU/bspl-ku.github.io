@@ -1,6 +1,6 @@
 ---
 title: "[Article] Integrating breathing techniques into psychoptherapy to improve HRV: which approach is best? & One-week test-retest recordings of resting cardiorespiratory data for reliability analysis"
-date: 2025-01-14
+date: 2025-02-04
 ---
 
 ### Integrating Breathing Techniques Into Psychoptherapy to Improve HRV: Which Approach Is Best?
