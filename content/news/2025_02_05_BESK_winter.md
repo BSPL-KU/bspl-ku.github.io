@@ -4,7 +4,7 @@ date: 2025-02-05
 ---
 
 We attended the Winter Symposium of Brain Engineering Society of Korea (BESK), Febuary 05~07, Welli Hilli Park, Hoengseong-gun, Gangwon-do, Korea.
-
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2025/BESK_Winter/2025_Winter_BESK.jpg)
 
 
 We presented our work at the poster session of the workshop!
