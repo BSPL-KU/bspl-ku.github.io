@@ -82,7 +82,7 @@ I'm interested in analysis and diagnosis of depression using multimodal deep lea
 
 ### Graduate students
 
-**Jinsoo Jeon (전진수), M.S., February/2025**
+**Jinsoo Jeon (전진수), M.S., February/2025** <br>
 Currently researcher at Department of Psychology, Korea University
 <!--
 ![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
@@ -90,7 +90,7 @@ Currently researcher at Department of Psychology, Korea University
 My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
 -->
 
-**Juhyeon Lee (이주현), Ph.D., August/2024**
+**Juhyeon Lee (이주현), Ph.D., August/2024** <br>
 Currently postdoctoral researcher at KIST
 <!--
 ![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
@@ -98,7 +98,7 @@ Currently postdoctoral researcher at KIST
 I specialize in fMRI analysis and deep learning. My research focuses on two main areas: (A) exploring the representational similarity (RSA) of deep learning models to the brain, and (B) using deep learning models to decode information from the brain.
 -->
 
-**Sangsoo Jin (진상수), M.S., August/2024**
+**Sangsoo Jin (진상수), M.S., August/2024** <br>
 <!--
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants. -->
