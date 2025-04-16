@@ -61,7 +61,7 @@ I am interested in deep learning and fine-tuning Large Language Model.
 ### Minwoo Lee (이민우)
 ![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
 
-I'm interested in the research about relationship between the mind and the brain with emotion processing with multimodal data espacially EEG.
+I am interested in identifying drowsiness patterns and enabling early detection during driving situations using physiological signals.
 
 <br> 
 
