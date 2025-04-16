@@ -7,3 +7,4 @@ Our work, "Discovering individual fingerprints in resting-state functional conne
 
 [Discovering individual fingerprints in resting-state functional connectivity using deep neural networks](/publications/articles/2023_11_28_lee_and_lee_hbm/)
 
+![Image](//bspl.korea.ac.kr/Board/Lab_News/2025/25apr16_certificate_lee_and_lee_hbm.pdf)
