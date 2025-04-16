@@ -4102,22 +4102,16 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;li>&lt;a href="#jong-hwan-lee-이종환-phd">Jong-Hwan Lee (이종환), Ph.D.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="#post-doctoral-researcher">Post-doctoral Researcher&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#juhyeon-lee-이주현-phd">Juhyeon Lee (이주현), Ph.D.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
 &lt;li>&lt;a href="#phd-candidates-and-integrated-ms-phd-candidates">PhD Candidates and Integrated MS-PhD Candidates&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#changha-lee-이창하">Changha Lee (이창하)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jaeeon-kang-강재언">JaeEon Kang (강재언)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jihun-kim-김지훈">Jihun Kim (김지훈)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#ms-candidates">MS Candidates&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#jinsoo-jeon-전진수">Jinsoo Jeon (전진수)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#chaelynn-kim-김채린">Chaelynn Kim (김채린)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jiyun-park-박지윤">JiYun Park (박지윤)&lt;/a>&lt;/li>
 &lt;/ul>
@@ -4148,15 +4142,9 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;!-- &lt;img src='https://bspl.korea.ac.kr/image/bspl/JHLee_21Jul.png' width=700> -->
 &lt;p>My longstanding research interests have been in the investigation of hidden information underlying sensory signals and the development of efficient methods for accurate analysis of this information. My recent research has focused on the application of artificial neural networks and/or machine learning algorithms to neuroimaging data, such as structural MRI (sMRI), functional MRI (fMRI), and electroencephalography (EEG). In our lab, we have been working on studies/projects such as (i) a novel application of independent vector analysis and (ii) an iterative approach of dual-regression with sparse constraints on spatial patterns of neuronal activations applying to group fMRI data processing, (iii) automated classification of thought processes measured via fMRI data, (iv) analysis of simultaneous EEG-fMRI methods and their applications to sleep-onset/epileptic-foci detection and to denoising of cryogenic pump artifact of MRI scanner, (v) real-time fMRI based neurofeedback, (vi) nicotine addiction research via neuroimaging, and (vii) an early diagnosis of neurodegenerative and/or neuropsychiatric diseases from multimodal neuroimaging using advanced methods such as deep learning/machine learning and representational similarity analysis. More recently, I am getting more interested in NeuroAI which entails research that utilizes functional neuroimaging modalities and AI models to investigate the information processing of the human brain and/or to facilitate the development of the Human-inspired AI models using the insights from NeuroAI research.&lt;/p>
 &lt;br>
-&lt;h2 id="post-doctoral-researcher">Post-doctoral Researcher&lt;/h2>
-&lt;h3 id="juhyeon-lee-이주현-phd">Juhyeon Lee (이주현), Ph.D.&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/Hailey.png" alt="LJH" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I specialize in fMRI analysis and deep learning. My research focuses on two main areas: (A) exploring the representational similarity (RSA) of deep learning models to the brain, and (B) using deep learning models to decode information from the brain.&lt;/p>
+&lt;!--
+## Post-doctoral Researcher
+-->
 &lt;h2 id="phd-candidates-and-integrated-ms-phd-candidates">PhD Candidates and Integrated MS-PhD Candidates&lt;/h2>
 &lt;h3 id="changha-lee-이창하">Changha Lee (이창하)&lt;/h3>
 &lt;p>
@@ -4182,6 +4170,8 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I’m interested in developing brain-inspired RL algorithms and finding the correlation between DL (or RL) models and brain.&lt;/p>
+&lt;br />
+&lt;h2 id="ms-candidates">MS Candidates&lt;/h2>
 &lt;h3 id="minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4190,16 +4180,6 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I&amp;rsquo;m interested in the research about relationship between the mind and the brain with emotion processing with multimodal data espacially EEG.&lt;/p>
-&lt;br />
-&lt;h2 id="ms-candidates">MS Candidates&lt;/h2>
-&lt;h3 id="jinsoo-jeon-전진수">Jinsoo Jeon (전진수)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/JJS.png" alt="JJS" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.&lt;/p>
 &lt;h3 id="chaelynn-kim-김채린">Chaelynn Kim (김채린)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4230,6 +4210,18 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;br />
 &lt;h2 id="alumni">Alumni&lt;/h2>
 &lt;h3 id="graduate-students">Graduate students&lt;/h3>
+&lt;p>&lt;strong>Jinsoo Jeon (전진수), M.S., February/2025&lt;/strong>
+Currently researcher at Department of Psychology, Korea University&lt;/p>
+&lt;!--
+![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
+My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
+-->
+&lt;p>&lt;strong>Juhyeon Lee (이주현), Ph.D., August/2024&lt;/strong>
+Currently postdoctoral researcher at KIST&lt;/p>
+&lt;!--
+![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
+I specialize in fMRI analysis and deep learning. My research focuses on two main areas: (A) exploring the representational similarity (RSA) of deep learning models to the brain, and (B) using deep learning models to decode information from the brain.
+-->
 &lt;p>&lt;strong>Sangsoo Jin (진상수), M.S., August/2024&lt;/strong>&lt;/p>
 &lt;!--
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
