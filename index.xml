@@ -4116,7 +4116,6 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;li>&lt;a href="#jiyun-park-박지윤">JiYun Park (박지윤)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="#researchers">Researchers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#lab-manager">Lab Manager&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/a>&lt;/li>
@@ -4154,6 +4153,7 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I&amp;rsquo;m interested in developing algorithms to figure out how cognitive processes work by using fMRI data.&lt;/p>
+&lt;br>
 &lt;h3 id="jaeeon-kang-강재언">JaeEon Kang (강재언)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4162,6 +4162,7 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I am interested in Emotion processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI.&lt;/p>
+&lt;br>
 &lt;h3 id="jihun-kim-김지훈">Jihun Kim (김지훈)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4180,6 +4181,7 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I&amp;rsquo;m interested in the research about relationship between the mind and the brain with emotion processing with multimodal data espacially EEG.&lt;/p>
+&lt;br>
 &lt;h3 id="chaelynn-kim-김채린">Chaelynn Kim (김채린)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4188,6 +4190,7 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>My research focuses on exploring the mechanisms of brain disorders using fMRI and deep learning, as well as examining the similarities between deep learning models and brain region functions.&lt;/p>
+&lt;br>
 &lt;h3 id="jiyun-park-박지윤">JiYun Park (박지윤)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4197,7 +4200,9 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/p>
 &lt;p>I&amp;rsquo;m interested in analysis and diagnosis of depression using multimodal deep learning algorithms.&lt;/p>
 &lt;br />
-&lt;h2 id="researchers">Researchers&lt;/h2>
+&lt;!--
+## Researchers
+-->
 &lt;br />
 &lt;h2 id="lab-manager">Lab Manager&lt;/h2>
 &lt;h3 id="jinhong-kim-김진홍">Jinhong Kim (김진홍)&lt;/h3>
