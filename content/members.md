@@ -74,10 +74,8 @@ I'm interested in analysis and diagnosis of depression using multimodal deep lea
 
 <br />
 
-<!-- 
-## Researchers
 
--->
+## Researchers
 
 <br />
 
