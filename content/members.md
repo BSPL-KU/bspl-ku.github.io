@@ -22,13 +22,10 @@ My longstanding research interests have been in the investigation of hidden info
 
 <br>
 
-
+<!-- 
 ## Post-doctoral Researcher
+-->
 
-### Juhyeon Lee (이주현), Ph.D.
-![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
-
-I specialize in fMRI analysis and deep learning. My research focuses on two main areas: (A) exploring the representational similarity (RSA) of deep learning models to the brain, and (B) using deep learning models to decode information from the brain.
 
 ## PhD Candidates and Integrated MS-PhD Candidates
 
@@ -47,19 +44,16 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 I’m interested in developing brain-inspired RL algorithms and finding the correlation between DL (or RL) models and brain.
 
-### Minwoo Lee (이민우)
-![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
 
-I'm interested in the research about relationship between the mind and the brain with emotion processing with multimodal data espacially EEG.
 
 <br />
 
 ## MS Candidates
 
-### Jinsoo Jeon (전진수)
-![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
+### Minwoo Lee (이민우)
+![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
 
-My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
+I'm interested in the research about relationship between the mind and the brain with emotion processing with multimodal data espacially EEG.
 
 ### Chaelynn Kim (김채린)
 ![KCL](//bspl.korea.ac.kr/image/bspl/KCL.png)
@@ -87,6 +81,22 @@ I'm interested in analysis and diagnosis of depression using multimodal deep lea
 ## Alumni
 
 ### Graduate students
+
+**Jinsoo Jeon (전진수), M.S., February/2025**
+Currently researcher at Department of Psychology, Korea University
+<!--
+![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
+
+My research interest is emotion processing with deep-learning by combining multimodal datasets including EEG-fMRI.
+-->
+
+**Juhyeon Lee (이주현), Ph.D., August/2024**
+Currently postdoctoral researcher at KIST
+<!--
+![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
+
+I specialize in fMRI analysis and deep learning. My research focuses on two main areas: (A) exploring the representational similarity (RSA) of deep learning models to the brain, and (B) using deep learning models to decode information from the brain.
+-->
 
 **Sangsoo Jin (진상수), M.S., August/2024**
 <!--
