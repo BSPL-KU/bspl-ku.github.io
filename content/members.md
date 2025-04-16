@@ -48,6 +48,11 @@ I am interested in Emotion processing with deep-learning and neuroplasticity alg
 
 I’m interested in developing brain-inspired RL algorithms and finding the correlation between DL (or RL) models and brain.
 
+<br> 
+
+### SungHwan Lee (이성환)
+
+I am interested in deep learning and fine-tuning Large Language Model.
 
 <br />
 
