@@ -3,7 +3,7 @@ title: "Transfer Learning of Deep Neural Networks Pretrained using the ABCD data
 date: 2025-04-16
 ---
 
-**Jundong Hwang**, **Jae-eon Kang**, **Soohyun Jeon**, Kyung Hwa Lee, Jae-Won Kim,**Jong-Hwan Lee**
+Jundong Hwang, Jae-eon Kang, Soohyun Jeon, Kyung Hwa Lee, Jae-Won Kim, Jong-Hwan Lee
 
 {{<format bright-green>}}
 Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, Accepted, doi: https://doi.org/10.1016/j.bpsc.2025.04.005
