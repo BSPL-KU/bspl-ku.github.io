@@ -1,5 +1,5 @@
 ---
-title: "Paper acceptance: Jeon et al., Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2025"
+title: "[Paper acceptance] Jeon et al., Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2025"
 date: 2025-06-05
 ---
 
