@@ -3,7 +3,7 @@ title: "Abnormal association between neural activity and genetic expressions of 
 date: 2025-06-05
 ---
 
-**Soohyun Jeon**, **Jae-eon Kang**, **Jundong Hwang**, Vince D. Calhoun, **Jong-Hwan Lee**
+Soohyun Jeon, Jae-eon Kang, Jundong Hwang, Vince D. Calhoun, Jong-Hwan Lee
 
 {{<format bright-green>}}
 Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, Accepted
