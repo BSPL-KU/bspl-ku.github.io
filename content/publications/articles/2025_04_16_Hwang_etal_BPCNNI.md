@@ -11,7 +11,7 @@ Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2025 Apr 21:S245
 
 ![Image](//bspl.korea.ac.kr/Board/Articles/2025/2025_Hwang_etal_BPCNNI_fig1_model_architectures.jpg)
 
-[[PubMed](https://pubmed.ncbi.nlm.nih.gov/40268244/)
-[Journal Home](https://www.sciencedirect.com/science/article/pii/S2451902225001338?via%3Dihub)
+[[PubMed](https://pubmed.ncbi.nlm.nih.gov/40268244/) /
+[Journal Home](https://www.sciencedirect.com/science/article/pii/S2451902225001338?via%3Dihub) /
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Transfer+Learning+of+Deep+Neural+Networks+Pretrained+Using+the+ABCD+Dataset+for+General+Psychopathology+Prediction+in+Korean+Adolescents&btnG=)]
 
