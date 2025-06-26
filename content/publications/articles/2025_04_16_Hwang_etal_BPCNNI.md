@@ -11,13 +11,11 @@ Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, Accepted, doi: h
 
 <!-- 
 ![Image](//bspl.korea.ac.kr/Board/Articles/2024/fig1_choi_etal_JNER_2024.png)
-
-
-[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38627779/) /
 -->
 
-[Journal Home](https://www.sciencedirect.com/science/article/abs/pii/S2451902225001338?via%3Dihub)/
+[[PubMed](https://pubmed.ncbi.nlm.nih.gov/40268244/) /
 
-<!--
-[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Use+of+functional+magnetic+resonance+imaging+to+identify+cortical+loci+for+lower+limb+movements+and+their+efficacy+for+individuals+after+stroke&btnG=)]
--->
+[Journal Home](https://www.sciencedirect.com/science/article/pii/S2451902225001338?via%3Dihub) /
+
+[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Transfer+Learning+of+Deep+Neural+Networks+Pretrained+Using+the+ABCD+Dataset+for+General+Psychopathology+Prediction+in+Korean+Adolescents&btnG=)]
+
