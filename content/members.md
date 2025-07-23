@@ -50,7 +50,7 @@ I’m interested in developing brain-inspired RL algorithms and finding the corr
 
 <br> 
 
-### SungHwan Lee (이성환)
+### Sunghwan Lee (이성환)
 ![LSH](//bspl.korea.ac.kr/image/bspl/LSH.png)  
 
 I am interested in deep learning and fine-tuning Large Language Model.
