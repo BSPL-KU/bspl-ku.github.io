@@ -55,6 +55,13 @@ I’m interested in developing brain-inspired RL algorithms and finding the corr
 
 I am interested in deep learning and fine-tuning Large Language Model.
 
+<br> 
+
+### Joung woo Choi (최정우)
+![CJW](//bspl.korea.ac.kr/image/bspl/CJW.png)  
+
+I am interested in developing multimodal signal processing methods to estimate physiological states such as respiration and cardiac activity from EEG, ECG, and camera-based sensing.
+
 <br />
 
 ## MS Candidates
