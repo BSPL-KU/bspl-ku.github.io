@@ -1,6 +1,6 @@
 ---
 title: "Neural Representation of Contextual Information and Multimodal Integration "
-date: 2025-07-11 09:00:00
+date: 2025-02-06 09:00:00
 ---
 
 Ji-Yun Park, Juhyeon Lee, Jong-Hwan Lee
