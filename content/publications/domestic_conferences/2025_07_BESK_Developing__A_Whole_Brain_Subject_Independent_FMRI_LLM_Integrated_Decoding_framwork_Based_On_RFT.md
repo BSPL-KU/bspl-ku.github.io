@@ -1,6 +1,5 @@
 ---
-title: " ​Developing a whole-brain, subject-independent fMRI-LLM integrated decoding framework 
-based on Reinforcement fine-tuning "
+title: " ​Developing a whole-brain, subject-independent fMRI-LLM integrated decoding framework based on Reinforcement fine-tuning "
 date: 2025-07-11 10:00:00
 ---
 
