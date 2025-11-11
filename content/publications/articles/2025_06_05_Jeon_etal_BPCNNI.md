@@ -13,8 +13,6 @@ Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, Accepted
 
 
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40514009/) /
-
 [Journal Home](https://www.sciencedirect.com/science/article/pii/S2451902225001958?casa_token=6tzR6agRWS0AAAAA:hx2otXtiOJguJEdTeAvKCEHF39hsjE5yYj5_uPZwUxe-b9Rk4lluJKPGw7PHLYtPMl3lRtFXCQ)/
-
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+association+between+neural+activity+and+genetic+expressions+of+impulsivity+in+attention+deficit+hyperactivity+disorder%3A+an+Adolescent+Brain+Cognitive+Development+study&btnG=)]
 
