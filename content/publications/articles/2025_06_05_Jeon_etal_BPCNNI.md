@@ -9,13 +9,12 @@ Soohyun Jeon, Jae-eon Kang, Jundong Hwang, Vince D. Calhoun, Jong-Hwan Lee
 Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, Accepted
 {{</format>}}
 
-<!-- 
-![Image](//bspl.korea.ac.kr/Board/Articles/2024/fig1_choi_etal_JNER_2024.png)
+![Image](//bspl.korea.ac.kr/Board/Articles/2025/Jeon_etal_BPCNNI_2025_flow.png)
 
 
-[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38627779/) /
+[[PubMed](https://pubmed.ncbi.nlm.nih.gov/40514009/) /
 
-[Journal Home](https://www.sciencedirect.com/science/article/abs/pii/S2451902225001338?via%3Dihub)/
+[Journal Home](https://www.sciencedirect.com/science/article/pii/S2451902225001958?casa_token=6tzR6agRWS0AAAAA:hx2otXtiOJguJEdTeAvKCEHF39hsjE5yYj5_uPZwUxe-b9Rk4lluJKPGw7PHLYtPMl3lRtFXCQ)/
 
-[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Use+of+functional+magnetic+resonance+imaging+to+identify+cortical+loci+for+lower+limb+movements+and+their+efficacy+for+individuals+after+stroke&btnG=)]
--->
+[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+association+between+neural+activity+and+genetic+expressions+of+impulsivity+in+attention+deficit+hyperactivity+disorder%3A+an+Adolescent+Brain+Cognitive+Development+study&btnG=)]
+
