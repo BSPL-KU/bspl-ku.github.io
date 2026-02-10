@@ -7,8 +7,11 @@ We attended the Brain and Artificial Intelligence Symposium of Brain Engineering
 
 Jihun Kim was invited as oral presenter and received an award!  
 “CausaLM: Causal Language Modeling from Human Brain Activity”, Jihun Kim, Sung Hwan Lee, Chae Lynn Kim, Ji Yun Park, Jong-Hwan Lee  
+
+
 Sunghwan Lee also received an poster award!
-"Multimodal Contrastive Pretraining for Prefix-Conditioned fMRI-to-Caption Decoding: Performance and Neural-Reliance Diagnostics", Sung Hwan Lee, Jihun Kim, Chae Lynn Kim, Ji Yun Park, Jong-Hwan Lee
+"Multimodal Contrastive Pretraining for Prefix-Conditioned fMRI-to-Caption Decoding: Performance and Neural-Reliance Diagnostics", Sung Hwan Lee, Jihun Kim, Chae Lynn Kim, Ji Yun Park, Jong-Hwan Lee  
+
 ![Image](//bspl.korea.ac.kr/Board/Lab_News/2026/BESK_Winter/2026_BESK_Winter_award.JPG)  
 
 
