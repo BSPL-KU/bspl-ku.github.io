@@ -4297,7 +4297,6 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;li>&lt;a href="#changha-lee-이창하">Changha Lee (이창하)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jaeeon-kang-강재언">JaeEon Kang (강재언)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jihun-kim-김지훈">Jihun Kim (김지훈)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#sunghwan-lee-이성환">Sunghwan Lee (이성환)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#joung-woo-choi-최정우">Joung woo Choi (최정우)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -4306,6 +4305,7 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;li>&lt;a href="#minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#chaelynn-kim-김채린">Chaelynn Kim (김채린)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jiyun-park-박지윤">JiYun Park (박지윤)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#sunghwan-lee-이성환">Sunghwan Lee (이성환)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#researchers">Researchers&lt;/a>&lt;/li>
@@ -4365,15 +4365,6 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/p>
 &lt;p>I’m interested in developing brain-inspired RL algorithms and finding the correlation between DL (or RL) models and brain.&lt;/p>
 &lt;br>
-&lt;h3 id="sunghwan-lee-이성환">Sunghwan Lee (이성환)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/LSH.png" alt="LSH" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I am interested in deep learning and fine-tuning Large Language Model.&lt;/p>
-&lt;br>
 &lt;h3 id="joung-woo-choi-최정우">Joung woo Choi (최정우)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4410,6 +4401,15 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>I&amp;rsquo;m interested in analysis and diagnosis of depression using multimodal deep learning algorithms.&lt;/p>
+&lt;br>
+&lt;h3 id="sunghwan-lee-이성환">Sunghwan Lee (이성환)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/LSH.png" alt="LSH" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>I am interested in deep learning and fine-tuning Large Language Model.&lt;/p>
 &lt;br />
 &lt;h2 id="researchers">Researchers&lt;/h2>
 &lt;br />
