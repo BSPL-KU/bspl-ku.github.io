@@ -50,13 +50,6 @@ I’m interested in developing brain-inspired RL algorithms and finding the corr
 
 <br> 
 
-### Sunghwan Lee (이성환)
-![LSH](//bspl.korea.ac.kr/image/bspl/LSH.png)  
-
-I am interested in deep learning and fine-tuning Large Language Model.
-
-<br> 
-
 ### Joung woo Choi (최정우)
 ![CJW](//bspl.korea.ac.kr/image/bspl/CJW.png)  
 
@@ -84,6 +77,13 @@ My research focuses on exploring the mechanisms of brain disorders using fMRI an
 ![PJY](//bspl.korea.ac.kr/image/bspl/PJY.png)
 
 I'm interested in analysis and diagnosis of depression using multimodal deep learning algorithms.
+
+<br> 
+
+### Sunghwan Lee (이성환)
+![LSH](//bspl.korea.ac.kr/image/bspl/LSH.png)  
+
+I am interested in deep learning and fine-tuning Large Language Model.
 
 <br />
 
