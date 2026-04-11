@@ -7,5 +7,8 @@ Our BBMI project was aired on KBS TV program, "The Secret of Birth, Aging, Illne
 
 KBS 생로병사의 비밀: 마음의 운동 명상
 
-![Image](//bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.mov) 
+![Video](//bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.mov) 
 
+<video width="100%" controls>
+  <source src="https://bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.mov" type="video/mp4">
+  </video>
