@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/</link><atom:link href="https://bspl.korea.ac.kr/index.xml" rel="self" type="application/rss+xml"/><description>Brain Signal Processing Lab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 BSPL</copyright><lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://bspl.korea.ac.kr/media/icon_hu746e86b219933ead05b970d8e60fbf48_161589_512x512_fill_lanczos_center_3.png</url><title>Brain Signal Processing Lab</title><link>https://bspl.korea.ac.kr/</link></image><item><title>Our BBMI project was aired on KBS TV program: The Secrets of Life, Aging, Sickness, and Death</title><link>https://bspl.korea.ac.kr/news/2026_04_08_bbmi_kbs_tv/</link><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2026_04_08_bbmi_kbs_tv/</guid><description>&lt;p>Our BBMI project was aired on KBS TV program, &amp;ldquo;The Secret of Birth, Aging, Illness, and Death&amp;rdquo;, Meditation: Exercise for the Mind.&lt;/p>
 &lt;p>KBS 생로병사의 비밀: 마음의 운동 명상&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.mov" alt="Video" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;!--
+![Video](//bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.mov)
+-->
 &lt;video width="100%" controls>
-&lt;source src="https://bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.mov" type="video/mp4">
+&lt;source src="https://bspl.korea.ac.kr/Board/Lab_News/2026/BRL/KBS_bbmi.m4v" type="video/mp4">
 &lt;/video></description></item><item><title>New research grant on Brain-Inspired AI</title><link>https://bspl.korea.ac.kr/news/2026_04_07_iitp_brain_ai_grant/</link><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate><guid>https://bspl.korea.ac.kr/news/2026_04_07_iitp_brain_ai_grant/</guid><description>&lt;p>Our consortium was awarded a new four-year grant, beginning in April 2026, from the Institute of Information &amp;amp; Communications Technology Planning &amp;amp; Evaluation (IITP), funded by the Korean government’s Ministry of Science and ICT (MSIT).&lt;/p>
 &lt;p>Subproject (2): Development of AI learning technologies based on neuroscience, cognitive science, and biological learning principles&lt;/p>
 &lt;p>세부 (2) 뇌 인지과학과 생물학적 학습 원리에 기반한 인공지능 학습 기술 개발&lt;/p>
