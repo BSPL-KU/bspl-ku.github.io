@@ -12,5 +12,5 @@ KBS 생로병사의 비밀: 마음의 운동 명상
 -->
 
 <video width="70%" controls>
-  <source src="https://bspl.korea.ac.kr/Board/Lab_News/2026/KBS_bbmi.m4v" type="video/mp4">
+  <source src="https://bspl.korea.ac.kr/Board/Lab_News/2026/KBS_bbmi.mov" type="video/mp4">
 </video>
