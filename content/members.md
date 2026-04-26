@@ -104,7 +104,7 @@ I am interested in deep learning and fine-tuning Large Language Model.
 ### Graduate students
 
 **Jinsoo Jeon (전진수), M.S., February/2025** <br>
-Currently researcher at Department of Psychology, Korea University
+Ph.D. candidate
 <!--
 ![JJS](//bspl.korea.ac.kr/image/bspl/JJS.png)
 
@@ -112,7 +112,7 @@ My research interest is emotion processing with deep-learning by combining multi
 -->
 
 **Juhyeon Lee (이주현), Ph.D., August/2024** <br>
-Currently postdoctoral researcher at KIST
+Postdoctoral researcher at KIST
 <!--
 ![LJH](//bspl.korea.ac.kr/image/bspl/Hailey.png)
 
@@ -120,27 +120,31 @@ I specialize in fMRI analysis and deep learning. My research focuses on two main
 -->
 
 **Sangsoo Jin (진상수), M.S., August/2024** <br>
+Samsung Electronics
 <!--
 ![JSS](//bspl.korea.ac.kr/image/bspl/JSS.png)
 I am interested in brain mechanisms of recognizing objects and learning complex behaviors. Current research aims are (1) designing a non-fMRI, web-based behavioral experimental framework, and (2) utilizing a VR-like environment to study reinforcement learnings in human participants. -->
 
 **SooHyun Jeon (전수현), M.S., Feb/2024** <br/>
-Currently Researcher at Brain and Cognitive Engineering Institute, Korea University
+Ph.D. candidate
 
 **JunDong Hwang (황준동), M.S., Aug/2023** <br/>
-Currently at Neurophet
+Neurophet
 
 **Minseok Choi (최민석), M.S., Feb/2023** <br/>
+OceansBio (오션스바이오)
 <!-- 
 ![CMS](//bspl.korea.ac.kr/image/bspl/CMS.png)
 My research interest is image signal processing with deep-learning and neuroplasticity algorithms for brain diseases with fMRI. -->
 
 **Yeji Kim (김예지), M.S., Feb/2023** <br/>
+LVIS(한국지사)
 <!--
 ![KYJ](//bspl.korea.ac.kr/image/bspl/KYJ.png)
 I am interested in behaviors and functional connectivity for individual differences. -->
 
 **Jinwoo Hong (홍진우), M.S., Aug/2022** <br/>
+AIRS Medical (에어스메디컬)
 <!-- 
 ![HJW](//bspl.korea.ac.kr/image/bspl/HJW.png) 
 My research interest is to help patients of mental disorders such as depression and schizophrenia by utilizing deep learning. -->
@@ -150,63 +154,60 @@ My research interest is to help patients of mental disorders such as depression 
 My researcher interest is neuroplasticity algorithms for brain diseases (stroke) with fmri. -->
 
 **Minyoung Jung, M.S., Aug/2021** <br />
+이모티브
 <!-- Currently job searching -->
 <!-- ![JMY](//bspl.korea.ac.kr/image/bspl/JMY.jpg)
 
 I'm interested in the relevance between brain and computational model expecting complementary insight on both domains. Mostly, I investigate visual information processing and utilize Deep Neural Networks(DNNs), especially CNNs, for the analysis. -->
 
 **Dong-Youl Kim, M.S. & Ph.D., Feb/2021** <br />
-Postdoctoral Fellow, Fralin Biomedical Research Institute at Virginia Tech Carilion
+Research Scientist, Fralin Biomedical Research Institute at Virginia Tech Carilion
 <!-- ![KDY](//bspl.korea.ac.kr/image/bspl/KDY.jpg)
 
 My previous researches were (1) to measure the features from the resting-state fMRI, (2) to examine the feasibility of modulating brain activation/connectivity via real-time fMRI neurofeedback on heavy smokers, and (3) to investigate where the brain regions are activated during the decision-making process depending on the reasoning orders. The current interest-of-researches are (1) to apply the real-time fMRI neurofeedback with a new framework to the diverse domain such as smoking addiction, social interaction, rehabilitation, and multimodality and (2) to evaluate the neuroimaging data using several methods such as GLM, ICA, RSA, MVPA, etc. -->
 
 **Niv Lustig, M.S., Aug/2020** <br />
-Currently job searching in Israel
+Voyage81
 
 **Sungman Jo, M.S., Aug/2020** <br />
-Currently Researcher at Brain Engineering Institute, Korea University
+Ph.D. candidate
 <!-- ### Sungman Jo (조성만)
 ![JSM](//bspl.korea.ac.kr/image/bspl/JSM.png)
 
 I am interested in observing the brain when vaping the E-cigarette through real-time fMRI. Through this study, I want to know brain regions responding to nicotine and how they are affected by nicotine. -->
 
 **Hyun-Chul Kim, Ph.D., Feb/2019** <br />
-Assistant Professor, Kyungpook National University
+Associate Professor, Department of AI, Kyungpook National University
 <!-- Research Fellow, Brigham and Women's Hospital, Harvard Medical School, Boston -->
 
 **DaWoon Heo, M.S. Feb/2018** <br />
-Researcher at KIST 
+Ph.D. candidate, Korea University
 
 **Wan-Joo Park, Ph. D., Aug/2016** <br />
-Currently Post-Doctoral Associate at Engineering Division, NYU Abu Dhabi
+Post-Doctoral Associate at Engineering Division, NYU Abu Dhabi
 
 **Hojin Jang, M.S. Aug/2016** <br />
-Currently Ph.D. candidate at Vanderbilt University  
+Assistant Professor, Department of Brain and Cognitive Engineering, Korea University 
 
 **Suji Kim, M.S. Aug/2016** <br />
-Currently working at a start-up 
+핀다
 
 **Junghoe Kim, Ph. D., Feb/2016** <br />
-Currently at the Samsung Electronics, Inc. 
+Director, Samsung Research, Russia 
 
 **Hojung Kang, M.S. Aug/2013** <br />
-Currently at the Korea Institute of Brain Science
+Korea Institute of Brain Science
 
 **Yong-Hwan Kim, M.S. Feb/2012** <br />
-Currently at the ASAN Medical Center 
+ASAN Medical Center 
 
 **Eun Kyung Jung, M.A.** <br />
-Completed Ph.D. coursework
 
 **Han-Gil Lee** <br />
-Completed MS coursework
 
 **Minkyung Oh** <br />
-Completed MS coursework
 
 **Wangwon Lee** <br />
-Completed MS coursework
 
 <br />
 
