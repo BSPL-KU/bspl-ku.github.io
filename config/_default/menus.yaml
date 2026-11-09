@@ -61,6 +61,9 @@ main:
   - name: Contact Us
     url: "/contact"
     weight: 70
+  - name: BBMI
+    url: "https://bbmi.korea.ac.kr/"
+    weight: 80
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
