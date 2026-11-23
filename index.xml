@@ -4423,10 +4423,10 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/li>
 &lt;li>&lt;a href="#ms-candidates">MS Candidates&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#chaelynn-kim-김채린">Chaelynn Kim (김채린)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#jiyun-park-박지윤">JiYun Park (박지윤)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#sunghwan-lee-이성환">Sunghwan Lee (이성환)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#guler-ayse-zeynep-zey">Guler Ayse Zeynep (ZEY)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#researchers">Researchers&lt;/a>&lt;/li>
@@ -4496,15 +4496,12 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;p>I am interested in developing multimodal signal processing methods to estimate physiological states such as respiration and cardiac activity from EEG, ECG, and camera-based sensing.&lt;/p>
 &lt;br />
 &lt;h2 id="ms-candidates">MS Candidates&lt;/h2>
-&lt;h3 id="minwoo-lee-이민우">Minwoo Lee (이민우)&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/LMW.png" alt="LMW" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>I am interested in identifying drowsiness patterns and enabling early detection during driving situations using physiological signals.&lt;/p>
+&lt;!--
+### Minwoo Lee (이민우)
+![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
+I am interested in identifying drowsiness patterns and enabling early detection during driving situations using physiological signals.
 &lt;br>
+-->
 &lt;h3 id="chaelynn-kim-김채린">Chaelynn Kim (김채린)&lt;/h3>
 &lt;p>
 &lt;figure >
@@ -4532,6 +4529,15 @@ BSPL 연구실은 실생활에 활용 가능한 비침습적인 뇌영상 측정
 &lt;/p>
 &lt;p>I am interested in deep learning and fine-tuning Large Language Model.&lt;/p>
 &lt;br />
+&lt;h3 id="guler-ayse-zeynep-zey">Guler Ayse Zeynep (ZEY)&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="//bspl.korea.ac.kr/image/bspl/ZEY.png" alt="ZEY" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>My research interests include machine learning, multimodal data analysis, and their applications in understanding mental health and brain function.&lt;/p>
+&lt;br>
 &lt;h2 id="researchers">Researchers&lt;/h2>
 &lt;br />
 &lt;h2 id="lab-manager">Lab Manager&lt;/h2>
