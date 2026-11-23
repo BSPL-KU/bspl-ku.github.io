@@ -59,12 +59,14 @@ I am interested in developing multimodal signal processing methods to estimate p
 
 ## MS Candidates
 
+<!--
 ### Minwoo Lee (이민우)
 ![LMW](//bspl.korea.ac.kr/image/bspl/LMW.png)
 
 I am interested in identifying drowsiness patterns and enabling early detection during driving situations using physiological signals.
 
 <br> 
+-->
 
 ### Chaelynn Kim (김채린)
 ![KCL](//bspl.korea.ac.kr/image/bspl/KCL.png)
@@ -87,6 +89,12 @@ I am interested in deep learning and fine-tuning Large Language Model.
 
 <br />
 
+### Guler Ayse Zeynep (ZEY)
+![ZEY](//bspl.korea.ac.kr/image/bspl/ZEY.png)
+
+My research interests include machine learning, multimodal data analysis, and their applications in understanding mental health and brain function.
+
+<br> 
 
 ## Researchers
 
